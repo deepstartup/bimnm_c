@@ -1,0 +1,1200 @@
+﻿ID,DrivingChildren,DOB,Age,HomeChildren,YearsOnJob,Income,SingleParent,HomeValue,MaritalStatus,Gender,Education,Occupation,TravelTime,CarUse,VehicleValue,TimeInForce,CarType,RedCar,TotalClaims5Years,ClaimsFrequency5Years,LicenseRevoked,VehiclePoints,ClaimsAmount,CarAge,ClaimsFlagCrash,CityPopulation
+63581743,0,3/16/1939,60,0,11,67349,No,0,No,M,PhD,Professional,14,Private,14230,11,Minivan,Yes,4461,2,No,3,0,18,No,Urban
+132761049,0,1/21/1956,43,0,11,91449,No,257252,No,M,High School,Blue Collar,22,Commercial,14940,1,Minivan,Yes,0,0,No,0,0,1,No,Urban
+921317019,0,11/18/1951,48,0,11,52881,No,0,No,M,Bachelors,Manager,26,Private,21970,1,Van,Yes,0,0,No,2,0,10,No,Urban
+727598473,0,3/5/1964,35,1,10,16039,No,124191,Yes,F,High School,Clerical,5,Private,4010,4,SUV,No,38690,2,No,3,0,10,No,Urban
+871024631,0,5/5/1965,34,1,12,125301,Yes,0,No,F,Bachelors,Blue Collar,46,Commercial,17430,1,Sports Car,No,0,0,No,0,2946,7,Yes,Urban
+792300541,0,2/28/1945,54,0,7,18755,No,0,Yes,F,High School,Blue Collar,33,Private,8780,1,SUV,No,0,0,No,0,0,1,No,Urban
+7945239,1,9/17/1959,40,1,11,50815,Yes,0,No,M,High School,Manager,21,Private,18930,6,Minivan,No,3295,1,No,2,6477,1,Yes,Urban
+3577610,0,8/21/1955,44,2,12,43486,Yes,0,No,F,High School,Blue Collar,30,Commercial,5900,10,SUV,No,0,0,No,0,0,10,No,Rural
+892208080,1,12/14/1961,37,2,10,107961,No,333680,Yes,M,Bachelors,Blue Collar,44,Commercial,16970,1,Van,Yes,2374,1,Yes,10,4021,7,Yes,Urban
+77382913,0,11/22/1964,34,0,10,62978,No,0,No,F,Bachelors,Clerical,34,Private,11200,1,SUV,No,0,0,No,0,2501,1,Yes,Urban
+856886560,0,10/22/1949,50,0,7,106952,No,0,No,M,Bachelors,Professional,48,Commercial,18510,7,Van,No,0,0,No,1,0,17,No,Rural
+308455362,0,12/25/1945,53,0,14,77100,No,0,No,F,Masters,Lawyer,15,Private,18300,1,Sports Car,No,0,0,No,0,6077,11,Yes,Urban
+989828809,0,6/19/1956,43,0,5,52642,No,209970,Yes,F,Masters,Professional,36,Private,22420,7,Minivan,No,0,0,No,0,0,1,No,Rural
+376482434,0,3/3/1944,55,0,11,59162,No,180232,Yes,M,Bachelors,Manager,25,Commercial,17600,7,Van,Yes,5028,2,Yes,3,0,9,No,Urban
+588888550,0,1/17/1954,45,0,0,0,No,106859,Yes,F,High School,Home Maker,48,Private,6000,1,SUV,No,0,0,No,3,2920,5,Yes,Urban
+140015922,0,8/6/1960,39,3,12,51884,Yes,180951,No,F,Bachelors,Clerical,43,Private,10590,6,SUV,No,0,0,No,0,0,13,No,Rural
+162166370,0,4/19/1940,59,0,12,87460,No,0,No,M,High School,Manager,45,Private,15420,1,Minivan,Yes,44857,2,No,4,4111,1,Yes,Urban
+884513944,0,12/20/1956,42,0,11,59945,No,192207,Yes,M,Masters,Lawyer,42,Private,14190,6,Minivan,No,0,0,No,0,0,16,No,Urban
+627708979,0,9/14/1965,34,3,13,34019,No,91875,Yes,F,Masters,Lawyer,27,Private,8300,7,SUV,No,0,0,No,0,0,20,No,Urban
+116375554,0,10/6/1968,31,2,12,18903,No,93797,Yes,F,High School,Clerical,48,Private,17330,4,Minivan,No,0,0,No,0,0,7,No,Urban
+235358484,0,2/22/1971,28,1,13,44077,No,170598,Yes,F,High School,Blue Collar,29,Commercial,8710,6,SUV,No,8935,2,No,0,6857,1,Yes,Urban
+528040687,0,2/7/1956,43,0,13,37214,No,0,Yes,M,High School,Blue Collar,52,Commercial,26560,1,Panel Truck,Yes,0,0,No,3,3627,1,Yes,Urban
+652572577,0,12/16/1950,48,0,14,96274,No,282904,Yes,F,Masters,Lawyer,36,Private,11130,6,SUV,No,8250,1,No,5,0,14,No,Urban
+410873772,0,7/24/1952,47,0,11,46281,No,0,No,F,High School,Blue Collar,29,Private,19700,10,Minivan,No,0,0,No,1,0,5,No,Urban
+254362485,2,7/6/1955,44,2,0,0,No,82344,Yes,F,High School,Home Maker,8,Private,5900,6,SUV,No,3338,3,No,0,0,11,No,Urban
+201327208,0,12/14/1938,60,0,12,37940,No,182739,Yes,F,High School,Blue Collar,16,Commercial,11290,1,Sports Car,No,0,0,No,0,5247,1,Yes,Urban
+573751437,0,12/14/1965,33,1,13,79606,No,225962,Yes,F,Bachelors,Professional,27,Private,16830,9,SUV,No,0,0,No,2,0,15,No,Rural
+483050926,0,4/17/1967,32,1,9,31275,No,118160,Yes,F,High School,Clerical,26,Private,10030,1,SUV,No,0,0,No,0,4486,1,Yes,Urban
+146989842,1,4/9/1955,44,2,17,45488,No,219378,Yes,M,Bachelors,Manager,16,Private,22090,17,Minivan,No,0,0,No,0,0,12,No,Urban
+742435591,0,4/5/1964,35,0,8,72193,No,0,No,F,Bachelors,Clerical,26,Private,12220,6,SUV,No,0,0,No,3,0,12,No,Urban
+66662029,0,2/14/1950,49,0,5,49244,No,163444,Yes,M,Bachelors,Clerical,30,Private,15880,1,Minivan,No,0,0,No,1,0,1,No,Urban
+294816298,2,8/3/1963,36,2,12,130540,Yes,344195,No,F,Bachelors,Blue Collar,5,Commercial,27200,4,Minivan,No,0,0,No,0,0,9,No,Rural
+686791659,0,5/7/1947,52,0,8,51278,No,230340,Yes,F,Bachelors,Professional,37,Private,1500,4,SUV,No,0,0,No,1,0,10,No,Urban
+396972296,0,7/26/1960,39,0,10,35081,No,202839,Yes,M,Bachelors,Blue Collar,38,Commercial,16640,4,Van,Yes,0,0,No,0,0,13,No,Urban
+364483168,0,4/9/1943,56,0,0,0,No,63827,Yes,F,PhD,Home Maker,65,Private,13220,1,Minivan,No,0,0,No,0,0,12,No,Rural
+866093378,0,3/7/1950,49,0,12,115044,No,311980,No,F,PhD,Doctor,18,Private,17900,1,Minivan,No,0,0,No,0,0,14,No,Urban
+515421877,0,5/30/1961,38,0,11,37754,No,138823,Yes,F,High School,Clerical,47,Private,12080,1,SUV,No,0,0,No,2,0,9,No,Rural
+745183922,0,6/30/1949,50,0,8,167469,No,0,No,F,PhD,Doctor,22,Private,34150,4,Sports Car,No,0,0,No,3,0,1,No,Urban
+298271736,0,11/4/1936,63,0,15,121398,No,343410,Yes,F,PhD,Doctor,10,Private,16270,1,SUV,No,0,0,No,0,0,11,No,Urban
+70821537,0,8/12/1947,52,0,0,0,No,87925,No,F,High School,Student,48,Commercial,9280,1,SUV,No,0,0,No,1,0,6,No,Rural
+258951025,0,10/24/1964,35,0,7,14508,No,0,Yes,M,Bachelors,Student,22,Commercial,6450,1,Pickup,No,0,0,No,0,0,7,No,Urban
+807174588,0,11/16/1956,43,0,13,75338,No,270555,Yes,F,Bachelors,Manager,40,Private,23080,1,Sports Car,No,0,0,No,0,0,8,No,Urban
+514538041,0,10/6/1958,41,0,10,32774,No,0,No,F,High School,Clerical,44,Private,20120,4,Minivan,No,0,0,No,0,0,1,No,Rural
+25561360,0,4/8/1959,40,0,11,57474,No,186418,Yes,M,Bachelors,Clerical,5,Commercial,29270,4,Panel Truck,Yes,0,0,No,1,0,5,No,Urban
+753037176,0,8/7/1968,31,1,12,26520,No,154493,Yes,M,Bachelors,Student,62,Commercial,4600,6,Minivan,Yes,0,0,No,2,0,5,No,Urban
+31827166,0,1/6/1946,53,0,17,107259,No,343700,Yes,M,Masters,Professional,36,Private,29230,10,Minivan,Yes,0,0,No,0,0,15,No,Urban
+680782638,0,6/5/1960,39,3,7,34046,No,183383,Yes,F,High School,Clerical,33,Private,4040,6,SUV,No,0,0,No,0,0,5,No,Rural
+883604551,0,5/20/1966,33,3,14,32364,No,152894,Yes,M,High School,Clerical,40,Private,12270,18,Minivan,Yes,0,0,No,3,0,1,No,Urban
+885280620,0,4/26/1959,40,0,11,16989,No,0,No,M,High School,Blue Collar,20,Commercial,12230,4,Pickup,Yes,26104,1,Yes,13,6100,6,Yes,Urban
+931739722,0,7/15/1958,41,2,7,17755,Yes,148815,No,F,High School,Clerical,29,Private,14480,1,Minivan,Yes,0,0,Yes,2,0,1,No,Urban
+840809480,0,6/29/1963,36,3,12,56048,No,137836,Yes,M,Masters,Lawyer,15,Private,10700,6,Minivan,No,2045,2,No,2,0,16,No,Urban
+800426023,0,12/2/1954,44,2,15,16352,No,134164,Yes,F,High School,Home Maker,37,Private,10520,1,SUV,No,7838,1,No,1,8841,1,Yes,Urban
+14827139,0,2/7/1943,56,0,16,44760,No,164852,Yes,M,Bachelors,Manager,30,Private,21770,13,Minivan,Yes,0,0,No,0,0,6,No,Urban
+212687745,1,12/30/1953,45,1,14,63952,No,196368,Yes,F,Masters,Lawyer,50,Private,32340,6,Van,No,27877,2,Yes,0,2117,13,Yes,Urban
+224701093,0,4/16/1965,34,3,12,22510,No,123888,Yes,M,High School,Clerical,26,Private,14690,4,Minivan,Yes,0,0,Yes,0,1230,1,Yes,Rural
+926073051,1,10/12/1955,44,2,47,24060,Yes,0,No,M,Bachelors,Clerical,24,Private,14220,4,Minivan,No,0,0,No,0,3532,10,Yes,Urban
+45830738,0,7/25/1966,33,4,12,20822,No,76022,Yes,F,High School,Home Maker,46,Private,6880,13,SUV,No,7896,3,No,0,866,1,Yes,Urban
+997497927,0,12/6/1966,32,3,14,54968,No,146784,Yes,F,High School,Professional,20,Private,10040,4,SUV,No,0,0,Yes,0,0,8,No,Urban
+862203239,0,10/20/1965,34,0,8,14194,No,87034,No,F,High School,Clerical,13,Private,2920,4,Sports Car,No,24767,3,Yes,2,7786,10,Yes,Urban
+116102677,1,11/6/1961,38,4,12,2149,No,72889,Yes,F,High School,Home Maker,35,Private,22690,10,Pickup,No,0,0,No,2,0,1,No,Urban
+62434528,2,5/10/1956,43,3,11,137103,Yes,0,No,F,Masters,Manager,29,Private,19510,1,Sports Car,No,8890,3,No,0,4148,15,Yes,Urban
+948288985,0,10/25/1953,46,0,10,79538,No,0,No,F,Bachelors,Manager,13,Private,14050,3,Minivan,No,0,0,Yes,2,0,11,No,Urban
+396323054,0,12/3/1953,45,1,11,185836,No,509115,Yes,F,PhD,Lawyer,28,Private,10250,1,SUV,No,4307,3,No,6,0,20,No,Urban
+429992959,0,9/16/1936,63,0,9,74426,No,0,No,F,PhD,Doctor,11,Private,27600,1,SUV,No,0,0,No,0,0,18,No,Urban
+160577728,0,2/18/1955,44,0,9,74722,No,231034,Yes,F,Bachelors,Professional,9,Private,23640,6,Minivan,No,0,0,No,0,0,1,No,Urban
+108385737,1,3/7/1954,45,2,11,102393,Yes,0,No,M,Bachelors,Professional,25,Private,1500,1,Minivan,Yes,0,0,No,2,2371,11,Yes,Urban
+414142186,0,9/17/1937,62,0,15,40656,No,208242,Yes,F,High School,Clerical,57,Private,9170,4,Sports Car,No,42342,2,Yes,2,4178,7,Yes,Urban
+537840281,0,8/27/1964,35,0,5,29371,No,0,No,F,High School,Clerical,49,Private,4860,10,Sports Car,No,0,0,No,0,0,1,No,Urban
+748139140,0,8/13/1951,48,0,12,31773,No,165090,Yes,M,High School,Clerical,14,Commercial,9640,13,Pickup,No,1212,1,No,4,1354,1,Yes,Urban
+601118153,0,12/26/1959,39,0,11,33727,No,0,No,F,Bachelors,Clerical,27,Private,10850,1,SUV,No,8350,1,No,2,0,12,No,Urban
+808304017,0,5/30/1950,49,0,0,0,No,159389,Yes,F,Masters,Professional,42,Private,6400,10,SUV,No,9115,1,No,6,0,14,No,Urban
+803325269,0,7/24/1955,44,2,15,139330,Yes,316900,No,F,High School,Blue Collar,35,Commercial,22050,10,Sports Car,No,0,0,No,0,0,1,No,Rural
+701235200,0,12/22/1948,50,0,13,163296,No,447616,No,F,PhD,Lawyer,42,Private,22830,1,Minivan,No,0,0,No,0,0,14,No,Rural
+916609661,0,10/3/1969,30,1,10,17455,Yes,140978,No,F,High School,Blue Collar,50,Private,12380,13,Minivan,No,0,0,No,0,0,6,No,Rural
+469714824,0,11/3/1945,54,0,61,71007,No,240833,Yes,M,Bachelors,Manager,61,Private,14000,6,Minivan,No,0,0,No,0,0,11,No,Urban
+46606719,0,9/6/1961,38,0,0,0,No,0,Yes,M,High School,Student,41,Commercial,17470,10,Van,No,3157,2,No,5,0,6,No,Rural
+454040458,0,4/9/1946,53,0,6,38036,No,153381,Yes,F,High School,Blue Collar,32,Commercial,13140,1,SUV,No,0,0,No,4,2425,1,Yes,Urban
+951246359,0,3/30/1946,53,0,13,41199,No,150933,No,F,Bachelors,Manager,21,Private,15360,1,SUV,No,0,0,No,0,0,8,No,Urban
+389315422,0,11/28/1969,29,1,10,38042,Yes,202967,No,M,High School,Professional,15,Private,15160,6,Minivan,No,0,0,No,0,0,1,No,Urban
+184578161,0,7/25/1944,55,0,7,45787,No,173196,Yes,F,Masters,Lawyer,5,Private,19380,6,Minivan,No,0,0,No,0,0,13,No,Urban
+59798468,0,9/17/1944,55,0,18,84964,No,227091,Yes,M,Bachelors,Blue Collar,21,Commercial,5760,1,Pickup,Yes,969,2,No,6,0,11,No,Urban
+402443529,0,12/20/1959,39,2,0,0,No,69369,Yes,F,High School,Home Maker,36,Private,8750,4,Sports Car,No,0,0,No,0,0,8,No,Urban
+298667574,2,6/26/1955,44,2,13,142588,No,365256,Yes,M,Masters,Manager,28,Private,21790,6,Minivan,Yes,0,0,No,2,0,9,No,Urban
+303462460,0,5/13/1965,34,0,11,51565,No,0,No,M,Masters,Lawyer,36,Private,18110,1,Van,Yes,759,2,No,3,0,15,No,Urban
+629946797,0,8/8/1965,34,3,0,0,No,66358,Yes,F,High School,Home Maker,25,Private,11740,9,SUV,No,1800,2,No,2,5711,1,Yes,Urban
+783473090,0,1/6/1963,36,0,11,105384,No,267509,Yes,M,Masters,Professional,24,Private,13800,7,Minivan,Yes,31695,3,Yes,4,0,17,No,Urban
+8565171,0,10/13/1958,41,0,10,66265,No,159276,Yes,M,Masters,Lawyer,59,Private,12230,4,Minivan,Yes,0,0,No,1,13105,9,Yes,Urban
+867703916,0,3/8/1954,45,0,12,32394,No,0,No,F,High School,Clerical,33,Private,13770,4,SUV,No,0,0,No,0,0,1,No,Urban
+593582812,0,7/31/1957,42,0,9,76226,No,217920,Yes,M,Bachelors,Blue Collar,18,Commercial,23390,13,Panel Truck,Yes,0,0,No,0,0,14,No,Urban
+22340563,1,5/25/1961,38,3,16,7528,No,113809,Yes,M,High School,Clerical,26,Private,8080,1,Pickup,Yes,0,0,No,0,0,8,No,Rural
+679555193,0,2/16/1966,33,4,0,0,Yes,0,No,M,High School,Student,14,Commercial,15090,1,Minivan,Yes,1631,1,No,2,7838,5,Yes,Urban
+700623278,1,1/5/1957,42,1,9,32797,No,160661,Yes,F,Masters,Lawyer,63,Private,21690,1,Minivan,No,0,0,No,2,0,14,No,Urban
+755810990,0,11/20/1951,47,0,11,44705,No,217885,Yes,F,Bachelors,Professional,50,Private,12840,1,SUV,No,1533,2,No,0,5125,10,Yes,Urban
+464090162,0,11/11/1956,43,1,0,0,No,70170,Yes,F,Bachelors,Home Maker,26,Private,8350,1,SUV,No,0,0,No,3,0,7,No,Urban
+170483243,0,6/6/1947,52,0,9,68992,No,216986,No,F,Bachelors,Blue Collar,36,Commercial,15120,1,Minivan,No,0,0,No,3,0,10,No,Rural
+421316364,0,10/8/1956,43,0,11,132561,No,314433,No,M,Masters,Professional,8,Commercial,30150,16,Panel Truck,No,12294,1,No,0,0,1,No,Urban
+505563410,0,1/6/1935,64,0,15,31738,No,197010,Yes,M,High School,Blue Collar,23,Commercial,14620,6,SUV,No,3994,2,No,0,5085,1,Yes,Urban
+813759954,0,1/21/1933,66,1,17,96830,No,325826,Yes,M,Masters,Professional,23,Private,11180,7,SUV,No,0,0,No,0,0,16,No,Urban
+130470336,2,12/8/1963,35,4,6,154577,Yes,397868,No,F,Bachelors,Blue Collar,27,Private,20450,6,SUV,No,4645,1,No,3,0,1,No,Urban
+637739719,0,4/23/1947,52,0,7,64014,No,244863,Yes,M,High School,Blue Collar,33,Commercial,7900,4,Pickup,Yes,8882,3,No,1,2143,5,Yes,Urban
+427956603,0,9/11/1947,52,0,11,79348,No,270032,Yes,F,High School,Manager,23,Private,13150,11,SUV,No,0,0,No,2,0,1,No,Urban
+765577228,0,5/8/1944,55,0,15,108152,No,329756,Yes,F,Masters,Manager,18,Private,12320,1,SUV,No,0,0,Yes,0,0,15,No,Urban
+106556153,0,3/4/1973,26,0,8,53244,No,0,No,M,Bachelors,Professional,28,Commercial,20920,3,Van,Yes,6224,1,No,1,4028,8,Yes,Urban
+199037688,1,9/5/1938,61,2,17,41857,No,169015,Yes,F,Masters,Manager,35,Private,20870,1,Sports Car,No,0,0,No,0,0,21,No,Urban
+602893924,0,10/22/1958,41,1,8,126468,Yes,0,No,F,Masters,Manager,34,Commercial,32690,3,Pickup,No,0,0,No,2,2114,18,Yes,Urban
+52095937,3,6/19/1959,40,3,9,75516,No,247673,Yes,F,High School,Blue Collar,53,Commercial,13050,5,Sports Car,No,0,0,Yes,0,0,6,No,Rural
+351243985,0,3/6/1947,52,0,16,76954,No,249290,No,M,Bachelors,Professional,44,Private,19540,6,Minivan,Yes,0,0,Yes,0,0,11,No,Urban
+838970447,0,7/29/1941,58,1,8,150352,No,421665,Yes,F,Masters,Manager,21,Private,24240,6,Pickup,No,0,0,No,0,0,17,No,Urban
+515204929,0,1/20/1947,52,0,8,88560,No,244028,Yes,M,Masters,Lawyer,14,Private,13630,1,Minivan,No,0,0,No,4,0,17,No,Urban
+711833264,1,4/25/1961,38,1,12,37580,No,173495,Yes,F,High School,Clerical,36,Private,5260,7,SUV,No,867,2,No,0,8671,1,Yes,Urban
+818910510,0,4/8/1958,41,2,15,23344,No,147172,Yes,M,High School,Blue Collar,10,Private,7930,1,Pickup,No,0,0,No,1,6287,1,Yes,Urban
+243016778,0,1/20/1962,37,0,16,43290,No,158771,Yes,F,Bachelors,Blue Collar,29,Private,23640,1,SUV,No,0,0,No,0,0,10,No,Urban
+456565450,0,11/22/1950,48,0,10,48737,No,220264,Yes,M,Bachelors,Manager,24,Private,11220,9,Pickup,Yes,0,0,No,1,0,1,No,Urban
+693628088,0,1/16/1952,47,0,12,64259,No,202031,Yes,M,High School,Clerical,26,Private,25100,18,Minivan,No,9526,4,No,3,0,9,No,Urban
+504537312,0,3/17/1950,49,0,12,53765,No,0,No,F,Bachelors,Professional,5,Private,12360,4,SUV,No,0,0,No,0,0,1,No,Urban
+82973186,0,7/5/1958,41,0,6,12541,No,0,No,M,High School,Clerical,5,Private,7500,1,Minivan,Yes,0,0,No,0,0,1,No,Rural
+411375726,0,4/5/1955,44,1,17,67278,No,220556,Yes,F,Masters,Lawyer,49,Private,20210,1,Minivan,No,0,0,No,0,0,16,No,Rural
+789568994,0,6/16/1953,46,0,10,104990,No,306540,No,F,Bachelors,Professional,40,Private,16080,13,SUV,No,0,0,No,0,0,7,No,Urban
+927823143,0,1/2/1950,49,0,6,89948,No,0,No,F,Bachelors,Professional,37,Private,18160,7,SUV,No,0,0,No,4,0,9,No,Urban
+179968769,0,12/3/1936,62,0,6,107734,No,0,No,F,PhD,Lawyer,54,Private,18470,3,SUV,No,0,0,No,0,0,15,No,Urban
+180832267,0,1/18/1957,42,0,0,0,No,0,No,M,High School,Student,47,Commercial,5700,11,Pickup,Yes,0,0,No,5,10594,1,Yes,Urban
+328154114,0,8/20/1963,36,2,12,25282,Yes,0,No,F,High School,Clerical,38,Private,11160,1,SUV,No,0,0,No,0,0,1,No,Rural
+316724150,0,12/24/1951,47,0,11,18549,No,116136,Yes,M,Masters,Lawyer,24,Private,12800,7,Minivan,No,0,0,No,0,0,14,No,Urban
+680425927,0,2/7/1948,51,0,9,50166,No,187297,No,M,High School,Blue Collar,32,Commercial,11620,1,Pickup,No,50701,3,Yes,0,0,1,No,Urban
+541204921,0,9/8/1953,46,0,8,73872,No,245878,Yes,F,Masters,Lawyer,43,Private,20240,4,Sports Car,No,0,0,No,0,0,16,No,Rural
+329922821,0,2/18/1949,50,0,14,73343,No,254600,Yes,F,High School,Manager,60,Private,20010,1,Minivan,No,4179,2,No,4,0,8,No,Urban
+271813109,0,9/18/1956,43,2,15,49849,Yes,0,No,F,Masters,Lawyer,35,Private,13130,1,SUV,No,3622,3,No,4,6158,20,Yes,Urban
+394642738,1,2/28/1960,39,1,16,12054,No,0,Yes,F,High School,Student,28,Commercial,15760,4,Pickup,No,1738,2,Yes,4,4887,1,Yes,Urban
+93412915,0,7/3/1956,43,3,14,48184,No,209188,Yes,F,High School,Blue Collar,50,Commercial,14530,12,Sports Car,No,6891,2,No,5,0,1,No,Urban
+531912267,0,3/13/1939,60,3,18,78936,No,235670,Yes,F,Masters,Lawyer,40,Private,20350,6,SUV,No,0,0,No,0,5147,15,Yes,Urban
+753941980,0,3/7/1944,55,0,0,0,No,0,No,M,High School,Student,33,Private,7000,4,Pickup,No,0,0,No,0,0,1,No,Rural
+116801717,0,5/21/1959,40,0,10,78914,No,229055,No,F,Bachelors,Manager,36,Private,5500,10,SUV,No,6803,2,No,6,0,10,No,Urban
+56874449,0,4/28/1960,39,0,6,77125,No,210840,Yes,F,Bachelors,Clerical,49,Private,9570,7,Sports Car,No,0,0,No,1,0,13,No,Urban
+426760177,0,12/18/1949,49,0,46,38326,No,133010,Yes,M,Masters,Lawyer,5,Private,10230,4,Pickup,Yes,0,0,No,0,0,17,No,Urban
+632192290,0,10/27/1961,38,0,14,25835,No,109685,Yes,M,High School,Clerical,29,Private,8490,6,Pickup,Yes,0,0,No,1,0,12,No,Urban
+293412653,0,11/8/1957,42,0,12,47660,No,180206,Yes,M,Masters,Professional,31,Private,11940,7,Pickup,Yes,974,2,No,6,0,18,No,Urban
+285566265,0,3/5/1957,42,0,10,123143,No,306368,No,F,Masters,Manager,16,Private,24930,4,Minivan,No,0,0,No,3,0,14,No,Urban
+461573915,0,2/4/1950,49,0,8,22059,No,123924,Yes,F,High School,Clerical,24,Commercial,21990,11,Pickup,No,0,0,No,1,0,1,No,Urban
+735267214,1,8/4/1963,36,1,12,50750,Yes,0,No,F,Masters,Manager,26,Private,10170,7,SUV,No,5877,3,No,7,0,14,No,Urban
+225215551,0,5/18/1965,34,1,10,23571,Yes,0,No,M,High School,Clerical,35,Commercial,12180,7,Pickup,Yes,0,0,No,0,0,7,No,Urban
+715988300,0,9/23/1950,49,0,0,0,No,79913,Yes,F,PhD,Home Maker,29,Private,18110,7,SUV,No,0,0,No,1,0,1,No,Urban
+473135731,0,1/9/1947,52,0,12,35631,No,155972,Yes,M,High School,Clerical,39,Private,6040,10,Minivan,Yes,0,0,No,0,0,1,No,Urban
+683378483,0,5/16/1944,55,0,14,55409,No,162237,Yes,M,Bachelors,Blue Collar,45,Commercial,27890,4,Panel Truck,No,0,0,No,0,0,14,No,Rural
+986629118,1,1/14/1959,40,2,12,35260,No,141167,Yes,F,High School,Blue Collar,30,Private,9740,7,SUV,No,2235,1,No,8,0,1,No,Urban
+925227514,0,11/23/1958,40,4,15,48067,Yes,186025,No,F,Bachelors,Clerical,21,Private,18120,8,Minivan,No,0,0,No,0,0,8,No,Urban
+437239046,0,3/16/1954,45,2,12,64867,No,210631,Yes,F,Masters,Lawyer,21,Private,12490,1,SUV,No,0,0,No,0,0,10,No,Urban
+493235037,0,7/4/1919,80,2,23,97716,No,389344,Yes,M,Bachelors,Professional,14,Private,15920,13,Minivan,Yes,0,0,No,2,0,10,No,Urban
+503906420,0,4/3/1951,48,0,10,39613,No,159534,Yes,M,High School,Blue Collar,48,Commercial,8460,10,Pickup,Yes,7437,2,No,6,0,1,No,Urban
+384628643,0,10/21/1959,40,0,11,49780,No,0,No,F,High School,Clerical,52,Private,10500,6,Sports Car,No,0,0,No,0,0,1,No,Rural
+919341680,0,1/12/1973,26,3,9,33283,No,104323,Yes,M,Bachelors,Blue Collar,37,Commercial,7690,10,Pickup,No,0,0,No,2,2214,16,Yes,Urban
+122722410,0,10/4/1954,45,0,11,60845,No,0,No,F,Bachelors,Manager,31,Private,24260,4,Minivan,No,0,0,No,0,0,18,No,Urban
+138562850,0,2/5/1953,46,0,7,26697,No,134863,Yes,F,High School,Clerical,43,Private,15080,6,SUV,No,0,0,Yes,4,0,1,No,Urban
+582602737,0,1/14/1957,42,0,12,136344,No,0,No,F,PhD,Doctor,45,Private,13160,1,Sports Car,No,0,0,No,0,6087,17,Yes,Urban
+349219108,0,10/19/1963,36,0,7,70313,No,211506,Yes,F,Bachelors,Professional,55,Private,14960,6,Minivan,No,7650,3,No,5,0,4,No,Urban
+197076194,0,7/4/1954,45,3,15,23773,Yes,0,No,F,High School,Home Maker,9,Commercial,34510,7,Van,No,0,0,No,0,0,1,No,Rural
+751811972,0,10/23/1947,52,0,11,115713,No,327167,No,F,Bachelors,Professional,28,Private,21660,6,Sports Car,No,0,0,No,0,0,11,No,Rural
+345771306,0,9/13/1958,41,0,8,55364,No,0,No,M,High School,Clerical,17,Commercial,31390,1,Panel Truck,Yes,0,0,No,3,0,1,No,Rural
+164734443,0,6/23/1963,36,0,14,27693,No,130324,Yes,F,High School,Clerical,37,Private,11300,10,Sports Car,No,19385,1,No,4,0,7,No,Urban
+449363369,0,3/31/1943,56,0,0,0,No,103058,Yes,F,Bachelors,Home Maker,29,Private,27890,13,SUV,No,25147,2,No,0,0,9,No,Urban
+699382604,1,4/25/1946,53,1,0,0,No,0,Yes,F,High School,Student,34,Private,1500,10,Sports Car,No,1175,3,No,2,0,7,No,Rural
+270402636,0,1/6/1960,39,0,12,32936,No,169721,No,F,High School,Clerical,12,Private,1500,6,SUV,No,0,0,No,0,3894,7,Yes,Urban
+847568213,0,9/8/1961,38,0,11,33151,No,184852,Yes,F,Bachelors,Professional,31,Private,11530,13,SUV,No,0,0,No,0,0,9,No,Rural
+581342206,1,6/18/1954,45,3,0,0,Yes,0,No,M,High School,Home Maker,36,Private,16510,4,Minivan,No,17445,3,Yes,0,2659,1,Yes,Urban
+586056136,0,10/16/1953,46,0,14,24575,No,176282,Yes,F,High School,Home Maker,73,Private,8560,10,Sports Car,No,0,0,No,0,0,9,No,Rural
+621465072,0,2/9/1956,43,2,16,32546,No,200891,Yes,M,High School,Clerical,49,Private,5800,10,Minivan,Yes,0,0,No,1,0,5,No,Urban
+658489952,1,2/11/1945,54,1,0,0,Yes,0,No,F,Bachelors,Home Maker,21,Private,18820,6,SUV,No,5537,1,No,6,0,9,No,Urban
+159680310,0,10/20/1938,61,0,10,58212,No,226638,Yes,F,High School,Blue Collar,37,Private,13420,1,Sports Car,No,3573,3,No,3,0,1,No,Rural
+444239590,0,7/26/1949,50,0,7,73308,No,240645,No,M,Masters,Lawyer,38,Private,18720,7,Van,No,0,0,No,2,0,19,No,Rural
+34434267,0,12/20/1936,62,0,12,22181,No,185459,No,F,High School,Clerical,24,Private,17880,7,Sports Car,No,9873,3,No,5,3705,1,Yes,Urban
+416505182,0,9/7/1946,53,0,15,84345,No,264549,Yes,F,Bachelors,Manager,36,Private,9930,4,SUV,No,0,0,No,3,6693,5,Yes,Urban
+930929206,0,7/24/1945,54,0,15,107808,No,278940,Yes,F,Bachelors,Manager,45,Commercial,27020,7,Pickup,No,1780,3,No,0,0,6,No,Urban
+23391155,0,2/19/1946,53,1,13,52759,No,164906,Yes,F,Bachelors,Professional,41,Private,24160,9,Minivan,No,0,0,No,0,0,13,No,Rural
+391760011,0,7/1/1960,39,2,12,59685,No,197089,Yes,M,High School,Blue Collar,42,Commercial,7470,7,Pickup,No,0,0,No,0,0,1,No,Rural
+987326546,0,12/8/1960,38,0,12,90647,No,251629,Yes,F,Masters,Lawyer,38,Private,13740,4,Minivan,No,8450,1,No,0,0,15,No,Rural
+381161377,0,7/9/1957,42,0,10,43174,No,208811,No,M,High School,Blue Collar,48,Commercial,10020,13,Pickup,Yes,0,0,No,0,4380,1,Yes,Urban
+382476479,0,8/29/1968,31,2,14,30653,Yes,0,No,F,High School,Clerical,41,Private,12930,13,Sports Car,No,35666,2,Yes,0,1826,7,Yes,Urban
+754620325,0,5/13/1958,41,2,0,0,Yes,54130,No,F,Masters,Home Maker,18,Private,32090,6,Minivan,No,0,0,No,0,0,17,No,Rural
+940500522,0,11/12/1951,48,1,10,84629,No,308848,Yes,F,Bachelors,Manager,35,Private,15060,7,SUV,No,9592,1,No,0,0,10,No,Urban
+934739805,0,6/18/1950,49,0,13,59148,No,162428,Yes,F,High School,Professional,18,Private,12310,1,SUV,No,8948,1,No,0,0,1,No,Urban
+819642529,1,11/28/1953,45,2,17,111268,No,288071,Yes,F,Masters,Lawyer,46,Private,24600,1,Van,No,28026,2,Yes,2,4644,10,Yes,Urban
+810723697,0,9/8/1952,47,0,10,81899,No,232928,No,M,High School,Professional,25,Private,14390,1,Minivan,Yes,0,0,No,0,0,1,No,Urban
+457987162,0,3/16/1958,41,0,10,97700,No,0,No,F,Bachelors,Home Maker,43,Private,26250,8,Pickup,No,0,0,No,0,0,6,No,Rural
+601891328,0,6/22/1954,45,3,23,1158,No,0,Yes,F,High School,Student,10,Commercial,6120,10,SUV,No,0,0,No,0,0,1,No,Rural
+62418137,0,5/21/1946,53,0,15,114088,No,306745,Yes,F,High School,Manager,25,Private,22920,10,Pickup,No,0,0,No,0,0,8,No,Urban
+312200998,0,5/24/1948,51,0,13,80621,No,256152,Yes,F,High School,Professional,27,Private,25700,1,Van,No,0,0,No,0,0,1,No,Urban
+441643202,0,8/2/1948,51,1,12,94328,No,327651,Yes,F,Masters,Lawyer,44,Private,6900,3,Sports Car,No,0,0,No,0,0,1,No,Urban
+58776285,0,2/28/1946,53,0,13,25289,No,108139,Yes,F,High School,Home Maker,31,Private,13850,1,SUV,No,0,0,No,0,4257,7,Yes,Urban
+321756880,0,4/22/1968,31,3,14,26112,No,117229,Yes,F,High School,Clerical,58,Private,14030,3,SUV,No,0,0,No,0,4277,5,Yes,Rural
+720467228,0,8/23/1967,32,3,13,30955,Yes,111256,No,F,High School,Clerical,9,Private,7800,4,SUV,No,0,0,Yes,0,2832,8,Yes,Urban
+272574318,0,11/21/1940,58,0,12,131560,No,0,No,F,PhD,Doctor,40,Private,14870,1,SUV,No,0,0,No,2,19597,14,Yes,Urban
+170341954,0,8/29/1950,49,1,15,89612,No,261946,Yes,M,Masters,Professional,23,Commercial,6400,10,Pickup,Yes,0,0,No,0,0,23,No,Urban
+589266751,0,3/8/1949,50,0,14,90566,No,295771,No,F,Masters,Lawyer,40,Private,23260,17,Van,No,0,0,No,0,0,18,No,Urban
+82438997,0,12/14/1953,45,2,12,62447,Yes,203472,No,M,High School,Blue Collar,39,Commercial,12240,7,Minivan,Yes,0,0,No,0,0,1,No,Urban
+290532681,0,3/6/1953,46,0,5,108701,No,337340,Yes,F,Masters,Manager,39,Private,12070,3,SUV,No,0,0,No,0,0,17,No,Urban
+775565803,0,8/1/1952,47,0,12,94774,No,254197,No,M,High School,Manager,43,Commercial,21070,1,Van,No,3460,1,No,1,0,13,No,Urban
+406716758,1,12/28/1955,43,2,16,72357,No,288115,Yes,M,Bachelors,Blue Collar,40,Commercial,23190,1,Minivan,Yes,0,0,No,0,0,7,No,Urban
+75059545,0,9/2/1958,41,0,12,80718,No,0,No,F,Bachelors,Professional,29,Private,26480,11,Sports Car,No,8623,3,No,5,0,8,No,Urban
+92266258,0,5/5/1960,39,0,11,19016,No,173712,No,M,High School,Professional,22,Commercial,10950,13,Pickup,Yes,0,0,No,0,0,8,No,Rural
+968152368,0,10/22/1950,49,0,0,0,No,0,No,F,High School,Home Maker,55,Private,19810,7,Minivan,No,0,0,No,1,0,1,No,Rural
+320606745,0,4/22/1954,45,0,63,19909,No,130331,Yes,F,High School,Clerical,14,Private,7990,1,Sports Car,No,0,0,No,0,0,1,No,Urban
+484098012,1,11/17/1940,59,1,12,119382,Yes,0,No,F,Masters,Manager,26,Commercial,24130,13,Pickup,No,0,0,No,0,2738,16,Yes,Urban
+334788395,0,6/2/1954,45,2,13,36947,No,165094,Yes,F,High School,Clerical,32,Private,6200,6,SUV,No,0,0,No,0,0,1,No,Urban
+645904097,0,9/1/1965,34,2,13,27581,Yes,0,No,M,High School,Blue Collar,38,Commercial,12250,4,Minivan,Yes,0,0,No,6,0,5,No,Rural
+330583611,0,10/29/1966,33,1,11,86187,Yes,241285,No,M,Bachelors,Professional,81,Private,13420,17,Minivan,No,0,0,No,1,0,5,No,Rural
+469933313,0,4/21/1947,52,0,12,42255,No,0,No,M,High School,Blue Collar,61,Commercial,22280,3,Minivan,No,0,0,No,1,0,12,No,Urban
+729998807,0,6/30/1946,53,0,13,37646,No,0,Yes,F,High School,Clerical,19,Private,16020,4,SUV,No,7462,2,No,0,0,10,No,Urban
+160311489,0,6/23/1962,37,0,11,116043,No,0,No,F,Bachelors,Home Maker,40,Private,16800,17,SUV,No,0,0,No,3,0,9,No,Urban
+13754425,0,8/1/1954,45,2,14,89479,No,239934,Yes,M,Bachelors,Manager,30,Private,14950,10,Minivan,Yes,0,0,No,0,0,8,No,Urban
+314329596,0,12/22/1960,38,0,8,92917,No,0,No,M,Bachelors,Professional,57,Private,15120,1,Minivan,Yes,722,3,No,0,0,4,No,Rural
+119788926,0,6/25/1963,36,3,7,29741,Yes,0,No,F,High School,Clerical,32,Private,8070,6,SUV,No,2797,2,No,0,0,7,No,Urban
+335706802,0,12/26/1947,51,0,12,3673,No,120377,Yes,M,High School,Student,5,Commercial,11180,10,Pickup,No,0,0,No,0,0,1,No,Rural
+196318853,1,3/1/1960,39,2,15,61370,Yes,0,No,M,Masters,Manager,6,Commercial,21770,6,Van,Yes,35577,3,Yes,0,4658,12,Yes,Urban
+944419063,0,1/3/1948,51,0,13,32159,No,195096,No,F,High School,Blue Collar,46,Private,2600,6,SUV,No,0,0,Yes,2,0,6,No,Rural
+870743869,2,8/14/1959,40,3,14,20126,Yes,138444,No,F,High School,Blue Collar,5,Private,8260,6,SUV,No,0,0,No,0,0,1,No,Urban
+17880810,0,8/20/1945,54,0,11,44782,No,148676,No,F,High School,Clerical,83,Private,30260,3,SUV,No,0,0,No,0,5259,9,Yes,Urban
+645000039,0,12/23/1964,34,4,14,59828,Yes,0,No,F,Bachelors,Blue Collar,56,Commercial,10880,10,SUV,No,0,0,No,0,0,13,No,Urban
+594467420,1,1/14/1958,41,2,14,74022,No,247884,Yes,F,Masters,Manager,51,Private,13000,10,Sports Car,No,4418,1,No,0,0,12,No,Urban
+756140580,0,10/16/1963,36,0,11,80256,No,235169,Yes,M,Bachelors,Blue Collar,9,Commercial,14860,4,Minivan,Yes,2592,4,No,1,0,15,No,Urban
+605748289,0,6/18/1944,55,0,14,6094,No,0,Yes,M,High School,Student,28,Commercial,22770,4,Panel Truck,Yes,2631,1,No,1,0,1,No,Urban
+930282594,1,1/28/1954,45,2,0,0,No,69743,Yes,F,Masters,Home Maker,27,Private,14300,1,Minivan,No,9062,1,No,1,0,11,No,Urban
+128484499,2,1/29/1954,45,2,12,30085,No,128194,Yes,M,High School,Clerical,44,Commercial,7200,4,Pickup,No,0,0,Yes,3,3769,8,Yes,Urban
+901443160,0,2/5/1949,50,0,11,80241,No,0,No,F,Masters,Lawyer,17,Private,14520,4,Pickup,No,7628,2,No,7,0,11,No,Urban
+50629045,1,12/29/1954,44,2,15,46140,No,169084,Yes,M,High School,Blue Collar,29,Commercial,10510,1,Pickup,No,4276,3,No,7,5733,1,Yes,Urban
+465629484,0,5/11/1944,55,0,12,55673,No,245678,Yes,F,Bachelors,Blue Collar,43,Commercial,27400,14,Van,No,0,0,No,0,0,13,No,Urban
+752931241,0,8/21/1955,44,0,8,32317,No,0,No,M,High School,Clerical,68,Private,22450,7,Minivan,Yes,3738,1,No,8,4363,1,Yes,Urban
+656528078,0,3/9/1949,50,0,9,58762,No,0,No,M,Masters,Lawyer,13,Private,13320,6,Minivan,Yes,5253,3,No,0,0,8,No,Urban
+934286635,0,10/9/1939,60,0,15,76899,No,270631,Yes,M,PhD,Doctor,34,Private,7900,4,Sports Car,Yes,45574,3,Yes,0,0,14,No,Urban
+128002194,0,1/29/1959,40,0,12,48640,No,0,No,M,High School,Blue Collar,19,Commercial,10360,1,Pickup,No,0,0,No,0,0,4,No,Rural
+65790066,0,3/3/1942,57,0,6,78592,No,248326,Yes,F,High School,Blue Collar,42,Commercial,15760,7,Sports Car,No,9462,3,No,0,0,8,No,Urban
+357762726,0,10/10/1952,47,0,12,80105,No,0,No,M,Masters,Manager,29,Private,14210,6,Minivan,Yes,0,0,No,1,0,12,No,Urban
+197015157,0,10/17/1935,64,0,13,61521,No,248878,Yes,F,Masters,Lawyer,41,Private,7650,1,Sports Car,No,0,0,No,8,7390,9,Yes,Urban
+944239689,0,4/5/1965,34,1,9,105554,Yes,229868,No,M,Masters,Lawyer,75,Private,5300,4,Minivan,No,7504,2,No,2,1165,20,Yes,Urban
+48124408,0,12/19/1946,52,0,6,147666,No,405910,Yes,F,Masters,Lawyer,43,Private,6700,11,SUV,No,0,0,No,0,0,17,No,Rural
+192114963,0,10/10/1958,41,2,10,78675,Yes,265450,No,M,Bachelors,Blue Collar,33,Commercial,13470,11,Minivan,Yes,0,0,No,0,0,3,No,Urban
+975778622,0,3/2/1945,54,0,11,105762,No,0,No,M,Masters,Lawyer,5,Private,17480,6,Minivan,Yes,0,0,Yes,2,0,18,No,Urban
+277552954,0,2/3/1957,42,2,11,79185,No,243880,Yes,F,Bachelors,Professional,28,Private,13020,3,SUV,No,6689,1,No,5,0,1,No,Urban
+33544630,0,1/30/1943,56,0,13,111702,No,0,No,F,PhD,Manager,18,Private,18270,6,SUV,No,0,0,No,0,0,17,No,Urban
+511097692,0,12/26/1947,51,0,10,55573,No,0,No,F,Masters,Lawyer,18,Private,12160,1,SUV,No,9768,1,No,6,0,14,No,Urban
+673726800,0,3/30/1946,53,0,8,61862,No,245885,Yes,M,PhD,Doctor,33,Private,11270,1,Pickup,Yes,0,0,No,0,686,14,Yes,Urban
+362716446,0,2/1/1964,35,0,11,13760,No,0,No,F,High School,Student,27,Commercial,7700,6,SUV,No,10177,2,No,3,0,1,No,Urban
+758370952,0,10/17/1945,54,0,13,88668,No,316419,Yes,F,PhD,Lawyer,63,Private,20090,4,Minivan,No,10520,2,No,1,1065,14,Yes,Urban
+621176428,0,6/3/1949,50,0,13,2657,No,109134,Yes,F,Masters,Home Maker,63,Private,10480,13,Sports Car,No,20452,2,Yes,2,5075,11,Yes,Urban
+180019907,0,11/3/1970,29,1,11,51122,No,201650,Yes,F,Bachelors,Blue Collar,40,Commercial,10470,1,SUV,No,19030,3,Yes,9,0,9,No,Urban
+756376204,0,12/29/1966,32,3,14,21944,No,128776,Yes,F,High School,Blue Collar,34,Private,7270,1,SUV,No,0,0,Yes,1,0,1,No,Urban
+880702697,0,4/20/1955,44,0,0,0,No,104490,Yes,F,Bachelors,Home Maker,28,Private,14190,4,Sports Car,No,35430,2,Yes,2,0,8,No,Urban
+899830494,1,2/25/1961,38,2,14,83937,No,234151,Yes,F,Bachelors,Blue Collar,28,Commercial,13800,3,SUV,No,10851,2,No,0,0,10,No,Urban
+666444862,1,1/11/1962,37,2,14,96188,Yes,0,No,F,Bachelors,Professional,49,Private,13340,1,SUV,No,0,0,Yes,1,0,10,No,Urban
+476379522,1,12/29/1943,55,1,14,17820,No,115540,Yes,F,Bachelors,Home Maker,32,Private,13340,1,SUV,No,6913,1,No,3,0,8,No,Rural
+142840345,2,4/10/1948,51,2,14,62894,No,228994,Yes,F,Bachelors,Clerical,84,Private,5990,17,Sports Car,No,0,0,Yes,0,0,10,No,Rural
+874440593,1,5/3/1957,42,2,12,68090,Yes,169854,No,F,Bachelors,Blue Collar,45,Commercial,11750,1,Minivan,No,9261,1,No,3,2287,12,Yes,Urban
+790738376,0,3/25/1954,45,2,4,25032,Yes,0,No,F,High School,Clerical,34,Commercial,6100,1,Pickup,Yes,5771,1,No,5,6195,1,Yes,Rural
+155781501,0,5/7/1951,48,0,14,42008,No,176219,Yes,F,Masters,Lawyer,23,Private,10000,4,SUV,No,0,0,No,0,0,14,No,Rural
+597296394,0,7/12/1945,54,0,8,90149,No,261569,Yes,F,Masters,Manager,17,Private,15910,4,SUV,No,0,0,No,1,0,10,No,Urban
+999482663,0,8/13/1951,48,0,12,22633,No,135679,Yes,F,Bachelors,Manager,30,Private,16730,13,SUV,No,0,0,No,0,0,9,No,Urban
+612923010,0,3/3/1949,50,0,0,0,No,109511,Yes,M,High School,Student,32,Private,4980,6,Minivan,No,0,0,No,0,0,1,No,Rural
+514109893,0,5/8/1974,25,1,9,51544,Yes,0,No,F,High School,Blue Collar,44,Commercial,20630,1,SUV,No,7767,2,No,8,9776,1,Yes,Urban
+205543280,0,6/13/1964,35,0,9,72389,No,213173,No,F,PhD,Lawyer,45,Private,13440,1,Minivan,No,8185,4,No,2,0,10,No,Urban
+695833713,0,4/11/1970,29,1,8,73842,Yes,0,No,F,High School,Blue Collar,25,Commercial,22340,1,Sports Car,No,4769,1,No,4,3418,1,Yes,Urban
+388238418,1,12/27/1953,45,2,0,0,Yes,0,No,M,High School,Student,33,Private,6000,1,Pickup,No,41818,1,Yes,3,4423,1,Yes,Urban
+710752022,0,10/20/1954,45,3,17,71969,Yes,212081,No,F,Masters,Lawyer,44,Private,13060,6,SUV,No,0,0,No,0,0,1,No,Urban
+824235589,0,1/3/1948,51,0,11,117016,No,0,No,F,Masters,Manager,23,Private,20320,4,Minivan,No,1197,2,No,6,0,8,No,Urban
+616722972,0,8/10/1947,52,0,13,37295,No,163285,No,M,High School,Blue Collar,28,Commercial,6700,4,Pickup,Yes,0,0,No,0,0,1,No,Rural
+132742099,0,11/28/1958,40,0,7,50224,No,0,No,M,High School,Blue Collar,16,Commercial,13780,1,Minivan,Yes,1937,2,No,6,0,5,No,Urban
+82157353,0,9/12/1958,41,1,13,109957,No,260749,Yes,F,Masters,Lawyer,50,Private,29470,6,Sports Car,No,0,0,No,1,2328,18,Yes,Urban
+884328607,0,7/18/1955,44,2,14,44141,No,141312,Yes,M,PhD,Doctor,11,Private,5900,10,Pickup,No,7401,1,No,0,0,0,No,Urban
+499733944,0,6/14/1945,54,0,43,30388,No,0,No,M,Masters,Lawyer,24,Private,16580,4,Van,No,27130,2,No,0,0,13,No,Urban
+719425580,0,3/25/1949,50,0,11,8345,No,0,Yes,M,High School,Student,39,Private,15330,10,Minivan,Yes,0,0,No,0,0,5,No,Rural
+573931423,0,11/2/1961,38,0,14,10486,No,66515,Yes,M,High School,Clerical,33,Private,6350,1,Minivan,No,5702,1,No,4,4700,5,Yes,Urban
+388050397,0,1/28/1963,36,0,12,33284,No,141018,Yes,F,High School,Blue Collar,68,Commercial,14640,10,SUV,No,0,0,No,0,0,10,No,Urban
+125992610,0,8/20/1937,62,0,12,33713,No,171810,Yes,F,Bachelors,Blue Collar,26,Commercial,23470,4,Sports Car,No,41913,3,Yes,0,6880,15,Yes,Urban
+594606184,0,2/24/1952,47,0,7,76462,No,229334,Yes,M,Bachelors,Professional,29,Private,13850,6,Minivan,Yes,0,0,No,0,0,7,No,Urban
+674471094,0,1/15/1952,47,0,7,144957,No,420966,No,F,PhD,Doctor,22,Private,24120,3,SUV,No,0,0,No,4,0,1,No,Urban
+833443761,0,8/11/1953,46,0,8,79317,No,241733,Yes,M,High School,Professional,5,Private,6100,1,Pickup,Yes,4263,2,No,7,0,6,No,Urban
+673112887,0,9/17/1963,36,0,13,20891,No,134406,Yes,F,High School,Blue Collar,39,Commercial,5100,1,SUV,No,2949,2,No,9,3644,7,Yes,Urban
+196628077,0,1/28/1966,33,3,0,0,No,0,Yes,M,High School,Student,27,Private,10160,6,Pickup,Yes,8118,1,No,3,0,1,No,Urban
+179892685,0,10/15/1964,35,2,10,17493,Yes,102902,No,F,High School,Clerical,52,Private,19340,9,Minivan,No,5658,3,No,7,4758,1,Yes,Urban
+294957776,0,3/28/1954,45,3,14,94325,No,301739,Yes,M,Masters,Lawyer,55,Private,6960,1,SUV,No,0,0,No,2,4875,14,Yes,Urban
+213361324,0,4/11/1944,55,0,14,72337,No,210378,Yes,M,PhD,Manager,28,Commercial,22980,3,Panel Truck,No,0,0,No,2,0,11,No,Urban
+234108296,0,8/8/1958,41,0,13,157237,No,0,No,F,Masters,Manager,45,Private,17410,7,Minivan,No,0,0,No,0,0,15,No,Urban
+486162680,0,3/15/1959,40,1,13,5322,No,57657,Yes,F,Bachelors,Home Maker,32,Commercial,9960,1,Pickup,No,5489,1,No,3,0,1,No,Urban
+105645072,0,3/17/1956,43,0,11,39848,No,136304,No,F,Masters,Lawyer,45,Private,18060,8,SUV,No,0,0,No,0,0,15,No,Urban
+159318106,0,12/16/1956,42,1,12,117978,Yes,0,No,F,Bachelors,Blue Collar,17,Commercial,28700,1,SUV,No,0,0,No,0,0,7,No,Rural
+858966351,0,10/16/1942,57,0,15,51737,No,167419,Yes,F,High School,Blue Collar,56,Private,17440,6,SUV,No,0,0,Yes,1,0,11,No,Rural
+192744071,0,1/17/1943,56,0,12,62483,No,0,Yes,F,Bachelors,Manager,18,Private,20940,6,Minivan,No,0,0,No,0,0,8,No,Urban
+188827017,0,1/9/1935,64,0,9,38020,No,0,Yes,M,High School,Blue Collar,11,Commercial,28710,7,Pickup,Yes,0,0,No,0,17290,3,Yes,Urban
+250492527,0,12/27/1966,32,2,9,60050,Yes,212562,No,F,High School,Clerical,31,Private,11480,1,Minivan,No,17493,4,Yes,2,5395,1,Yes,Urban
+764936907,0,2/23/1962,37,0,7,97266,No,252596,No,F,Bachelors,Blue Collar,21,Commercial,14930,10,Minivan,No,4048,2,No,0,0,11,No,Urban
+471548802,0,2/5/1954,45,2,14,19793,No,0,Yes,F,High School,Home Maker,5,Private,7980,6,SUV,No,0,0,Yes,0,0,5,No,Urban
+18938047,0,3/9/1960,39,0,14,73367,No,0,No,M,Bachelors,Professional,36,Private,12740,6,Minivan,Yes,3320,1,No,4,0,7,No,Urban
+716232766,0,2/20/1967,32,4,15,4478,Yes,0,No,F,High School,Student,7,Private,6780,4,SUV,No,7181,3,No,5,2891,8,Yes,Urban
+137443614,0,9/5/1955,44,1,9,5952,No,0,Yes,M,Bachelors,Student,22,Commercial,6500,4,Pickup,Yes,0,0,No,0,0,10,No,Urban
+406695090,0,1/30/1960,39,2,14,50875,No,131770,Yes,F,High School,Blue Collar,23,Commercial,14100,6,Sports Car,No,0,0,No,3,0,1,No,Urban
+180434966,1,2/16/1958,41,2,10,32057,No,166326,Yes,F,High School,Clerical,20,Private,9800,10,SUV,No,0,0,No,0,0,1,No,Rural
+197424537,0,9/27/1964,35,0,7,62036,No,154297,Yes,M,High School,Blue Collar,5,Commercial,16370,4,Van,Yes,3913,2,No,7,3149,1,Yes,Urban
+158580440,0,6/15/1935,64,0,15,40528,No,208306,Yes,F,High School,Blue Collar,54,Commercial,11950,7,Sports Car,No,5137,1,No,6,3602,6,Yes,Urban
+983599846,0,2/29/1940,59,0,15,158703,No,0,No,F,PhD,Doctor,32,Private,20540,17,SUV,No,0,0,No,0,0,18,No,Urban
+454217720,0,10/10/1955,44,1,11,75046,No,244819,Yes,M,High School,Blue Collar,56,Commercial,9000,4,Pickup,Yes,3288,3,No,6,2449,10,Yes,Urban
+727995019,0,4/7/1959,40,1,12,39600,Yes,193495,No,F,High School,Clerical,37,Private,5460,1,Sports Car,No,4188,2,No,5,3259,1,Yes,Urban
+896831217,0,5/4/1956,43,0,8,67109,No,219801,Yes,F,High School,Blue Collar,38,Commercial,8530,10,SUV,No,0,0,No,0,0,1,No,Urban
+514525729,0,3/31/1951,48,0,13,75723,No,257475,Yes,F,Bachelors,Professional,37,Private,7210,13,Minivan,No,0,0,No,0,0,12,No,Urban
+976068152,0,9/10/1961,38,0,10,75432,No,0,No,F,Bachelors,Manager,51,Private,16260,1,SUV,No,8035,3,No,0,21823,13,Yes,Urban
+707887401,0,7/22/1951,48,0,0,0,No,0,Yes,M,High School,Student,47,Private,6520,3,Minivan,Yes,0,0,Yes,0,0,1,No,Rural
+282526845,0,3/30/1940,59,0,11,186632,No,483645,Yes,M,PhD,Manager,35,Private,21730,1,Van,No,0,0,No,2,0,13,No,Urban
+786289554,0,12/6/1955,43,0,8,97103,No,278248,No,F,Masters,Lawyer,17,Private,17960,4,SUV,No,3575,1,No,4,0,15,No,Urban
+16380140,0,11/23/1955,43,1,0,0,Yes,86118,No,F,High School,Home Maker,41,Private,14240,4,SUV,No,0,0,No,1,3085,1,Yes,Urban
+892542306,0,8/15/1944,55,0,0,0,No,68500,Yes,F,Bachelors,Home Maker,11,Private,8560,6,Sports Car,No,3769,2,No,5,3593,14,Yes,Urban
+258016112,0,5/29/1964,35,3,13,64872,No,187354,Yes,F,High School,Clerical,44,Private,11490,1,SUV,No,0,0,No,3,0,8,No,Urban
+305360927,0,1/22/1945,54,0,12,10617,No,0,Yes,M,High School,Student,14,Commercial,7960,10,Pickup,No,1079,2,No,2,458,9,Yes,Urban
+755132407,2,8/13/1964,35,3,8,33799,No,148536,Yes,F,High School,Clerical,48,Private,13420,10,SUV,No,8174,2,No,9,0,1,No,Urban
+332762693,0,8/28/1973,26,1,0,0,No,0,Yes,F,Bachelors,Student,10,Commercial,4100,1,Sports Car,No,11279,3,No,5,4524,6,Yes,Urban
+953612670,0,12/22/1955,43,2,11,46224,No,173103,Yes,M,High School,Blue Collar,45,Commercial,11510,13,Pickup,Yes,0,0,Yes,0,4480,10,Yes,Urban
+513623278,0,12/27/1955,43,0,8,91877,No,298385,No,F,Masters,Lawyer,5,Private,26290,16,Sports Car,No,0,0,Yes,2,0,18,No,Urban
+385226708,0,1/2/1945,54,0,13,193895,No,445020,Yes,F,Masters,Lawyer,51,Private,9060,10,SUV,No,3400,3,No,0,0,15,No,Urban
+220967341,0,10/27/1944,55,0,14,66964,No,0,No,M,Masters,Lawyer,47,Private,13700,6,Minivan,Yes,6183,3,No,3,0,18,No,Urban
+585490263,0,9/4/1954,45,0,0,0,No,0,No,M,High School,Student,36,Commercial,26500,10,Panel Truck,Yes,0,0,No,2,0,8,No,Rural
+717557168,0,3/13/1957,42,2,11,34210,No,186734,Yes,M,High School,Clerical,34,Private,12880,6,Minivan,Yes,1830,1,No,0,5619,1,Yes,Urban
+859631331,0,6/11/1953,46,0,11,31177,No,150102,No,M,High School,Professional,41,Commercial,25420,9,Panel Truck,No,0,0,No,1,1766,1,Yes,Urban
+137281356,0,7/17/1952,47,0,7,28654,No,144131,No,M,High School,Professional,22,Commercial,9070,6,Pickup,Yes,0,0,No,3,0,8,No,Rural
+533779817,0,9/6/1954,45,0,12,107327,No,316035,No,F,Bachelors,Professional,38,Private,18540,1,SUV,No,0,0,No,2,0,9,No,Urban
+789275794,0,12/12/1943,55,0,8,45918,No,226111,Yes,F,High School,Manager,52,Private,11590,11,Sports Car,No,3614,2,No,0,0,1,No,Urban
+569373348,1,5/17/1956,43,2,11,24124,No,157794,Yes,F,High School,Blue Collar,40,Private,8140,7,SUV,No,0,0,No,0,0,1,No,Rural
+777916931,0,7/4/1946,53,0,12,106830,No,0,No,M,Bachelors,Manager,28,Private,17480,13,Minivan,Yes,0,0,No,0,0,7,No,Urban
+301401225,0,9/2/1950,49,0,13,33322,No,154892,No,F,Bachelors,Blue Collar,45,Commercial,21320,4,SUV,No,36556,1,No,4,0,10,No,Urban
+999158340,0,2/22/1952,47,0,10,15249,No,145735,Yes,F,Masters,Home Maker,62,Private,8400,4,Sports Car,No,0,0,No,1,0,15,No,Urban
+507152894,1,4/14/1958,41,3,16,38034,No,190148,Yes,F,PhD,Manager,30,Private,11300,6,SUV,No,5299,1,No,2,0,1,No,Urban
+670502617,0,7/2/1950,49,0,14,95156,No,278953,Yes,M,Masters,Professional,70,Commercial,9720,6,Pickup,No,5645,3,No,0,0,15,No,Urban
+95033073,0,12/1/1954,44,0,12,39852,No,125283,Yes,F,High School,Blue Collar,37,Commercial,7410,1,SUV,No,3704,2,No,0,0,6,No,Urban
+457650286,0,4/3/1948,51,0,13,65702,No,0,No,F,Masters,Lawyer,27,Private,15820,1,SUV,No,7181,2,No,3,2262,1,Yes,Urban
+255731304,0,11/22/1948,50,0,15,36504,No,137025,Yes,M,High School,Blue Collar,30,Commercial,14210,1,Minivan,Yes,0,0,No,0,0,8,No,Urban
+195811371,0,8/24/1941,58,0,11,51870,No,0,No,M,High School,Blue Collar,36,Commercial,24520,4,Panel Truck,Yes,0,0,Yes,5,40152,1,Yes,Urban
+57895463,0,6/14/1943,56,0,13,125795,No,0,No,M,Masters,Lawyer,52,Private,7100,1,Minivan,Yes,0,0,No,0,0,14,No,Urban
+457758097,0,8/22/1958,41,0,14,99959,No,268154,No,F,Masters,Lawyer,13,Private,18850,6,Minivan,No,0,0,No,1,1237,11,Yes,Urban
+930441156,0,3/16/1962,37,0,7,61790,No,0,No,M,High School,Blue Collar,32,Commercial,15150,4,Minivan,No,0,0,No,0,2876,7,Yes,Urban
+976339643,0,7/15/1942,57,0,10,33707,No,0,No,F,High School,Blue Collar,40,Commercial,27520,12,Pickup,No,0,0,No,0,0,1,No,Rural
+909194817,1,8/20/1962,37,2,0,0,Yes,0,No,F,High School,Student,18,Private,1500,3,SUV,No,0,0,No,3,1650,1,Yes,Urban
+918549572,0,2/9/1965,34,1,12,68833,No,183087,Yes,F,Bachelors,Clerical,35,Commercial,21940,4,Pickup,No,1494,2,No,3,0,9,No,Urban
+445009433,0,11/12/1950,49,0,13,28592,No,183206,Yes,M,High School,Clerical,31,Commercial,9260,1,Pickup,No,39892,3,Yes,6,14834,1,Yes,Urban
+440161891,0,1/1/1957,42,2,13,64766,No,263986,Yes,F,High School,Blue Collar,20,Commercial,11840,18,SUV,No,44414,1,Yes,1,1796,1,Yes,Urban
+352494327,0,10/27/1961,38,0,8,81447,No,275745,Yes,M,Bachelors,Blue Collar,36,Commercial,15820,6,Minivan,Yes,0,0,No,0,0,9,No,Rural
+500969215,0,3/5/1974,25,1,12,40095,Yes,0,No,M,High School,Clerical,38,Commercial,22720,3,Panel Truck,Yes,1992,2,No,6,5177,9,Yes,Urban
+195066900,0,3/30/1955,44,0,5,87072,No,234367,Yes,M,Bachelors,Professional,21,Private,14820,10,Minivan,No,0,0,No,0,0,15,No,Urban
+206553302,0,1/2/1979,20,0,7,19933,No,105715,No,F,High School,Blue Collar,19,Commercial,15400,4,SUV,Yes,4148,1,No,5,0,9,No,Urban
+336658177,1,6/20/1959,40,2,7,52423,No,150723,Yes,F,High School,Blue Collar,30,Private,7420,6,Sports Car,No,0,0,No,2,5287,1,Yes,Urban
+428531409,0,10/17/1964,35,0,0,0,No,0,Yes,F,High School,Student,17,Private,5000,10,Sports Car,No,0,0,No,0,0,1,No,Urban
+380033719,0,8/25/1962,37,0,11,80997,No,0,No,M,Bachelors,Blue Collar,47,Commercial,16290,11,Van,Yes,0,0,No,0,0,7,No,Urban
+490636474,1,6/1/1959,40,2,6,54159,No,180764,Yes,M,High School,Blue Collar,65,Private,16920,10,Van,Yes,0,0,No,1,0,1,No,Rural
+121133457,0,5/12/1945,54,0,13,62215,No,244460,Yes,F,High School,Blue Collar,30,Commercial,21840,1,Sports Car,No,6600,2,No,3,3008,5,Yes,Urban
+144963475,0,5/2/1960,39,3,12,54714,No,152044,Yes,M,High School,Blue Collar,42,Commercial,5400,3,Minivan,No,0,0,No,1,0,1,No,Urban
+349289375,0,7/25/1950,49,0,8,37356,No,133175,Yes,M,High School,Blue Collar,63,Commercial,6400,1,Pickup,Yes,7993,1,No,7,3943,6,Yes,Urban
+3828216,0,6/21/1951,48,0,10,0,No,0,Yes,F,High School,Student,25,Commercial,6300,1,SUV,No,0,0,No,0,0,10,No,Rural
+220536762,0,9/7/1957,42,0,13,28341,No,124838,Yes,M,High School,Clerical,45,Commercial,8530,4,Pickup,Yes,3710,3,No,7,2316,1,Yes,Urban
+117032293,0,7/23/1962,37,3,17,6217,No,0,Yes,F,High School,Student,27,Commercial,22260,10,Pickup,No,0,0,Yes,0,5363,4,Yes,Urban
+390106458,0,4/27/1943,56,0,13,27968,No,156795,Yes,F,High School,Clerical,20,Private,8260,4,SUV,No,0,0,No,0,0,10,No,Rural
+113006999,0,4/6/1951,48,0,6,52275,No,169104,Yes,M,Bachelors,Professional,57,Private,14060,1,Minivan,No,3868,1,No,3,5051,6,Yes,Urban
+196357678,0,2/6/1978,21,0,5,40022,No,0,No,F,Bachelors,Manager,67,Private,9360,6,Sports Car,Yes,0,0,No,0,6245,1,Yes,Urban
+466727453,0,11/28/1965,33,3,12,46453,No,166667,Yes,M,High School,Blue Collar,47,Private,6150,10,Minivan,No,0,0,No,1,0,5,No,Urban
+56143832,1,6/13/1961,38,1,13,122492,Yes,0,No,F,Bachelors,Professional,22,Private,33250,18,Pickup,No,0,0,No,4,0,1,No,Urban
+715325953,0,5/3/1966,33,3,7,22899,Yes,126382,No,M,High School,Clerical,19,Private,7090,6,Pickup,Yes,0,0,No,0,0,5,No,Rural
+357996074,0,8/19/1948,51,0,11,124550,No,330451,Yes,M,Masters,Lawyer,37,Private,38290,7,Minivan,No,0,0,No,1,0,10,No,Urban
+670054779,0,3/12/1954,45,0,12,100822,No,290668,Yes,M,Bachelors,Professional,5,Private,8310,12,Minivan,No,0,0,No,0,0,7,No,Urban
+303541974,0,6/11/1959,40,0,5,57063,No,0,No,F,Masters,Professional,46,Private,16250,10,Sports Car,No,0,0,No,0,2872,19,Yes,Urban
+924126656,0,8/16/1941,58,0,14,39707,No,192089,Yes,M,High School,Blue Collar,29,Commercial,16870,1,Van,Yes,3546,1,No,6,6101,6,Yes,Urban
+721052628,0,9/1/1960,39,0,12,87562,No,0,No,M,Bachelors,Manager,26,Commercial,10260,10,Pickup,Yes,0,0,No,0,0,14,No,Urban
+144633248,0,5/6/1949,50,0,10,24358,No,128210,Yes,M,High School,Blue Collar,11,Private,17790,3,Van,No,0,0,Yes,0,0,7,No,Urban
+294081063,0,5/5/1980,19,2,0,0,No,106041,Yes,F,High School,Student,25,Private,9100,5,SUV,No,5289,2,No,1,0,1,No,Rural
+398253782,0,10/31/1950,49,0,7,40452,No,184692,Yes,M,Bachelors,Blue Collar,25,Commercial,21600,9,Minivan,Yes,0,0,No,1,0,7,No,Rural
+205873423,0,3/24/1966,33,3,12,14369,No,142305,Yes,F,High School,Clerical,37,Private,6240,4,SUV,No,0,0,No,0,0,6,No,Rural
+974973280,0,12/12/1950,48,0,9,43095,No,0,Yes,M,High School,Blue Collar,39,Commercial,10850,6,Pickup,Yes,7219,3,No,3,0,1,No,Urban
+299535182,0,1/25/1954,45,2,15,70982,No,220008,Yes,M,High School,Clerical,5,Private,13660,6,SUV,No,0,0,No,2,0,6,No,Urban
+522831508,0,10/16/1960,39,0,10,76150,No,219917,Yes,M,Bachelors,Blue Collar,39,Commercial,14010,6,Minivan,No,0,0,No,5,0,8,No,Rural
+386495489,0,10/15/1967,32,0,12,52469,No,0,No,M,High School,Blue Collar,21,Commercial,4700,4,Pickup,No,0,0,Yes,1,1347,9,Yes,Rural
+298667574,2,6/26/1954,45,2,13,103087,No,237957,Yes,M,Masters,Manager,28,Private,18230,6,Minivan,Yes,0,0,No,1,0,9,No,Urban
+826987002,0,1/17/1946,53,0,14,59797,No,178230,Yes,F,PhD,Doctor,35,Private,18070,4,Minivan,No,0,0,No,0,0,16,No,Urban
+234471965,0,12/31/1935,63,2,10,52064,No,0,Yes,F,High School,Blue Collar,16,Commercial,11770,1,Sports Car,No,834,2,No,8,6228,1,Yes,Urban
+925155504,0,9/8/1948,51,0,0,0,No,0,Yes,F,High School,Student,10,Private,16180,7,SUV,No,0,0,No,0,0,6,No,Urban
+789161168,0,1/11/1963,36,0,11,48710,No,0,No,F,High School,Clerical,59,Private,9970,10,SUV,No,18331,1,No,4,0,5,No,Rural
+694149775,1,7/17/1927,72,2,18,27625,No,162415,Yes,F,High School,Clerical,32,Private,18960,6,Sports Car,No,8571,1,No,8,4997,1,Yes,Urban
+583492206,0,9/15/1948,51,0,12,27940,No,0,No,M,High School,Blue Collar,20,Private,21010,10,Van,Yes,4652,3,Yes,2,0,6,No,Urban
+992495068,1,8/5/1960,39,1,13,54298,No,217992,Yes,F,Bachelors,Clerical,21,Private,14480,4,Minivan,No,0,0,No,0,0,9,No,Urban
+185382071,0,9/18/1946,53,0,7,77012,No,316239,Yes,M,PhD,Doctor,22,Private,21440,1,Van,No,8744,2,No,0,0,13,No,Urban
+856909134,2,8/16/1963,36,3,13,28326,No,145411,Yes,F,High School,Clerical,37,Commercial,26280,7,Pickup,No,39535,3,Yes,2,8662,8,Yes,Urban
+974600099,0,8/10/1963,36,0,11,17085,No,0,Yes,F,High School,Student,58,Private,15840,7,Sports Car,No,4070,2,No,2,0,1,No,Rural
+302436609,0,11/3/1967,32,2,13,17545,Yes,0,No,M,High School,Clerical,46,Commercial,8240,10,Pickup,No,0,0,No,0,0,1,No,Urban
+176300530,0,9/30/1945,54,0,12,69625,No,271183,Yes,F,Bachelors,Manager,51,Private,22340,1,SUV,No,3155,1,No,2,0,12,No,Urban
+431960650,0,8/31/1942,57,0,46,159517,No,456583,No,M,PhD,Lawyer,43,Private,23150,4,Minivan,No,0,0,No,2,0,17,No,Urban
+530675931,0,11/17/1952,47,0,8,28172,No,175173,Yes,F,High School,Home Maker,27,Private,13970,7,SUV,No,0,0,No,0,0,1,No,Urban
+753621305,1,9/30/1963,36,1,13,60097,No,173562,Yes,F,High School,Blue Collar,40,Commercial,28040,11,Pickup,No,0,0,No,1,0,1,No,Urban
+247833708,0,12/24/1955,43,3,11,19219,Yes,0,No,F,High School,Blue Collar,53,Commercial,10470,11,SUV,No,0,0,No,4,0,1,No,Urban
+538813591,0,3/29/1953,46,0,11,107677,No,0,No,F,PhD,Doctor,42,Private,17820,1,Sports Car,No,0,0,Yes,0,0,16,No,Urban
+727784328,0,2/6/1958,41,0,6,43889,No,0,No,F,Bachelors,Clerical,29,Private,18010,4,SUV,No,0,0,No,1,0,7,No,Rural
+853742774,0,9/2/1944,55,0,18,49627,No,255967,Yes,M,High School,Blue Collar,49,Commercial,11550,1,Minivan,No,0,0,No,0,0,1,No,Rural
+885737455,0,10/31/1936,63,0,15,26921,No,140455,Yes,F,Bachelors,Manager,19,Private,14360,1,SUV,No,30288,1,Yes,2,5952,11,Yes,Urban
+86637420,0,3/1/1954,45,3,12,13891,No,64530,Yes,F,High School,Clerical,47,Private,7390,1,SUV,No,1546,2,No,4,5252,8,Yes,Urban
+29782827,0,10/15/1964,35,0,13,64488,No,0,Yes,M,High School,Blue Collar,37,Commercial,21820,1,Van,Yes,1144,3,No,5,5440,7,Yes,Urban
+564124540,0,9/6/1939,60,0,15,163014,No,421250,Yes,F,Bachelors,Professional,35,Private,23800,1,Pickup,No,0,0,No,0,0,8,No,Urban
+873530429,0,9/18/1956,43,3,0,0,No,0,Yes,F,High School,Student,30,Commercial,19790,1,Minivan,No,8251,3,No,1,0,1,No,Urban
+313782874,0,8/20/1960,39,3,16,42535,No,189139,Yes,M,High School,Clerical,22,Commercial,19330,4,Van,Yes,0,0,No,1,0,8,No,Rural
+95483524,0,1/31/1966,33,2,9,31675,No,159621,Yes,F,High School,Blue Collar,25,Commercial,9130,7,Sports Car,No,32882,1,Yes,6,7719,1,Yes,Urban
+508400544,3,3/5/1962,37,3,9,6857,Yes,86075,No,F,High School,Home Maker,35,Private,12540,1,SUV,No,3452,1,No,1,0,7,No,Rural
+279830030,1,12/24/1959,39,2,7,66367,No,0,Yes,F,High School,Blue Collar,35,Commercial,5560,1,Sports Car,No,2949,2,No,3,8289,1,Yes,Urban
+588524933,1,11/9/1956,43,2,14,81674,No,233744,Yes,M,Bachelors,Manager,39,Commercial,34680,1,Panel Truck,No,0,0,No,1,0,10,No,Urban
+68419810,0,11/21/1950,48,0,12,93658,No,274828,Yes,M,Bachelors,Professional,33,Commercial,18050,1,Van,Yes,0,0,No,0,0,10,No,Urban
+137443614,0,9/5/1954,45,1,0,0,No,99798,Yes,M,High School,Student,24,Private,14750,6,SUV,No,0,0,No,0,0,7,No,Rural
+177904348,0,12/18/1942,56,2,17,29524,No,198107,Yes,F,High School,Blue Collar,52,Private,14250,14,SUV,No,0,0,No,1,2353,7,Yes,Urban
+695264867,0,7/15/1959,40,0,11,180525,No,473389,Yes,F,PhD,Manager,34,Private,11490,10,SUV,No,0,0,No,2,0,13,No,Urban
+779731125,0,9/16/1948,51,0,13,34658,No,159187,Yes,M,Bachelors,Professional,31,Private,15660,1,Minivan,No,0,0,No,0,0,11,No,Rural
+390463105,0,7/7/1957,42,0,0,0,No,0,No,F,High School,Home Maker,5,Private,25540,1,Sports Car,No,0,0,No,0,0,1,No,Urban
+597023314,0,2/2/1953,46,0,13,27669,No,163356,Yes,M,High School,Blue Collar,45,Private,8870,1,Minivan,Yes,0,0,No,0,0,1,No,Rural
+527413473,0,3/8/1964,35,1,12,77126,No,242001,Yes,M,High School,Manager,5,Commercial,11510,10,Pickup,Yes,3079,3,No,0,0,1,No,Urban
+436906531,0,2/10/1956,43,0,10,68350,No,204797,Yes,F,Masters,Lawyer,36,Private,22570,6,SUV,No,0,0,No,0,0,13,No,Rural
+462828318,0,9/25/1935,64,0,11,76552,No,229237,Yes,F,Masters,Lawyer,26,Private,7900,7,Sports Car,No,0,0,No,0,0,9,No,Urban
+999926368,0,2/17/1953,46,0,11,57456,No,207400,Yes,M,Bachelors,Manager,32,Private,12520,6,Minivan,Yes,0,0,No,0,0,6,No,Urban
+995983724,0,9/12/1930,69,0,14,69098,No,249026,Yes,M,Bachelors,Manager,57,Private,15310,4,SUV,Yes,0,0,No,3,0,11,No,Urban
+694564429,0,6/22/1964,35,2,0,0,No,0,Yes,F,High School,Student,32,Private,4810,1,SUV,No,0,0,No,0,0,6,No,Urban
+302914112,0,2/11/1955,44,0,7,93041,No,278760,Yes,M,Bachelors,Blue Collar,23,Commercial,15200,14,Minivan,Yes,16255,2,No,1,0,5,No,Urban
+727384818,0,11/18/1959,39,1,9,69516,No,208435,Yes,F,Bachelors,Clerical,37,Private,11470,1,SUV,No,1392,2,No,4,0,13,No,Rural
+716374232,0,6/28/1943,56,0,15,126700,No,316939,Yes,F,Masters,Lawyer,36,Private,23980,16,Pickup,No,0,0,Yes,4,0,11,No,Urban
+105813423,1,9/2/1958,41,3,5,30043,Yes,0,No,M,High School,Clerical,22,Private,16860,4,Van,Yes,0,0,No,0,0,1,No,Urban
+305504579,1,9/24/1942,57,2,15,34116,Yes,0,No,F,High School,Clerical,25,Private,10610,10,Sports Car,No,34041,3,Yes,1,5457,7,Yes,Urban
+242000609,0,9/28/1956,43,0,14,54932,No,225678,Yes,M,High School,Clerical,37,Commercial,11290,4,Pickup,Yes,5076,3,No,5,0,1,No,Urban
+305612736,0,10/18/1957,42,0,8,94591,No,309644,No,M,High School,Blue Collar,21,Commercial,17470,6,Van,Yes,16121,3,Yes,3,3428,8,Yes,Urban
+118339017,0,12/11/1946,52,0,13,65465,No,210434,No,M,Masters,Manager,42,Private,18760,1,Van,Yes,5372,3,No,6,0,10,No,Urban
+662689878,0,8/24/1953,46,0,14,56849,No,0,No,M,High School,Blue Collar,53,Commercial,6270,1,Pickup,Yes,6418,2,No,2,0,1,No,Urban
+563040522,0,10/29/1948,51,0,9,46201,No,193649,Yes,M,High School,Blue Collar,33,Commercial,11220,4,Pickup,Yes,0,0,No,0,0,9,No,Rural
+293369737,0,1/21/1956,43,1,0,0,Yes,0,No,F,Masters,Home Maker,32,Private,13160,4,Sports Car,No,10412,1,No,6,0,13,No,Urban
+678926910,0,10/7/1947,52,0,14,125662,No,344191,No,F,Masters,Lawyer,21,Private,22880,1,Minivan,No,0,0,No,0,0,16,No,Urban
+105167366,0,7/13/1956,43,3,15,102262,No,266234,Yes,F,Masters,Lawyer,47,Private,15490,9,SUV,No,0,0,No,1,0,15,No,Urban
+422147419,0,12/26/1951,47,0,11,18535,No,136413,Yes,F,Masters,Lawyer,47,Private,11750,1,Minivan,No,0,0,No,4,0,17,No,Urban
+653240659,0,11/12/1955,44,3,15,29502,No,141516,Yes,F,High School,Clerical,30,Private,28750,4,Minivan,No,37130,1,No,2,0,2,No,Urban
+770197017,0,10/29/1951,48,0,10,93303,No,295050,Yes,M,Masters,Lawyer,30,Private,15630,9,Minivan,Yes,6031,3,No,5,0,1,No,Urban
+939439584,0,6/27/1966,33,0,11,249,No,0,No,F,High School,Student,30,Private,10590,11,SUV,No,0,0,No,1,4898,11,Yes,Urban
+926619902,2,7/27/1958,41,3,10,24862,Yes,0,No,F,Bachelors,Student,26,Private,7790,1,Sports Car,No,1055,4,No,2,4046,10,Yes,Rural
+262104318,0,1/13/1950,49,0,14,108748,No,322394,Yes,F,High School,Blue Collar,32,Private,21520,1,SUV,No,0,0,No,1,0,7,No,Urban
+726219892,0,10/15/1957,42,0,10,86596,No,251362,Yes,M,Masters,Professional,32,Private,15280,10,Minivan,No,0,0,No,0,0,16,No,Urban
+508339617,0,12/6/1965,33,2,12,92904,Yes,264763,No,F,Bachelors,Blue Collar,30,Commercial,14060,10,SUV,No,0,0,No,0,0,10,No,Urban
+345344329,0,2/22/1957,42,1,12,82281,Yes,0,No,F,Bachelors,Blue Collar,36,Commercial,18530,9,SUV,No,14552,1,No,6,0,10,No,Rural
+459685968,0,5/27/1948,51,0,13,62463,No,269190,Yes,F,Bachelors,Blue Collar,37,Commercial,19370,6,Minivan,No,1107,3,No,0,0,1,No,Urban
+319394056,0,1/10/1942,57,0,15,25761,No,149672,Yes,M,Bachelors,Clerical,57,Private,11940,1,Pickup,No,4792,1,No,8,3782,11,Yes,Urban
+411870556,0,6/27/1957,42,0,11,49224,No,155963,Yes,M,High School,Blue Collar,29,Commercial,27460,1,Minivan,Yes,4546,3,No,0,3443,1,Yes,Urban
+957050266,0,1/17/1953,46,0,10,41083,No,177527,Yes,F,High School,Blue Collar,21,Commercial,12810,10,SUV,No,2520,2,No,4,0,10,No,Urban
+730524072,0,4/20/1947,52,0,12,70293,No,271091,Yes,F,Bachelors,Professional,34,Private,33440,7,Pickup,No,0,0,No,0,0,6,No,Urban
+94764565,0,11/3/1961,38,1,9,34319,No,202323,Yes,F,High School,Clerical,48,Private,13460,4,Minivan,No,0,0,No,1,0,1,No,Urban
+271284833,0,8/30/1956,43,0,13,22623,No,184773,Yes,M,High School,Professional,15,Private,8060,1,Pickup,Yes,0,0,No,2,46858,1,Yes,Urban
+414427246,0,7/27/1959,40,1,13,79715,Yes,0,No,F,Bachelors,Clerical,6,Private,23140,10,Minivan,No,0,0,No,0,0,7,No,Urban
+839070640,0,12/10/1944,54,0,16,19961,No,69660,Yes,F,High School,Home Maker,36,Private,3500,5,Sports Car,No,0,0,No,0,0,3,No,Rural
+790543950,0,9/9/1948,51,0,12,40760,No,186223,No,M,Bachelors,Professional,24,Private,11880,1,Pickup,No,0,0,No,0,2058,8,Yes,Urban
+317314544,0,12/2/1971,27,2,11,68493,Yes,217494,No,M,Bachelors,Blue Collar,22,Commercial,20180,1,Van,No,0,0,No,0,1958,5,Yes,Urban
+728230622,0,4/6/1943,56,0,12,278,No,91930,Yes,F,High School,Student,58,Commercial,26150,1,Pickup,No,49641,2,No,0,0,8,No,Urban
+297255585,0,10/18/1951,48,0,8,137411,No,391680,No,M,Bachelors,Blue Collar,22,Commercial,11940,10,Pickup,Yes,0,0,No,0,0,4,No,Urban
+849850677,0,3/21/1952,47,0,55,44963,No,160317,Yes,M,Masters,Lawyer,33,Private,11610,5,Minivan,Yes,0,0,No,5,0,14,No,Rural
+779818728,0,6/6/1961,38,0,10,28409,No,0,No,M,High School,Clerical,27,Commercial,8140,10,Pickup,Yes,0,0,No,1,0,7,No,Rural
+609195177,0,11/6/1972,27,3,9,69794,Yes,0,No,F,Bachelors,Professional,24,Private,14660,4,SUV,No,2848,1,No,3,4313,6,Yes,Urban
+992004739,0,10/17/1966,33,1,11,25544,Yes,0,No,F,High School,Blue Collar,29,Private,4050,1,Sports Car,No,3971,2,No,0,1736,1,Yes,Urban
+126864927,1,8/23/1957,42,2,15,85408,No,274402,Yes,F,High School,Blue Collar,32,Commercial,20170,10,Minivan,No,697,2,No,0,4257,8,Yes,Urban
+271625863,0,10/19/1944,55,0,11,3865,No,0,No,F,High School,Home Maker,27,Private,16600,1,SUV,No,6089,2,Yes,0,3492,1,Yes,Urban
+632172083,0,6/30/1949,50,0,13,94589,No,276150,Yes,M,High School,Blue Collar,8,Private,6500,11,Minivan,No,0,0,No,2,1413,1,Yes,Urban
+474066345,0,11/7/1951,48,0,10,116063,No,346587,No,M,Bachelors,Manager,48,Commercial,8370,6,Pickup,Yes,0,0,No,1,0,8,No,Urban
+756075815,0,6/3/1966,33,1,0,0,No,99663,Yes,F,High School,Home Maker,41,Private,11980,1,SUV,No,0,0,No,0,0,9,No,Rural
+845009116,0,7/2/1946,53,0,12,16536,No,133204,Yes,F,Bachelors,Home Maker,24,Private,3150,3,SUV,No,1335,2,No,0,0,6,No,Urban
+270187595,0,2/8/1941,58,0,0,0,No,111793,Yes,F,Bachelors,Home Maker,29,Private,8650,4,SUV,No,5240,4,No,0,0,12,No,Urban
+399237836,0,1/10/1956,43,0,7,58112,No,0,No,M,Bachelors,Clerical,34,Private,1500,4,Minivan,Yes,0,0,No,2,0,11,No,Rural
+641381483,0,10/26/1950,49,0,12,66972,No,0,No,M,High School,Professional,17,Private,24760,10,Minivan,Yes,6813,5,No,0,0,8,No,Urban
+939976071,0,12/7/1958,40,2,13,50537,No,193855,Yes,F,High School,Blue Collar,39,Commercial,28960,1,Van,No,1613,1,No,2,1036,8,Yes,Urban
+143078256,0,6/5/1945,54,0,12,65298,No,213225,Yes,F,High School,Clerical,5,Private,8030,17,SUV,No,4528,3,No,5,3722,1,Yes,Urban
+450249244,0,8/28/1961,38,2,11,282292,Yes,0,No,M,PhD,Lawyer,40,Private,33530,4,Minivan,No,0,0,No,4,0,17,No,Rural
+437006760,0,9/29/1950,49,0,13,83569,No,249804,Yes,M,Bachelors,Manager,23,Private,6500,1,Pickup,No,44932,1,Yes,0,0,7,No,Urban
+92890623,1,2/2/1962,37,2,9,54349,No,212419,Yes,F,High School,Manager,28,Private,10630,13,SUV,No,1381,1,No,4,0,11,No,Urban
+366520317,0,8/8/1972,27,4,13,50139,No,167990,Yes,F,High School,Blue Collar,22,Private,9210,1,SUV,No,1271,2,No,3,1842,1,Yes,Urban
+958078219,0,12/17/1950,48,0,14,74597,No,300560,Yes,M,Bachelors,Blue Collar,25,Commercial,15730,4,Minivan,No,0,0,No,0,0,1,No,Rural
+611621243,1,8/7/1961,38,2,13,15755,No,112616,Yes,F,High School,Blue Collar,32,Commercial,14440,4,Minivan,No,1413,1,No,0,0,1,No,Rural
+758151663,0,2/5/1955,44,2,7,20324,No,147038,Yes,F,High School,Clerical,20,Private,10280,1,Sports Car,No,0,0,No,0,0,1,No,Rural
+788829442,0,4/8/1953,46,0,12,5420,No,0,No,M,High School,Student,29,Private,12780,1,Minivan,No,0,0,No,3,0,5,No,Rural
+163220080,0,3/4/1949,50,0,11,109786,No,348666,Yes,F,High School,Professional,35,Private,9440,1,Minivan,No,0,0,No,0,0,8,No,Urban
+405299333,2,9/13/1962,37,3,11,159092,No,382687,Yes,M,Bachelors,Blue Collar,29,Private,15050,6,Minivan,Yes,1927,3,No,0,0,8,No,Rural
+665180201,0,4/6/1975,24,1,13,23109,No,93445,Yes,F,Bachelors,Clerical,34,Private,6210,14,SUV,Yes,5876,1,No,2,0,13,No,Urban
+773942917,0,5/31/1962,37,0,6,53895,No,161774,Yes,M,Bachelors,Clerical,44,Commercial,11250,17,Pickup,No,0,0,No,0,5636,11,Yes,Urban
+394138480,0,11/8/1956,43,2,12,60973,Yes,0,No,F,Bachelors,Blue Collar,56,Commercial,5800,1,Sports Car,No,0,0,Yes,1,3414,8,Yes,Urban
+554270628,0,11/20/1962,36,0,10,85731,No,0,No,F,Bachelors,Blue Collar,13,Commercial,21660,10,Pickup,No,4002,2,No,1,7161,3,Yes,Urban
+814013916,0,3/13/1949,50,0,12,34703,No,162958,No,M,High School,Blue Collar,31,Commercial,9970,10,Minivan,No,651,3,No,2,0,6,No,Urban
+178129665,0,11/20/1951,47,0,0,0,No,0,Yes,M,High School,Student,35,Commercial,11610,7,Pickup,Yes,19545,1,Yes,0,26305,1,Yes,Rural
+997699984,1,11/15/1957,42,2,11,14166,Yes,0,No,F,High School,Student,36,Private,23280,6,Minivan,No,0,0,No,3,5717,5,Yes,Urban
+711084452,0,6/24/1955,44,2,9,66069,Yes,0,No,M,Bachelors,Manager,19,Commercial,22700,9,Panel Truck,Yes,5117,2,No,3,0,12,No,Urban
+443183800,0,12/12/1939,59,0,0,0,No,113739,Yes,F,Bachelors,Home Maker,52,Private,11480,10,SUV,No,0,0,Yes,2,0,12,No,Rural
+710203983,0,10/5/1959,40,2,15,36846,No,138850,Yes,M,PhD,Manager,65,Private,9180,7,Pickup,No,2743,1,No,3,0,1,No,Urban
+88627202,0,5/31/1968,31,2,0,0,No,0,Yes,F,High School,Student,48,Private,7740,4,Sports Car,No,7323,1,No,7,4306,1,Yes,Urban
+534426680,0,9/8/1959,40,0,11,164807,No,0,No,M,PhD,Doctor,22,Private,5500,1,Pickup,Yes,0,0,No,0,0,17,No,Urban
+585452998,2,3/15/1963,36,2,0,0,No,110346,Yes,F,High School,Home Maker,28,Private,5100,4,Minivan,No,39425,3,Yes,1,1813,9,Yes,Urban
+323105809,0,2/7/1945,54,0,12,77267,No,0,No,F,Bachelors,Manager,14,Private,14630,1,SUV,No,8395,2,No,0,0,9,No,Urban
+527138960,0,8/3/1941,58,0,0,0,No,0,Yes,M,High School,Student,29,Commercial,7300,4,Pickup,Yes,3485,3,No,8,0,1,No,Rural
+726634120,0,5/31/1960,39,0,0,0,No,0,No,F,High School,Student,53,Commercial,5500,1,Sports Car,No,0,0,No,0,0,8,No,Rural
+983129972,0,9/15/1953,46,0,12,3929,No,69208,Yes,F,PhD,Home Maker,56,Private,1500,6,SUV,No,0,0,No,2,0,18,No,Rural
+640966006,0,12/24/1966,32,4,14,2270,No,0,Yes,M,High School,Student,41,Private,1730,1,Minivan,Yes,0,0,Yes,1,0,8,No,Urban
+214040951,1,11/20/1941,57,2,0,0,No,0,Yes,M,High School,Student,29,Private,9240,1,Pickup,Yes,8336,2,Yes,5,2463,1,Yes,Urban
+698704491,0,7/21/1952,47,0,15,91221,No,263877,Yes,F,Bachelors,Blue Collar,31,Commercial,1500,4,Sports Car,No,5385,2,No,2,465,7,Yes,Urban
+344781057,0,6/4/1955,44,2,12,6035,Yes,0,No,M,High School,Student,29,Private,6500,10,Pickup,Yes,23949,1,Yes,6,0,1,No,Urban
+790738376,1,3/25/1953,46,0,8,109874,No,319629,Yes,M,Bachelors,Blue Collar,72,Private,19450,6,SUV,No,0,0,No,2,0,6,No,Urban
+236044172,0,3/9/1956,43,2,7,33703,No,87190,Yes,F,PhD,Home Maker,5,Private,19010,1,SUV,No,1159,3,No,0,0,9,No,Urban
+18197959,0,2/7/1947,52,0,11,12363,No,0,Yes,M,High School,Clerical,42,Private,2740,13,Minivan,No,0,0,Yes,0,0,1,No,Urban
+853551610,0,12/18/1947,51,0,10,8900,No,80818,Yes,F,High School,Home Maker,65,Private,11600,1,Minivan,No,0,0,No,1,0,1,No,Rural
+962365648,0,10/13/1952,47,0,12,47235,No,205801,No,M,High School,Blue Collar,27,Private,10920,4,Pickup,Yes,9933,2,No,2,3354,1,Yes,Urban
+416746837,0,1/7/1947,52,0,10,27019,No,142929,No,F,Bachelors,Professional,59,Private,9400,16,Sports Car,No,0,0,No,1,0,13,No,Rural
+846741025,0,8/14/1965,34,2,0,0,Yes,0,No,F,High School,Student,22,Private,11520,9,SUV,No,0,0,Yes,0,0,9,No,Urban
+316861921,0,4/18/1958,41,0,10,198600,No,460196,Yes,F,PhD,Manager,5,Private,19480,6,SUV,No,0,0,No,2,0,12,No,Urban
+489794163,0,12/4/1950,48,0,10,7302,No,0,No,F,High School,Student,27,Private,7030,10,SUV,No,3564,1,No,3,5911,1,Yes,Urban
+655100096,0,7/26/1932,67,0,15,2558,No,0,Yes,M,High School,Student,41,Commercial,1500,1,SUV,Yes,0,0,No,2,0,1,No,Urban
+931284621,0,9/24/1956,43,0,14,30037,No,166871,Yes,M,High School,Blue Collar,5,Private,11920,3,Pickup,Yes,25664,3,Yes,3,0,1,No,Urban
+568743363,0,11/3/1963,36,3,15,79457,Yes,213122,No,F,Bachelors,Professional,34,Private,5100,1,SUV,No,0,0,No,1,1368,8,Yes,Urban
+470253509,0,9/9/1941,58,0,14,37991,No,0,No,F,High School,Manager,23,Private,14000,4,Sports Car,No,0,0,Yes,2,3998,1,Yes,Urban
+779542452,0,8/5/1962,37,1,12,64020,Yes,0,No,F,Bachelors,Professional,42,Private,15620,4,Minivan,No,0,0,No,1,0,10,No,Urban
+307096281,0,1/24/1955,44,0,11,108412,No,0,No,M,PhD,Doctor,47,Private,1500,1,Minivan,No,7859,1,No,0,0,18,No,Urban
+279632339,0,6/5/1948,51,0,7,94082,No,255867,Yes,M,Bachelors,Manager,57,Private,15140,9,Minivan,Yes,0,0,No,2,0,9,No,Urban
+427768498,0,1/11/1971,28,2,9,54005,No,164212,Yes,F,Bachelors,Blue Collar,46,Commercial,1500,1,Sports Car,No,0,0,No,0,0,7,No,Rural
+141743339,0,3/15/1949,50,0,12,26748,No,122059,No,M,High School,Blue Collar,25,Commercial,31770,6,Panel Truck,No,7808,3,No,2,0,6,No,Urban
+255731304,0,11/23/1946,52,0,15,88691,No,279497,Yes,M,Bachelors,Blue Collar,40,Private,18200,4,Van,Yes,1261,4,No,2,0,10,No,Urban
+183697567,0,7/17/1958,41,0,13,104652,No,277713,Yes,M,Masters,Professional,25,Commercial,24660,9,Panel Truck,Yes,0,0,No,0,0,9,No,Urban
+887149425,0,11/16/1957,42,3,10,89052,No,213519,Yes,F,Bachelors,Blue Collar,12,Commercial,15550,10,SUV,No,0,0,No,0,0,6,No,Rural
+539729665,0,1/24/1962,37,2,13,133335,Yes,0,No,F,Bachelors,Blue Collar,15,Commercial,21740,1,SUV,No,975,2,No,6,3854,13,Yes,Urban
+214040951,1,11/20/1940,58,2,17,3272,No,0,Yes,M,High School,Student,42,Private,7200,1,Minivan,Yes,5086,2,No,2,3231,5,Yes,Urban
+954212606,0,7/9/1967,32,2,15,77222,No,0,Yes,M,High School,Professional,36,Private,12420,4,Minivan,No,0,0,No,2,0,9,No,Rural
+968418547,0,12/7/1960,38,2,14,58833,No,193644,Yes,M,Bachelors,Blue Collar,41,Commercial,17680,1,Van,Yes,0,0,Yes,2,4611,10,Yes,Urban
+895147164,1,2/13/1957,42,2,10,32526,No,165588,Yes,F,High School,Clerical,38,Private,20150,1,Pickup,No,0,0,No,0,0,5,No,Urban
+989577620,1,8/29/1955,44,2,14,13587,No,130260,Yes,F,High School,Home Maker,43,Private,7260,6,Sports Car,No,0,0,No,0,0,6,No,Rural
+272494372,3,12/7/1954,44,3,12,24197,Yes,0,No,F,High School,Blue Collar,44,Commercial,3920,1,Sports Car,No,0,0,No,2,0,7,No,Rural
+17347314,0,2/5/1962,37,1,7,111183,Yes,314817,No,F,Bachelors,Professional,67,Private,12420,10,Sports Car,No,0,0,No,0,0,8,No,Urban
+981121505,0,12/8/1953,45,0,14,65466,No,212677,Yes,M,High School,Blue Collar,24,Commercial,7080,3,Pickup,No,0,0,No,2,0,1,No,Urban
+1900527,0,5/11/1951,48,0,14,48866,No,185826,Yes,F,Bachelors,Professional,36,Private,26400,3,Pickup,No,0,0,No,0,0,8,No,Urban
+837151081,0,6/4/1927,72,0,16,63890,No,256797,Yes,F,Masters,Lawyer,41,Private,9100,7,Sports Car,No,4448,3,No,0,917,6,Yes,Urban
+646710804,0,2/1/1951,48,0,8,43075,No,175858,Yes,F,High School,Manager,52,Private,13970,4,SUV,No,5878,2,No,3,0,11,No,Urban
+974496106,0,8/18/1959,40,0,9,5253,No,77463,No,F,High School,Student,23,Commercial,23600,4,Pickup,No,0,0,No,0,9162,1,Yes,Urban
+753512533,0,1/25/1950,49,0,9,90658,No,276028,No,F,Bachelors,Blue Collar,7,Commercial,12350,13,Minivan,No,0,0,No,0,0,7,No,Urban
+675974391,0,7/25/1954,45,0,13,32722,No,0,Yes,F,High School,Clerical,49,Private,4770,10,Sports Car,No,0,0,No,1,0,6,No,Urban
+82094250,0,8/25/1957,42,0,9,54178,No,176935,No,F,High School,Blue Collar,39,Commercial,5700,11,SUV,No,0,0,No,1,0,8,No,Rural
+380988425,0,7/5/1966,33,0,0,0,No,0,No,F,High School,Home Maker,31,Private,4900,4,Sports Car,No,1992,2,No,1,0,10,No,Urban
+989066499,1,7/11/1956,43,2,16,45348,No,198638,Yes,F,High School,Clerical,16,Private,10330,1,Sports Car,No,0,0,No,1,0,1,No,Urban
+33286578,1,11/25/1955,43,2,13,45784,No,165388,Yes,M,High School,Blue Collar,79,Commercial,14820,7,Minivan,No,0,0,No,0,0,6,No,Urban
+958601721,0,11/19/1951,47,0,10,114507,No,0,No,F,Masters,Lawyer,27,Private,6200,7,SUV,No,900,1,No,1,0,18,No,Urban
+317439005,0,5/1/1955,44,1,11,48374,No,215391,Yes,M,High School,Blue Collar,48,Commercial,34640,1,Panel Truck,No,0,0,No,0,3844,8,Yes,Urban
+827178489,0,6/23/1951,48,0,13,70682,No,263905,Yes,F,High School,Blue Collar,25,Commercial,13370,3,Minivan,No,11976,2,No,5,0,1,No,Urban
+741358574,0,3/24/1967,32,1,8,63720,Yes,0,No,M,Bachelors,Professional,21,Commercial,18010,3,Van,Yes,39833,2,Yes,6,0,9,No,Urban
+348128429,0,11/10/1949,50,0,14,30795,No,174778,Yes,M,High School,Clerical,53,Commercial,8920,6,Pickup,Yes,0,0,No,0,0,1,No,Rural
+317842701,0,6/25/1947,52,0,12,188148,No,0,No,F,PhD,Lawyer,19,Private,6700,4,Sports Car,No,0,0,No,0,0,11,No,Urban
+969347793,0,2/22/1958,41,0,10,19816,No,142622,Yes,M,High School,Clerical,37,Private,11590,6,Minivan,No,0,0,No,0,0,5,No,Rural
+729507050,0,6/5/1960,39,0,5,123064,No,306644,No,F,High School,Blue Collar,7,Commercial,5400,1,SUV,No,0,0,No,2,0,10,No,Rural
+469933313,0,4/21/1946,53,0,12,48587,No,0,No,M,High School,Blue Collar,61,Commercial,19300,6,Van,No,4390,3,No,3,5951,6,Yes,Urban
+631474711,0,1/22/1951,48,0,10,27208,No,0,No,F,High School,Student,64,Private,10150,6,SUV,No,18535,1,No,3,0,7,No,Urban
+363479465,0,8/1/1947,52,0,13,152004,No,406183,Yes,F,Masters,Lawyer,29,Private,6700,11,SUV,No,0,0,No,0,0,1,No,Rural
+640048389,0,2/18/1946,53,0,14,47625,No,161743,Yes,M,High School,Blue Collar,53,Private,15780,9,Minivan,No,8386,1,No,4,0,6,No,Urban
+974496106,0,8/18/1959,40,0,9,5253,No,77463,No,F,High School,Student,23,Commercial,8140,18,Sports Car,No,0,0,No,3,0,1,No,Urban
+494552963,0,8/13/1950,49,0,7,173242,No,420092,Yes,F,PhD,Manager,40,Private,6400,10,SUV,No,0,0,Yes,0,0,20,No,Urban
+992666577,0,1/4/1940,59,0,0,0,No,0,No,M,Bachelors,Home Maker,42,Commercial,30430,6,Panel Truck,No,1511,1,No,0,0,9,No,Urban
+756075815,0,6/3/1965,34,1,14,5017,No,0,Yes,F,High School,Home Maker,76,Private,8220,4,SUV,No,0,0,No,1,0,9,No,Rural
+52463713,0,5/20/1947,52,0,12,78609,No,281358,No,M,Bachelors,Professional,37,Private,18910,1,Van,Yes,0,0,No,0,0,11,No,Rural
+925791877,0,3/12/1964,35,0,11,85430,No,0,No,F,Bachelors,Blue Collar,14,Commercial,13540,1,SUV,No,8062,2,No,2,22134,1,Yes,Urban
+484650249,0,9/3/1953,46,0,13,161372,No,0,No,F,Masters,Lawyer,36,Private,22240,6,SUV,No,6724,2,No,4,0,9,No,Urban
+318742437,0,9/19/1943,56,0,15,134166,No,324905,Yes,F,Masters,Manager,45,Private,20520,6,Minivan,No,0,0,No,0,0,12,No,Urban
+653931565,0,3/2/1951,48,0,11,81084,No,0,No,F,Bachelors,Professional,42,Private,27360,1,Sports Car,No,2860,1,No,4,60838,9,Yes,Urban
+568406779,0,4/1/1969,30,3,14,40889,No,147629,Yes,F,High School,Clerical,28,Private,29990,3,Minivan,No,0,0,No,0,0,1,No,Rural
+779705246,3,8/25/1937,62,3,16,33995,No,136008,Yes,M,High School,Blue Collar,42,Private,7700,4,SUV,Yes,8002,3,No,4,16840,1,Yes,Urban
+606191446,0,2/23/1949,50,0,11,113845,No,0,No,M,High School,Clerical,18,Private,12880,1,Minivan,Yes,0,0,No,1,0,1,No,Urban
+664499270,0,1/10/1947,52,0,11,5109,No,0,No,F,High School,Home Maker,5,Private,2010,6,Sports Car,No,0,0,No,0,0,3,No,Rural
+82554930,0,8/3/1940,59,0,12,155410,No,422815,Yes,M,Bachelors,Manager,40,Commercial,33330,7,Panel Truck,Yes,4765,3,No,4,5363,10,Yes,Urban
+18911750,0,8/26/1953,46,0,12,9537,No,113805,Yes,F,Masters,Home Maker,18,Private,10760,1,Minivan,No,5624,3,No,3,0,13,No,Urban
+344149788,0,12/5/1950,48,0,11,26875,No,0,No,M,High School,Clerical,18,Commercial,10450,1,Pickup,No,3830,1,No,8,4194,6,Yes,Urban
+634070423,1,4/27/1957,42,3,11,99269,Yes,306012,No,M,Bachelors,Professional,34,Commercial,25910,7,Panel Truck,Yes,45894,2,Yes,1,5061,10,Yes,Urban
+642975749,0,1/31/1949,50,0,11,102262,No,0,No,M,High School,Blue Collar,39,Commercial,16730,14,Van,Yes,0,0,No,0,0,8,No,Rural
+542062164,0,1/26/1966,33,1,10,39584,Yes,0,No,F,Bachelors,Blue Collar,40,Commercial,10260,14,SUV,No,0,0,No,0,0,4,No,Urban
+834666908,0,2/24/1943,56,0,12,95259,No,320094,Yes,F,Bachelors,Blue Collar,25,Commercial,11030,4,Minivan,No,0,0,No,0,0,1,No,Urban
+319910320,0,1/12/1950,49,0,8,76399,No,225768,Yes,M,High School,Blue Collar,44,Commercial,14040,7,Minivan,No,32239,2,Yes,5,0,1,No,Urban
+752309500,0,7/17/1947,52,0,14,57134,No,0,Yes,M,High School,Professional,41,Commercial,8430,4,Pickup,Yes,0,0,No,2,0,8,No,Urban
+494349872,0,2/3/1950,49,0,9,60368,No,170643,Yes,M,Bachelors,Manager,16,Private,6400,4,Pickup,No,0,0,No,0,0,4,No,Urban
+580228287,0,5/6/1978,21,1,8,18483,Yes,0,No,F,High School,Clerical,20,Private,8150,1,Sports Car,No,7781,2,No,3,3038,1,Yes,Urban
+918437912,0,7/16/1949,50,0,9,58628,No,0,No,M,Masters,Lawyer,14,Private,12360,1,Minivan,Yes,0,0,No,0,1030,15,Yes,Urban
+900527776,0,4/24/1969,30,4,14,53140,No,0,Yes,F,Bachelors,Clerical,16,Private,6810,9,SUV,No,36267,1,No,0,0,13,No,Urban
+97903138,0,5/19/1963,36,2,14,80765,No,191252,Yes,M,Masters,Lawyer,29,Private,13840,3,Minivan,Yes,0,0,No,1,0,9,No,Urban
+379632558,0,7/9/1969,30,0,12,80872,No,285859,Yes,M,Bachelors,Professional,27,Private,29580,10,Minivan,Yes,0,0,No,0,0,7,No,Rural
+523858256,0,1/27/1946,53,0,0,0,No,105085,Yes,M,Masters,Home Maker,31,Private,6800,11,Pickup,Yes,0,0,No,0,0,14,No,Urban
+11634102,0,9/23/1950,49,0,2,81280,No,241420,Yes,M,Bachelors,Professional,24,Private,14530,1,Minivan,No,0,0,No,0,0,6,No,Urban
+112544942,0,11/7/1937,62,0,15,39953,No,181434,Yes,M,PhD,Doctor,5,Private,14740,1,SUV,Yes,8006,2,No,0,0,1,No,Urban
+774052555,1,12/25/1960,38,2,13,38317,No,125157,Yes,F,PhD,Doctor,44,Private,1500,1,Sports Car,No,2896,1,No,8,0,8,No,Urban
+468564989,0,4/17/1940,59,0,11,8213,No,0,No,F,High School,Home Maker,61,Private,8840,6,SUV,No,2479,3,No,6,5109,5,Yes,Urban
+126375450,0,8/20/1946,53,0,11,70026,No,0,No,F,Masters,Lawyer,39,Private,18780,10,Pickup,No,0,0,No,0,0,11,No,Urban
+296960793,0,5/13/1953,46,0,13,49838,No,159152,Yes,M,High School,Clerical,15,Private,11080,6,Minivan,Yes,0,0,No,0,0,9,No,Urban
+247424045,2,3/27/1957,42,2,17,69465,No,200108,Yes,M,Bachelors,Blue Collar,35,Commercial,15770,1,Minivan,Yes,0,0,No,0,0,6,No,Rural
+251827434,0,9/5/1953,46,0,0,0,No,0,No,F,High School,Student,23,Commercial,10080,1,SUV,No,0,0,No,0,0,10,No,Rural
+57808809,0,8/3/1956,43,4,11,69651,No,272225,Yes,M,High School,Blue Collar,50,Commercial,19210,10,Van,Yes,0,0,No,0,0,7,No,Urban
+938382235,0,8/2/1949,50,0,12,92237,No,0,No,M,Bachelors,Blue Collar,56,Commercial,15720,13,Minivan,Yes,0,0,No,3,0,11,No,Rural
+315755344,1,5/3/1957,42,1,9,61995,Yes,0,No,F,Bachelors,Professional,52,Private,36080,1,Minivan,No,0,0,No,3,27496,8,Yes,Urban
+600749165,0,9/17/1957,42,0,7,178453,No,450858,Yes,F,Masters,Lawyer,29,Private,24790,6,SUV,No,0,0,No,1,0,17,No,Urban
+233252730,0,5/11/1951,48,0,8,134140,No,0,No,M,PhD,Manager,34,Commercial,30240,1,Panel Truck,No,7478,2,No,6,0,13,No,Urban
+109627178,1,3/7/1961,38,2,11,22938,Yes,0,No,F,High School,Clerical,38,Private,14170,4,SUV,No,9785,2,No,0,5862,1,Yes,Rural
+73630929,0,8/9/1943,56,0,9,29401,No,195993,Yes,F,High School,Clerical,43,Private,18350,14,SUV,No,0,0,No,0,0,6,No,Rural
+365565054,0,1/6/1948,51,0,4,72453,No,0,No,F,PhD,Doctor,52,Private,13850,1,SUV,No,2847,4,No,7,0,15,No,Urban
+314006147,0,7/19/1947,52,0,10,47417,No,229556,No,M,Masters,Lawyer,61,Private,8840,10,Minivan,No,0,0,No,0,0,13,No,Urban
+860143895,0,6/3/1957,42,0,12,91845,No,261848,Yes,F,Masters,Professional,41,Private,33490,11,SUV,No,0,0,No,0,0,19,No,Urban
+166073270,0,10/28/1967,32,0,10,16118,No,0,No,F,High School,Blue Collar,44,Private,6380,1,SUV,No,7223,1,No,4,3960,1,Yes,Urban
+324060462,0,12/18/1956,42,0,13,172119,No,429985,Yes,M,PhD,Manager,26,Commercial,7580,16,Pickup,No,0,0,No,0,0,12,No,Urban
+600385688,0,7/27/1972,27,3,15,52335,No,187295,Yes,M,Bachelors,Clerical,24,Private,9430,18,Minivan,No,0,0,No,0,0,7,No,Urban
+329152754,0,7/25/1961,38,2,10,40180,No,164346,Yes,F,Masters,Home Maker,23,Private,3320,1,Sports Car,No,0,0,No,0,0,2,No,Rural
+676425834,0,6/2/1953,46,0,11,89657,No,267839,No,F,Bachelors,Professional,39,Private,11070,1,SUV,No,0,0,No,1,0,10,No,Urban
+320781931,1,3/21/1961,38,1,14,39338,Yes,0,No,M,High School,Blue Collar,28,Commercial,9230,4,Minivan,No,0,0,No,0,0,1,No,Rural
+427138852,1,10/15/1958,41,1,0,0,No,132571,Yes,F,Masters,Home Maker,21,Private,5600,16,Sports Car,No,4263,3,No,0,0,17,No,Urban
+515799393,0,4/29/1958,41,0,10,50331,No,0,No,F,Bachelors,Blue Collar,23,Commercial,18870,4,Pickup,No,5581,2,No,7,1226,1,Yes,Urban
+826840501,0,3/19/1957,42,1,6,68984,Yes,219684,No,M,High School,Professional,46,Private,1500,6,Minivan,Yes,0,0,Yes,4,0,5,No,Urban
+153574010,0,12/15/1972,26,3,13,14822,Yes,0,No,F,High School,Clerical,5,Private,8830,10,Sports Car,No,7486,3,No,9,3435,1,Yes,Urban
+169535646,0,12/28/1951,47,0,0,0,No,56266,Yes,F,Bachelors,Home Maker,32,Private,6200,1,SUV,No,0,0,Yes,0,0,1,No,Urban
+105282377,0,8/4/1955,44,0,9,70914,No,0,No,F,Bachelors,Blue Collar,69,Commercial,5900,7,SUV,No,0,0,No,0,0,9,No,Rural
+917624270,0,8/10/1944,55,0,13,28196,No,147611,No,F,High School,Clerical,27,Private,16340,6,Minivan,No,0,0,No,0,0,6,No,Rural
+807685357,0,7/18/1960,39,0,10,198320,No,494094,Yes,M,High School,Blue Collar,20,Private,38910,6,Minivan,Yes,0,0,No,1,0,1,No,Urban
+688412739,0,4/10/1951,48,0,13,78966,No,0,No,F,Bachelors,Professional,39,Private,21420,6,Sports Car,No,0,0,No,3,0,8,No,Urban
+808457403,0,4/29/1954,45,0,7,155990,No,405671,Yes,F,Masters,Lawyer,30,Private,6000,4,SUV,No,0,0,No,0,0,11,No,Urban
+489425187,0,5/22/1949,50,0,14,5041,No,85437,No,F,Masters,Home Maker,5,Commercial,13620,10,Pickup,No,0,0,No,0,0,15,No,Urban
+124071503,0,2/23/1943,56,0,77,84186,No,266968,Yes,M,Masters,Manager,45,Private,15520,7,Minivan,No,0,0,No,0,0,19,No,Urban
+93519245,0,4/7/1948,51,0,13,51513,No,0,No,M,Masters,Lawyer,42,Private,6650,4,Minivan,No,33388,2,Yes,4,2838,17,Yes,Urban
+75194867,0,9/13/1963,36,0,0,0,No,68436,No,F,PhD,Home Maker,62,Private,2680,6,Sports Car,No,0,0,No,0,4402,21,Yes,Urban
+825126475,0,11/26/1967,31,1,8,2177,Yes,0,No,M,High School,Student,24,Private,13150,4,Minivan,Yes,0,0,No,0,0,1,No,Urban
+251851062,0,6/29/1959,40,0,8,55258,No,182917,No,M,High School,Blue Collar,37,Commercial,13860,10,Minivan,No,6474,2,No,3,0,1,No,Urban
+931284621,0,9/25/1955,44,0,14,25588,No,119825,Yes,M,High School,Blue Collar,30,Private,14830,5,Minivan,Yes,0,0,No,2,0,4,No,Urban
+918785974,0,6/19/1945,54,0,8,55742,No,186013,Yes,F,High School,Blue Collar,52,Commercial,15810,10,SUV,No,9718,3,Yes,2,5722,9,Yes,Urban
+132924806,0,3/10/1945,54,0,14,81438,No,0,No,F,Masters,Lawyer,39,Private,15040,4,Sports Car,No,0,0,No,0,6220,16,Yes,Urban
+249923796,2,11/15/1959,40,2,13,45777,No,199049,Yes,M,Bachelors,Clerical,78,Commercial,16990,7,Van,Yes,0,0,No,4,0,11,No,Rural
+111008804,0,9/1/1961,38,0,10,98120,No,0,No,F,Bachelors,Blue Collar,22,Commercial,16090,3,SUV,No,2982,3,No,2,0,12,No,Urban
+230948853,0,12/25/1940,58,0,12,69282,No,295989,Yes,M,Bachelors,Professional,47,Private,10520,6,Pickup,No,1142,1,No,0,3879,13,Yes,Urban
+958652858,1,12/3/1956,42,2,10,36230,Yes,158234,No,F,High School,Blue Collar,42,Private,6480,4,SUV,No,9773,2,No,1,2962,5,Yes,Urban
+913147347,0,9/19/1958,41,0,10,36339,No,217475,Yes,F,High School,Blue Collar,40,Commercial,25980,6,Pickup,No,0,0,No,2,0,13,No,Urban
+430554774,0,9/7/1954,45,3,18,77865,No,209526,Yes,F,High School,Blue Collar,14,Private,27170,7,Minivan,No,0,0,No,1,0,7,No,Urban
+471968658,0,6/23/1946,53,0,15,63049,No,197046,Yes,M,Bachelors,Professional,40,Private,13010,6,Minivan,Yes,1402,1,No,6,0,12,No,Urban
+424786843,0,8/2/1969,30,0,10,27803,No,0,No,F,High School,Clerical,41,Private,7280,4,Minivan,No,6322,2,No,5,0,8,No,Urban
+348362424,0,12/10/1966,32,1,14,42667,Yes,0,No,M,Bachelors,Professional,30,Commercial,8130,6,Pickup,Yes,5398,1,No,3,4405,1,Yes,Urban
+730161977,0,11/1/1949,50,0,8,34611,No,0,No,F,High School,Clerical,47,Private,12760,1,Minivan,No,3908,2,No,4,0,8,No,Urban
+777788532,0,12/21/1956,42,3,88,43444,Yes,190220,No,F,High School,Manager,33,Private,28060,7,Minivan,No,0,0,No,1,0,8,No,Urban
+438085141,1,7/12/1957,42,1,12,71686,Yes,0,No,F,Bachelors,Professional,37,Private,12870,10,Sports Car,No,5982,2,No,2,5378,10,Yes,Urban
+729906545,0,4/11/1958,41,0,0,0,No,105303,Yes,F,Masters,Home Maker,60,Private,5600,1,SUV,No,0,0,No,0,0,19,No,Rural
+732351484,1,7/18/1960,39,3,14,46878,No,176582,Yes,F,Bachelors,Clerical,27,Private,13740,7,SUV,No,0,0,No,1,0,9,No,Urban
+638387778,0,5/18/1972,27,0,8,78197,No,229920,Yes,F,Masters,Manager,12,Private,18040,13,Pickup,No,0,0,No,0,0,12,No,Urban
+114352452,1,7/3/1956,43,1,11,84342,No,289734,Yes,M,Masters,Lawyer,47,Private,28840,10,Minivan,No,3826,3,No,2,0,8,No,Urban
+938303236,0,11/13/1954,45,1,9,24178,No,115381,Yes,F,High School,Clerical,67,Private,29790,10,Minivan,No,9197,2,No,1,0,1,No,Urban
+616415777,0,1/12/1956,43,0,11,44139,No,149105,No,F,High School,Blue Collar,40,Commercial,13910,1,SUV,No,0,0,Yes,0,0,1,No,Rural
+897529156,0,6/15/1966,33,0,9,69641,No,230290,No,M,Bachelors,Blue Collar,33,Commercial,22680,1,Panel Truck,Yes,1712,4,No,2,2044,15,Yes,Urban
+134426064,0,2/16/1951,48,0,15,81940,No,263363,Yes,F,High School,Manager,5,Private,17270,1,Sports Car,No,17691,1,Yes,6,0,1,No,Urban
+339847244,0,5/20/1947,52,0,13,16005,No,52557,Yes,M,High School,Clerical,38,Private,11570,7,Pickup,Yes,3546,1,No,5,0,1,No,Urban
+827574178,0,7/11/1952,47,0,12,55019,No,206801,Yes,F,Bachelors,Professional,51,Private,18110,4,SUV,No,9085,2,No,1,0,9,No,Urban
+897465576,0,3/4/1948,51,1,13,46381,No,217179,Yes,F,High School,Manager,18,Private,20130,12,SUV,No,0,0,No,0,0,6,No,Urban
+448101140,0,3/16/1952,47,0,8,51624,No,0,No,M,High School,Clerical,24,Private,20500,1,Van,Yes,0,0,No,0,0,1,No,Urban
+288116855,0,1/19/1971,28,0,9,13410,No,0,Yes,M,High School,Student,27,Private,4500,7,Pickup,No,5575,2,No,2,835,10,Yes,Urban
+809433095,0,7/11/1948,51,0,11,61666,No,198755,Yes,F,Bachelors,Manager,34,Private,20910,1,Pickup,No,10147,1,No,4,0,11,No,Urban
+686821723,0,4/15/1957,42,1,11,200928,No,513817,Yes,M,PhD,Manager,25,Commercial,5600,1,Pickup,No,4020,1,No,2,2931,14,Yes,Urban
+380886411,0,4/16/1952,47,0,12,64246,No,233450,Yes,M,Bachelors,Manager,34,Commercial,7200,1,Pickup,Yes,10265,1,No,1,0,13,No,Urban
+896894650,0,7/31/1959,40,2,9,31957,No,143354,Yes,M,High School,Clerical,29,Private,19930,14,Van,Yes,0,0,No,0,0,1,No,Urban
+484814016,0,12/24/1968,30,2,11,13490,No,95447,Yes,M,High School,Student,5,Commercial,5850,10,Pickup,No,31401,3,Yes,1,4578,1,Yes,Urban
+989870546,0,7/21/1946,53,0,11,82266,No,0,No,M,Masters,Lawyer,21,Private,15030,1,Minivan,Yes,0,0,No,1,0,16,No,Urban
+79332543,0,9/20/1966,33,1,12,92060,Yes,0,No,F,Bachelors,Professional,24,Private,14010,5,SUV,No,0,0,No,0,2982,10,Yes,Urban
+221331559,0,10/20/1946,53,1,13,52019,No,213950,Yes,M,Bachelors,Blue Collar,52,Commercial,16940,3,Van,No,32115,1,No,0,0,11,No,Urban
+551296680,0,3/13/1956,43,0,12,2346,No,99554,Yes,F,Bachelors,Student,25,Commercial,24590,1,Minivan,No,33218,3,No,0,0,7,No,Urban
+433559105,0,5/2/1963,36,0,11,48901,No,210300,Yes,M,High School,Manager,5,Private,5100,1,Pickup,No,3805,3,No,0,0,9,No,Urban
+344418903,1,5/22/1961,38,2,15,40342,No,189439,Yes,F,Bachelors,Clerical,5,Private,8230,1,SUV,No,0,0,No,1,0,14,No,Rural
+363183316,0,1/18/1958,41,2,13,78370,Yes,230394,No,F,Masters,Lawyer,42,Private,21340,11,Minivan,No,0,0,No,0,0,12,No,Rural
+960411098,3,12/29/1960,38,3,9,38212,Yes,160245,No,M,Bachelors,Clerical,61,Commercial,22320,1,Van,Yes,4326,4,No,6,0,13,No,Rural
+321588388,0,10/27/1963,36,1,10,100095,Yes,0,No,F,Masters,Lawyer,15,Private,17520,1,SUV,No,0,0,No,0,0,19,No,Urban
+943460621,0,10/29/1948,51,0,12,37721,No,0,No,M,High School,Blue Collar,23,Commercial,11750,1,Pickup,Yes,6281,2,No,1,0,5,No,Rural
+887521778,0,10/28/1943,56,0,8,42834,No,146455,Yes,M,Bachelors,Blue Collar,29,Commercial,22760,4,Panel Truck,Yes,0,0,No,5,0,8,No,Rural
+668312735,0,9/17/1952,47,0,9,107414,No,0,No,F,Masters,Home Maker,50,Commercial,21220,7,Pickup,No,8295,2,No,2,0,17,No,Urban
+728598765,0,3/19/1953,46,0,15,45109,No,230564,Yes,F,PhD,Doctor,31,Private,26780,4,Minivan,No,0,0,No,1,0,18,No,Urban
+890361473,0,5/19/1956,43,0,9,21913,No,125624,Yes,M,High School,Clerical,26,Commercial,7990,6,Pickup,No,4748,3,No,1,0,4,No,Urban
+786615637,0,10/29/1946,53,0,2,55890,No,0,No,F,Masters,Lawyer,43,Private,12390,6,SUV,No,6668,1,No,4,0,19,No,Urban
+496944134,0,8/17/1962,37,3,15,130123,No,0,Yes,F,Bachelors,Blue Collar,59,Commercial,32260,4,Minivan,No,0,0,No,0,0,7,No,Urban
+343549613,0,12/7/1952,46,0,10,70307,No,226429,Yes,F,Bachelors,Blue Collar,36,Commercial,22210,1,SUV,No,6632,2,No,0,0,10,No,Urban
+412540642,0,8/23/1942,57,0,13,27281,No,198619,Yes,F,High School,Home Maker,24,Private,22470,4,SUV,No,0,0,Yes,1,6331,1,Yes,Urban
+292877455,0,4/19/1944,55,0,15,39422,No,173117,Yes,F,High School,Clerical,32,Private,18150,1,Minivan,No,0,0,No,0,0,8,No,Urban
+775278706,0,5/20/1949,50,0,3,87719,No,0,No,M,Bachelors,Blue Collar,20,Commercial,9160,17,Minivan,No,0,0,Yes,2,9270,9,Yes,Urban
+426770568,0,4/8/1959,40,0,11,32265,No,0,No,F,High School,Clerical,46,Private,8730,3,Minivan,No,3979,1,No,7,5040,1,Yes,Urban
+22965816,0,8/23/1952,47,0,10,55821,No,223804,Yes,F,High School,Clerical,48,Private,11780,1,SUV,No,7822,3,No,0,0,1,No,Urban
+307042838,0,8/3/1962,37,3,15,98655,No,272278,Yes,F,Masters,Lawyer,15,Private,11370,1,SUV,No,0,0,No,5,0,13,No,Urban
+381939339,0,6/4/1965,34,1,11,35136,No,121175,Yes,M,High School,Clerical,9,Private,15330,10,Minivan,Yes,0,0,No,1,0,1,No,Urban
+647929536,0,6/9/1962,37,0,10,44705,No,159710,Yes,M,Masters,Professional,21,Private,12990,6,Minivan,Yes,0,0,No,4,0,13,No,Urban
+877092530,1,6/4/1961,38,3,15,57925,No,144063,Yes,M,High School,Blue Collar,16,Private,30770,6,Minivan,Yes,0,0,No,0,0,6,No,Urban
+689058670,0,8/25/1943,56,0,13,44320,No,166535,Yes,F,Bachelors,Clerical,48,Commercial,12160,1,Pickup,No,3211,1,No,7,4539,15,Yes,Urban
+22340563,1,5/25/1960,39,3,17,25846,No,107211,Yes,M,High School,Clerical,68,Commercial,26850,10,Panel Truck,Yes,0,0,No,3,0,7,No,Urban
+640251296,0,11/23/1940,58,0,90,7452,No,0,No,F,High School,Student,30,Private,8050,1,SUV,No,9231,3,No,0,2011,1,Yes,Urban
+426369935,0,6/12/1957,42,2,14,73694,No,224623,Yes,F,Bachelors,Professional,37,Private,5730,1,SUV,No,0,0,Yes,0,2408,11,Yes,Urban
+441669981,0,10/6/1947,52,0,13,57536,No,180830,Yes,F,High School,Professional,74,Private,17130,6,Pickup,No,0,0,No,0,0,6,No,Rural
+692928838,2,7/26/1954,45,3,9,44786,No,175534,Yes,F,High School,Clerical,5,Private,10480,13,SUV,No,0,0,No,2,2697,1,Yes,Urban
+442029284,0,8/13/1952,47,0,12,38760,No,215332,No,F,Bachelors,Professional,17,Commercial,27820,6,Pickup,No,0,0,No,1,0,12,No,Rural
+509848253,0,6/8/1953,46,0,13,52955,No,0,No,M,Bachelors,Professional,15,Private,14640,1,Minivan,Yes,0,0,No,0,0,9,No,Urban
+792036483,1,8/27/1965,34,1,12,33197,No,123199,Yes,F,High School,Clerical,29,Private,5100,4,SUV,No,0,0,No,0,0,6,No,Urban
+111510092,0,5/22/1962,37,4,17,22699,Yes,0,No,M,High School,Clerical,35,Private,7470,1,Pickup,Yes,0,0,No,0,0,1,No,Rural
+521577209,0,4/2/1953,46,0,10,144448,No,370578,No,F,Masters,Lawyer,34,Private,12130,1,SUV,No,0,0,No,3,0,17,No,Urban
+932490405,0,5/11/1969,30,1,12,28162,No,137585,Yes,M,High School,Clerical,6,Private,12680,3,Minivan,Yes,49131,1,Yes,0,0,7,No,Urban
+300696853,0,5/12/1958,41,2,17,65901,No,243198,Yes,M,PhD,Lawyer,16,Private,16570,6,Van,Yes,0,0,Yes,1,0,8,No,Urban
+220914247,0,10/6/1942,57,1,0,0,No,83843,Yes,F,High School,Home Maker,36,Private,9180,1,SUV,No,2933,2,No,8,5835,1,Yes,Urban
+749739115,2,2/8/1959,40,3,16,96613,Yes,296274,No,F,Bachelors,Professional,30,Private,24010,1,Minivan,No,4426,2,No,3,1418,5,Yes,Urban
+464257651,0,10/4/1963,36,0,13,46195,No,218149,Yes,F,Bachelors,Clerical,25,Private,20530,3,Minivan,No,0,0,No,0,0,14,No,Rural
+897794715,0,3/16/1952,47,0,0,0,No,67647,Yes,F,Bachelors,Home Maker,19,Private,6200,9,SUV,No,23972,2,Yes,1,0,9,No,Urban
+187912292,0,7/3/1971,28,0,8,62294,No,177386,No,M,High School,Blue Collar,43,Commercial,18370,7,Van,Yes,0,0,No,1,0,8,No,Rural
+623213210,0,7/11/1953,46,0,14,99224,No,274393,Yes,M,Bachelors,Blue Collar,33,Commercial,13500,1,Minivan,No,0,0,No,1,0,11,No,Rural
+640148036,0,11/6/1946,53,0,11,27045,No,161922,Yes,M,Bachelors,Clerical,54,Commercial,6800,6,Pickup,No,6523,3,No,4,2439,7,Yes,Urban
+134059959,0,10/12/1951,48,0,11,75984,No,0,No,F,High School,Blue Collar,42,Commercial,37310,1,Sports Car,No,40386,3,Yes,1,1062,2,Yes,Urban
+202401508,0,6/1/1951,48,0,12,88745,No,241555,Yes,F,High School,Blue Collar,55,Commercial,7050,1,SUV,No,1031,2,No,5,0,12,No,Urban
+101437485,0,7/5/1960,39,0,10,31869,No,0,No,F,High School,Clerical,5,Private,15140,22,SUV,No,8431,1,No,4,0,7,No,Urban
+354229385,0,12/2/1954,44,2,14,57857,Yes,0,No,F,Bachelors,Professional,23,Private,19170,1,SUV,No,0,0,No,0,0,7,No,Urban
+908301475,0,5/2/1961,38,0,9,57890,No,0,No,F,Bachelors,Clerical,19,Commercial,25280,1,Pickup,No,0,0,Yes,2,3338,13,Yes,Urban
+707470066,0,9/24/1969,30,4,16,42579,No,169596,Yes,F,High School,Blue Collar,12,Commercial,24490,10,Pickup,No,2974,1,No,0,0,7,No,Urban
+819681380,0,10/3/1955,44,0,4,64617,No,0,No,F,High School,Blue Collar,46,Commercial,12360,4,SUV,No,0,0,No,0,0,1,No,Urban
+364590423,0,10/3/1955,44,2,14,26377,Yes,169045,No,M,High School,Clerical,30,Private,8540,1,Minivan,Yes,4236,3,No,3,4312,1,Yes,Urban
+173124759,0,7/15/1962,37,0,9,101863,No,291191,No,M,Bachelors,Professional,43,Commercial,25850,4,Panel Truck,Yes,0,0,No,0,0,5,No,Urban
+85976149,0,7/23/1975,24,1,7,6862,Yes,0,No,F,Bachelors,Clerical,38,Private,2190,1,SUV,Yes,11226,1,No,4,2569,9,Yes,Urban
+758460775,0,3/6/1955,44,0,14,110556,No,345278,Yes,F,Masters,Manager,41,Private,14090,6,SUV,No,0,0,No,2,0,14,No,Urban
+874293167,0,7/5/1942,57,0,15,66293,No,242648,Yes,M,Bachelors,Professional,7,Commercial,27370,6,Panel Truck,No,0,0,No,0,0,7,No,Urban
+752605960,0,8/2/1944,55,0,10,7231,No,82289,Yes,F,Masters,Lawyer,21,Private,2220,4,SUV,No,26871,1,Yes,2,0,12,No,Urban
+280723155,0,9/10/1950,49,0,15,95637,No,277837,Yes,M,High School,Blue Collar,9,Commercial,12330,1,Minivan,Yes,0,0,No,1,0,1,No,Urban
+630289134,0,8/12/1945,54,0,6,73663,No,268990,Yes,M,Bachelors,Professional,14,Commercial,41310,7,Panel Truck,No,36700,1,Yes,3,0,5,No,Urban
+232838532,0,8/17/1944,55,0,15,87426,No,286182,Yes,M,Bachelors,Blue Collar,41,Private,8410,4,Pickup,No,0,0,No,0,0,9,No,Urban
+915517588,0,5/6/1958,41,2,12,10758,No,92197,Yes,F,Masters,Home Maker,41,Commercial,22210,7,Pickup,No,0,0,No,2,0,12,No,Urban
+273204117,0,3/1/1947,52,0,12,82599,No,0,No,F,Masters,Lawyer,16,Private,13660,6,Minivan,No,0,0,No,2,0,26,No,Urban
+131312301,0,11/11/1948,51,1,15,58184,No,231102,Yes,F,High School,Manager,11,Private,16010,9,Minivan,No,0,0,No,0,0,1,No,Urban
+861285967,0,11/8/1948,51,0,11,122934,No,0,No,F,Bachelors,Professional,38,Private,28140,1,Minivan,No,4992,2,No,6,0,11,No,Urban
+125727457,0,7/29/1951,48,0,12,80657,No,257921,Yes,M,Bachelors,Blue Collar,42,Commercial,14370,13,Minivan,Yes,2928,2,No,4,0,9,No,Urban
+121455159,0,1/10/1951,48,0,8,75914,No,0,No,F,Bachelors,Professional,51,Private,13240,1,SUV,No,0,0,No,0,0,1,No,Urban
+986624385,0,6/7/1951,48,0,10,19718,No,126038,Yes,F,High School,Clerical,23,Private,15550,6,Minivan,No,0,0,No,2,0,1,No,Urban
+747557690,0,8/4/1954,45,2,0,0,No,115797,Yes,M,High School,Student,21,Private,6880,1,Pickup,Yes,0,0,No,0,0,7,No,Urban
+60772381,0,3/1/1948,51,0,14,77728,No,215250,No,F,Bachelors,Blue Collar,43,Commercial,14370,10,SUV,No,8466,4,No,4,0,9,No,Urban
+64779757,0,7/22/1946,53,0,16,73056,No,0,No,M,Bachelors,Manager,34,Private,14110,9,Minivan,Yes,0,0,No,1,0,12,No,Urban
+582239433,0,6/5/1953,46,0,10,93543,No,0,No,F,Masters,Lawyer,54,Private,24430,1,Minivan,No,43170,2,No,6,0,16,No,Urban
+308802855,0,8/16/1945,54,0,12,1590,No,58365,Yes,M,Masters,Lawyer,14,Private,20320,7,Van,Yes,0,0,No,0,0,16,No,Urban
+560240002,0,12/23/1967,31,1,9,17645,No,0,Yes,F,Bachelors,Student,32,Commercial,4600,6,SUV,No,0,0,Yes,0,0,11,No,Urban
+835290346,0,2/9/1952,47,0,13,40460,No,0,No,F,Masters,Blue Collar,54,Commercial,5550,4,Sports Car,No,0,0,No,1,0,16,No,Rural
+506016624,0,8/9/1948,51,0,12,15542,No,0,No,F,High School,Blue Collar,14,Private,3050,10,SUV,No,0,0,No,0,0,1,No,Rural
+908951082,0,5/30/1952,47,0,11,93658,No,303850,Yes,M,Masters,Lawyer,37,Private,6200,5,Minivan,No,0,0,No,0,0,15,No,Urban
+183450284,0,8/1/1961,38,0,5,25123,No,101352,Yes,M,High School,Student,52,Private,11710,1,Pickup,Yes,0,0,No,1,0,1,No,Rural
+549987782,0,12/2/1943,55,0,11,34466,No,152288,No,F,High School,Clerical,32,Private,17080,7,Minivan,No,0,0,No,1,0,1,No,Urban
+464246616,0,12/21/1951,47,0,14,52814,No,217253,Yes,M,High School,Blue Collar,20,Commercial,11480,1,Pickup,Yes,0,0,No,0,0,11,No,Rural
+136529714,2,7/8/1954,45,3,10,116018,No,0,Yes,M,Bachelors,Manager,25,Commercial,17600,4,Van,No,16545,1,Yes,2,4011,4,Yes,Urban
+48124408,0,12/19/1946,52,0,6,147666,No,405910,Yes,F,Masters,Lawyer,43,Private,21530,7,Minivan,No,0,0,No,0,0,17,No,Rural
+299535182,0,1/26/1951,48,0,10,173279,No,0,No,F,PhD,Doctor,27,Private,22390,4,Van,No,7357,2,No,8,0,1,No,Urban
+571506701,0,3/24/1949,50,0,11,92321,No,317665,Yes,M,Masters,Lawyer,28,Private,11660,6,Minivan,No,0,0,No,0,0,10,No,Urban
+624938466,0,3/4/1958,41,1,0,0,No,65804,Yes,F,High School,Home Maker,31,Private,5600,1,SUV,No,7792,3,No,2,0,1,No,Urban
+619566934,0,11/5/1952,47,0,11,86434,No,236431,Yes,F,Masters,Manager,36,Private,13270,1,Minivan,No,0,0,No,0,0,14,No,Urban
+55524088,0,2/18/1972,27,1,9,7989,No,59185,Yes,F,High School,Home Maker,48,Private,5000,6,Sports Car,No,0,0,No,2,0,1,No,Rural
+773531108,2,1/4/1957,42,3,17,28916,No,115937,Yes,F,High School,Clerical,43,Private,8300,4,Sports Car,No,958,1,No,4,8809,7,Yes,Urban
+128098401,0,4/3/1974,25,1,9,24234,No,0,Yes,M,Bachelors,Student,46,Commercial,6420,1,Pickup,Yes,1368,2,No,1,0,15,No,Rural
+627042394,0,5/10/1965,34,3,9,23439,No,113409,Yes,F,High School,Clerical,38,Private,7240,4,Minivan,No,0,0,Yes,1,7551,6,Yes,Urban
+218091133,0,12/26/1962,36,0,9,64677,No,0,No,F,Masters,Lawyer,43,Private,11570,6,SUV,No,8190,2,No,5,0,23,No,Urban
+967475025,1,8/4/1955,44,3,15,74483,No,265815,Yes,F,High School,Clerical,43,Private,12300,6,SUV,No,0,0,No,0,0,5,No,Rural
+183615561,0,10/4/1950,49,0,9,117252,No,0,No,M,Masters,Lawyer,28,Private,18130,11,Van,Yes,6494,2,No,0,0,15,No,Urban
+233129192,1,9/11/1958,41,2,15,105563,No,306854,Yes,F,Masters,Lawyer,23,Private,27520,7,Pickup,No,35585,2,Yes,0,3771,18,Yes,Urban
+367663474,0,10/6/1953,46,0,11,68126,No,214584,Yes,F,Bachelors,Professional,52,Private,21160,1,Minivan,No,0,0,No,0,0,6,No,Urban
+299207740,0,9/12/1945,54,0,13,63212,No,207429,Yes,F,High School,Manager,38,Private,13220,1,SUV,No,6712,1,No,0,0,1,No,Urban
+454506838,0,9/28/1953,46,0,14,39075,No,170744,Yes,F,Masters,Lawyer,8,Private,26000,1,Minivan,No,0,0,No,3,0,18,No,Urban
+571823205,0,4/6/1953,46,1,13,62886,Yes,202178,No,F,Bachelors,Professional,18,Private,22260,1,Minivan,No,5290,1,No,6,0,6,No,Urban
+202763058,1,9/15/1959,40,3,14,33150,No,146180,Yes,M,High School,Clerical,23,Commercial,20990,4,Van,Yes,0,0,No,0,0,1,No,Rural
+651998401,0,12/20/1948,50,0,0,0,No,0,No,F,High School,Home Maker,37,Private,6500,3,Sports Car,No,0,0,No,0,2668,1,Yes,Urban
+888316246,0,12/16/1955,43,1,8,23921,Yes,0,No,F,High School,Clerical,25,Private,14070,21,Sports Car,No,3805,1,No,2,4488,1,Yes,Urban
+204629831,1,8/23/1954,45,1,10,36365,Yes,0,No,M,High School,Clerical,48,Private,20010,4,Minivan,No,0,0,No,3,5811,8,Yes,Urban
+184370200,2,11/22/1962,36,2,10,35990,Yes,0,No,M,High School,Clerical,34,Private,13840,6,Minivan,Yes,10310,1,No,3,890,1,Yes,Rural
+893164992,0,11/6/1949,50,0,12,102191,No,308402,Yes,M,Masters,Manager,55,Commercial,19380,11,Van,Yes,8730,2,No,0,0,21,No,Urban
+657603682,0,9/23/1952,47,0,11,78953,No,233925,Yes,M,Bachelors,Blue Collar,23,Commercial,17410,4,Van,Yes,0,0,No,1,0,8,No,Urban
+528698470,1,6/9/1955,44,1,12,19237,No,129516,Yes,F,High School,Clerical,28,Private,22500,11,Minivan,No,0,0,No,0,0,5,No,Urban
+932076592,0,12/14/1963,35,2,10,99325,Yes,253542,No,F,Bachelors,Blue Collar,40,Commercial,20870,9,SUV,No,1994,2,No,3,6755,15,Yes,Urban
+575863096,0,5/1/1952,47,0,11,183410,No,407959,Yes,M,Masters,Lawyer,44,Private,1500,4,Minivan,Yes,0,0,No,2,0,17,No,Urban
+643171611,0,11/28/1939,59,3,18,69483,No,255868,Yes,M,Bachelors,Blue Collar,34,Commercial,14350,1,Minivan,Yes,0,0,No,1,0,12,No,Rural
+33092467,0,12/26/1961,37,1,11,55341,No,180901,Yes,F,Masters,Lawyer,46,Private,19220,4,SUV,No,12204,1,No,0,0,17,No,Urban
+458250012,0,11/2/1958,41,0,10,130607,No,319354,Yes,F,Masters,Lawyer,31,Private,5600,10,SUV,No,0,0,No,3,0,21,No,Urban
+439757265,0,8/7/1956,43,0,4,135157,No,358420,Yes,F,PhD,Doctor,31,Private,20470,6,SUV,No,0,0,No,0,0,16,No,Urban
+430670098,0,4/1/1969,30,2,11,132463,Yes,362176,No,M,Bachelors,Professional,38,Private,14820,6,Minivan,Yes,5007,3,No,5,0,11,No,Urban
+880340839,0,9/2/1953,46,0,10,107872,No,324375,Yes,F,Masters,Lawyer,35,Private,12290,4,Sports Car,No,4784,3,No,3,0,11,No,Urban
+64308498,0,9/14/1943,56,0,14,13692,No,134847,Yes,F,High School,Home Maker,28,Private,35620,1,SUV,No,0,0,No,0,0,9,No,Urban
+495504901,0,2/1/1959,40,2,12,71237,No,203433,Yes,M,Bachelors,Clerical,25,Private,12620,1,Minivan,Yes,30001,2,Yes,5,0,13,No,Urban
+673625030,0,12/25/1947,51,0,16,36431,No,170380,Yes,M,High School,Clerical,51,Commercial,18050,6,Van,No,0,0,No,1,0,1,No,Rural
+171651788,0,10/6/1959,40,0,0,0,No,0,No,F,High School,Student,48,Commercial,8690,10,SUV,No,0,0,No,0,0,10,No,Rural
+937660052,0,7/16/1961,38,0,11,71263,No,193720,Yes,F,Bachelors,Blue Collar,34,Commercial,14980,9,SUV,No,29447,1,Yes,0,1909,9,Yes,Urban
+810479400,0,6/25/1966,33,2,14,58973,No,197613,Yes,M,High School,Blue Collar,26,Commercial,10580,1,Pickup,Yes,0,0,No,1,20540,1,Yes,Urban
+994894155,1,7/30/1963,36,1,11,109631,No,277683,Yes,F,Bachelors,Blue Collar,15,Commercial,29960,10,Minivan,No,0,0,No,0,7443,12,Yes,Urban
+106952963,3,7/20/1962,37,3,10,107765,Yes,309216,No,M,Masters,Manager,14,Commercial,24440,4,Panel Truck,Yes,5818,1,No,1,0,17,No,Urban
+206064949,0,3/16/1964,35,2,13,8746,No,127941,Yes,F,High School,Blue Collar,50,Commercial,5370,1,SUV,No,0,0,No,6,962,1,Yes,Urban
+422322006,0,6/27/1973,26,0,9,53982,No,152641,Yes,F,Bachelors,Blue Collar,37,Commercial,18980,10,SUV,No,0,0,No,0,0,1,No,Rural
+792318698,1,10/25/1957,42,4,15,9950,No,0,Yes,F,High School,Student,37,Private,6690,11,SUV,No,0,0,Yes,0,0,1,No,Urban
+944417458,0,9/24/1964,35,0,8,32994,No,142226,No,F,High School,Blue Collar,26,Private,13120,4,SUV,No,0,0,No,3,0,1,No,Urban
+43560967,0,2/10/1944,55,0,11,44427,No,214963,Yes,F,Bachelors,Manager,27,Private,15890,10,SUV,No,0,0,No,0,0,11,No,Urban
+337358239,0,1/25/1950,49,0,0,0,No,0,No,F,Bachelors,Home Maker,52,Private,6400,3,SUV,No,0,0,No,5,4439,9,Yes,Urban
+384934557,0,1/20/1962,37,1,9,6478,No,114124,Yes,F,High School,Student,43,Private,5300,1,SUV,No,0,0,No,0,0,8,No,Urban
+12233674,0,12/24/1968,30,0,10,37614,No,165402,Yes,M,High School,Blue Collar,75,Commercial,16170,6,Minivan,Yes,0,0,No,1,0,1,No,Rural
+61725370,0,5/15/1944,55,0,13,74385,No,0,No,F,Bachelors,Professional,61,Private,12520,9,SUV,No,8533,1,Yes,7,2203,12,Yes,Rural
+519429084,0,11/24/1956,42,0,7,2763,No,0,Yes,M,High School,Student,44,Commercial,7230,4,Pickup,No,0,0,No,0,0,9,No,Rural
+355004402,0,11/3/1945,54,0,7,91916,No,266099,Yes,F,Bachelors,Professional,42,Private,16090,1,SUV,No,0,0,No,0,0,9,No,Rural
+435559869,0,8/14/1952,47,0,8,76134,No,218823,Yes,M,Bachelors,Professional,22,Private,37580,9,Minivan,No,0,0,No,0,0,1,No,Urban
+271390150,0,12/2/1962,36,1,4,75587,Yes,0,No,M,Bachelors,Blue Collar,36,Commercial,22520,20,Van,No,3753,1,No,2,0,6,No,Urban
+726538399,0,11/4/1955,44,1,66,48088,No,131782,Yes,F,High School,Blue Collar,31,Commercial,10710,1,Minivan,No,3647,2,No,2,0,6,No,Urban
+244445585,0,9/1/1951,48,0,11,136008,No,0,No,M,Masters,Lawyer,34,Private,30280,10,Minivan,Yes,0,0,Yes,2,0,11,No,Urban
+603952631,0,4/3/1968,31,3,12,14064,Yes,0,No,M,High School,Clerical,24,Private,12470,10,Minivan,Yes,9237,2,No,2,0,5,No,Urban
+946040735,0,4/8/1959,40,0,11,83999,No,224899,Yes,F,Masters,Lawyer,28,Private,24530,1,SUV,No,0,0,No,0,0,14,No,Urban
+264240413,0,11/5/1959,40,1,13,37958,Yes,0,No,M,Bachelors,Clerical,45,Private,13890,4,Minivan,No,15849,1,Yes,0,2303,10,Yes,Urban
+889607442,0,11/7/1966,33,1,11,13812,No,0,Yes,F,High School,Student,49,Private,4800,1,SUV,No,0,0,No,0,5181,1,Yes,Urban
+233104477,0,8/14/1962,37,0,11,90295,No,240194,Yes,F,Bachelors,Manager,25,Private,14890,12,SUV,No,0,0,Yes,0,0,14,No,Urban
+762271373,0,5/8/1948,51,0,14,121900,No,392573,Yes,M,Masters,Lawyer,56,Private,14740,1,Minivan,No,5519,1,No,4,0,15,No,Urban
+646644539,1,11/18/1963,35,2,5,71424,Yes,224831,No,M,Masters,Lawyer,32,Private,18390,11,Minivan,Yes,0,0,No,1,0,21,No,Urban
+884881408,0,4/19/1945,54,0,9,94995,No,301004,Yes,F,PhD,Clerical,42,Commercial,33700,7,Minivan,Yes,5172,1,No,6,0,10,No,Rural
+91970915,1,7/14/1963,36,2,9,21873,Yes,118100,No,M,High School,Clerical,27,Private,7290,6,Minivan,No,0,0,No,0,0,1,No,Rural
+290532681,0,3/7/1951,48,0,5,92868,No,256927,Yes,F,Masters,Manager,39,Private,15590,7,SUV,No,0,0,No,2,0,9,No,Urban
+604014833,0,2/28/1946,53,0,10,185291,No,475137,Yes,F,PhD,Manager,49,Private,22070,17,Pickup,No,0,0,No,3,0,12,No,Urban
+297184888,0,9/28/1961,38,0,12,97821,No,268333,Yes,M,Masters,Manager,39,Private,15080,7,Minivan,No,0,0,No,3,0,10,No,Urban
+946150116,0,7/28/1951,48,0,15,24503,No,141398,No,M,High School,Blue Collar,39,Commercial,20350,1,Van,Yes,0,0,No,0,0,8,No,Rural
+75005626,0,5/24/1958,41,0,9,18939,No,0,No,M,High School,Blue Collar,50,Private,5600,1,Minivan,No,41669,3,Yes,1,2553,1,Yes,Urban
+438313427,0,7/20/1955,44,0,13,102872,No,345288,No,M,Bachelors,Professional,38,Private,5960,7,Pickup,Yes,0,0,Yes,1,0,17,No,Urban
+834417714,0,5/4/1951,48,0,12,59334,No,208034,No,M,Bachelors,Blue Collar,50,Private,12230,3,Minivan,Yes,0,0,No,3,0,11,No,Urban
+202517761,0,9/25/1961,38,0,11,48207,No,179539,No,F,High School,Clerical,38,Private,10120,3,SUV,No,1842,3,No,4,22180,8,Yes,Urban
+170332960,0,7/31/1967,32,2,0,0,Yes,0,No,F,High School,Home Maker,28,Private,10120,1,SUV,No,3928,2,No,1,2398,8,Yes,Urban
+339409075,0,7/15/1954,45,0,10,96708,No,272829,Yes,F,Bachelors,Blue Collar,29,Commercial,7880,4,SUV,No,4148,2,No,7,0,9,No,Urban
+520479444,0,10/3/1974,25,0,0,0,No,0,Yes,M,High School,Student,37,Private,4000,1,Minivan,Yes,4920,1,No,3,0,1,No,Rural
+937101626,0,3/15/1951,48,0,12,30377,No,137865,Yes,F,High School,Blue Collar,29,Commercial,6300,1,SUV,No,0,0,Yes,0,5600,12,Yes,Urban
+735675417,0,9/8/1969,30,0,0,0,No,0,No,F,High School,Home Maker,18,Private,1500,10,Sports Car,No,0,0,No,0,0,7,No,Rural
+97502024,0,4/20/1963,36,3,15,7585,No,75925,Yes,M,High School,Student,5,Private,15500,1,Minivan,Yes,6826,2,No,7,0,1,No,Urban
+577375929,1,11/19/1953,45,1,10,39032,Yes,209556,No,F,Bachelors,Manager,43,Private,10520,1,Sports Car,No,0,0,No,1,0,11,No,Urban
+427973991,1,2/11/1958,41,2,15,44224,No,158126,Yes,F,Bachelors,Clerical,74,Private,11710,4,Sports Car,No,0,0,No,0,0,11,No,Rural
+656344335,0,12/9/1955,43,0,7,83550,No,0,No,M,Bachelors,Professional,5,Commercial,24950,1,Panel Truck,No,0,0,No,0,0,13,No,Urban
+449092328,0,11/9/1971,28,2,12,56943,Yes,0,No,M,High School,Clerical,60,Private,5810,6,Minivan,No,0,0,No,0,0,10,No,Rural
+53576888,0,9/29/1950,49,0,6,8252,No,98860,No,M,High School,Student,42,Private,6400,6,Minivan,No,0,0,No,0,0,6,No,Rural
+535896650,0,11/17/1969,30,2,12,106722,Yes,0,No,F,Bachelors,Manager,43,Private,26520,7,Sports Car,No,0,0,No,0,3282,13,Yes,Urban
+44950663,2,10/15/1956,43,3,14,12284,No,100519,Yes,F,High School,Clerical,43,Private,26710,17,Pickup,No,0,0,No,0,3337,7,Yes,Urban
+660436395,0,9/26/1947,52,0,13,92182,No,286479,Yes,F,High School,Blue Collar,55,Commercial,20160,1,Minivan,No,7888,2,No,0,0,1,No,Urban
+685516044,0,8/10/1964,35,2,10,49299,No,162024,Yes,M,High School,Blue Collar,54,Private,9210,10,Pickup,No,0,0,No,0,0,7,No,Urban
+734265621,0,9/12/1947,52,0,14,284898,No,645241,Yes,M,PhD,Manager,33,Commercial,35190,3,Panel Truck,Yes,0,0,No,0,0,19,No,Urban
+299869772,2,5/19/1957,42,2,8,57379,Yes,0,No,F,High School,Blue Collar,37,Commercial,9420,6,Sports Car,No,5858,2,No,2,20433,1,Yes,Urban
+989828809,0,6/20/1953,46,0,5,40264,No,116913,Yes,F,Masters,Professional,5,Private,17940,6,Minivan,No,0,0,No,0,0,10,No,Urban
+509427828,1,8/18/1957,42,2,9,44661,No,0,Yes,F,Masters,Lawyer,51,Private,25750,1,SUV,No,7637,2,No,3,3753,9,Yes,Urban
+693292141,0,2/25/1954,45,0,79,78796,No,236707,Yes,M,Masters,Lawyer,24,Private,15950,7,Minivan,No,0,0,No,0,0,15,No,Urban
+450344267,0,11/12/1976,23,3,10,27239,Yes,0,No,M,High School,Clerical,53,Private,6520,3,Pickup,Yes,0,0,No,5,2804,1,Yes,Urban
+137281356,0,7/17/1952,47,0,7,28654,No,144131,No,M,High School,Professional,22,Private,10990,1,Pickup,Yes,0,0,No,2,0,8,No,Rural
+241830346,0,8/14/1962,37,2,9,591,No,0,Yes,F,High School,Student,42,Private,11370,1,Sports Car,No,0,0,No,4,0,5,No,Rural
+179378595,0,9/9/1954,45,2,6,131148,Yes,0,No,M,Bachelors,Professional,19,Private,28400,7,Minivan,No,0,0,No,0,0,8,No,Urban
+405093473,0,3/18/1934,65,0,0,0,No,110627,Yes,F,PhD,Home Maker,43,Private,16830,6,SUV,No,0,0,No,0,0,13,No,Rural
+508605858,0,12/11/1953,45,3,14,227092,Yes,544976,No,M,PhD,Manager,11,Commercial,31370,1,Panel Truck,Yes,0,0,No,0,0,20,No,Urban
+669242372,0,11/20/1953,45,2,13,103093,No,323805,Yes,M,Masters,Professional,31,Private,14830,6,Minivan,Yes,0,0,No,0,0,16,No,Urban
+141677056,0,7/9/1954,45,1,15,91898,No,318207,Yes,M,Masters,Lawyer,47,Private,16190,14,Minivan,Yes,0,0,No,2,0,11,No,Urban
+61970712,0,6/17/1954,45,0,9,107537,No,295463,Yes,M,Masters,Lawyer,30,Private,16820,4,Van,Yes,0,0,No,0,0,12,No,Urban
+550890153,0,7/26/1944,55,0,12,87793,No,285139,Yes,M,Masters,Manager,60,Commercial,38340,4,Panel Truck,No,0,0,No,0,0,16,No,Urban
+386767475,1,1/14/1957,42,3,13,42891,No,197173,Yes,F,High School,Clerical,26,Private,22150,15,SUV,No,3790,2,No,0,2088,6,Yes,Urban
+535150620,0,8/22/1956,43,0,12,66101,No,247991,Yes,F,Masters,Lawyer,42,Private,12410,1,SUV,No,0,0,No,0,2479,14,Yes,Urban
+437754829,2,1/23/1963,36,3,6,26011,No,133863,Yes,M,High School,Blue Collar,41,Private,18290,6,Minivan,No,0,0,Yes,0,0,1,No,Urban
+847570626,0,8/15/1945,54,0,16,19394,No,158811,Yes,M,Masters,Manager,51,Private,11550,10,Pickup,Yes,0,0,No,0,0,9,No,Urban
+65565555,0,2/7/1950,49,0,16,70497,No,198019,Yes,F,Bachelors,Professional,5,Private,6400,4,SUV,No,0,0,No,3,0,11,No,Urban
+988703393,0,12/4/1972,26,3,11,28726,No,119210,Yes,M,High School,Clerical,40,Private,17370,1,Van,No,7081,3,No,0,4544,9,Yes,Rural
+474290004,0,11/12/1969,30,0,11,112687,No,292964,No,M,High School,Manager,24,Private,12770,1,Minivan,Yes,0,0,No,0,9863,1,Yes,Urban
+536804471,0,4/14/1960,39,0,11,107949,No,273486,No,F,Bachelors,Professional,49,Private,7330,10,SUV,No,8043,2,No,6,0,11,No,Urban
+197143019,1,10/17/1947,52,1,12,50726,Yes,220288,No,M,Bachelors,Manager,12,Private,1500,7,Minivan,No,0,0,No,0,3971,10,Yes,Urban
+736936242,0,11/13/1940,59,0,13,83937,No,243854,Yes,M,Bachelors,Blue Collar,52,Commercial,28250,4,Sports Car,Yes,0,0,No,0,0,1,No,Rural
+467907264,0,12/17/1965,33,2,14,54109,No,198173,Yes,F,High School,Blue Collar,28,Commercial,8700,4,SUV,No,0,0,No,0,0,1,No,Rural
+181829322,0,3/12/1954,45,2,16,63479,No,218781,Yes,F,Bachelors,Professional,23,Private,24510,1,Minivan,No,0,0,No,0,0,14,No,Urban
+234713782,0,8/21/1954,45,3,16,32959,No,124867,Yes,M,High School,Blue Collar,32,Commercial,18400,6,Van,No,0,0,No,1,0,2,No,Rural
+111008804,0,9/1/1960,39,0,10,106944,No,0,No,F,Bachelors,Blue Collar,21,Private,19960,10,SUV,No,0,0,No,0,0,12,No,Urban
+363221604,0,1/12/1955,44,0,6,84736,No,222348,Yes,F,Masters,Lawyer,10,Private,7930,11,SUV,No,2772,2,No,3,0,17,No,Urban
+304736924,0,11/29/1942,56,0,14,63535,No,0,No,F,High School,Blue Collar,51,Commercial,13450,11,Sports Car,No,30094,4,Yes,1,2160,4,Yes,Urban
+528286303,0,2/2/1959,40,0,11,4404,No,0,No,F,Masters,Home Maker,54,Private,10400,4,Minivan,No,21205,2,No,1,0,17,No,Urban
+109104767,0,7/26/1949,50,0,7,62069,No,227214,Yes,M,Bachelors,Manager,30,Private,12710,10,Minivan,No,0,0,No,0,0,6,No,Urban
+524414536,0,11/29/1967,31,1,10,26119,No,0,Yes,F,Bachelors,Student,47,Private,7210,4,SUV,No,0,0,No,0,0,8,No,Urban
+396881068,0,10/23/1942,57,0,7,93870,No,302628,Yes,M,Masters,Manager,16,Private,16870,11,Van,Yes,0,0,No,0,0,14,No,Urban
+742200775,0,10/27/1948,51,0,11,54920,No,0,No,F,Masters,Lawyer,31,Private,33400,6,Minivan,No,0,0,No,1,0,10,No,Urban
+994001102,0,2/2/1950,49,0,13,66196,No,229425,Yes,M,Bachelors,Professional,17,Private,8550,4,Pickup,Yes,28274,2,No,0,0,11,No,Urban
+738003591,0,5/14/1952,47,0,11,77501,No,223491,Yes,M,High School,Professional,66,Private,21030,4,Minivan,Yes,8657,2,No,2,0,12,No,Urban
+403517745,0,5/10/1961,38,2,15,136334,Yes,340085,No,F,Bachelors,Manager,23,Private,21130,13,Minivan,No,0,0,No,0,0,12,No,Urban
+335505768,0,9/3/1929,70,0,14,12280,No,0,No,F,High School,Manager,18,Private,27040,10,SUV,No,2080,1,No,3,0,6,No,Urban
+64132133,0,3/7/1946,53,0,12,176037,No,496550,Yes,F,Masters,Lawyer,18,Private,41180,1,Minivan,No,0,0,No,0,0,16,No,Urban
+866100928,0,8/8/1941,58,0,13,103555,No,322978,No,F,Masters,Lawyer,49,Private,30580,1,Sports Car,No,0,0,No,0,6418,17,Yes,Rural
+3246903,0,12/1/1966,32,5,0,0,No,0,Yes,M,High School,Student,24,Private,4700,4,Minivan,Yes,0,0,No,0,0,8,No,Urban
+387139563,0,10/16/1962,37,1,9,67175,Yes,0,No,F,PhD,Lawyer,40,Private,23340,9,Pickup,No,0,0,No,5,0,22,No,Urban
+302381933,0,10/1/1951,48,0,9,40408,No,0,No,F,High School,Clerical,24,Private,5540,4,Sports Car,No,0,0,Yes,1,4456,1,Yes,Urban
+541831702,0,5/12/1962,37,0,11,24447,No,143909,Yes,F,Masters,Lawyer,25,Private,19720,4,SUV,No,0,0,Yes,3,0,13,No,Urban
+573494104,0,9/24/1955,44,1,16,35794,No,87721,Yes,F,PhD,Manager,40,Private,13050,6,Sports Car,No,45337,1,Yes,3,0,18,No,Urban
+114135074,0,3/19/1952,47,0,12,143716,No,379399,Yes,F,PhD,Manager,23,Commercial,38120,1,Panel Truck,No,0,0,No,2,0,16,No,Urban
+400710320,0,7/16/1954,45,2,13,72727,No,246002,Yes,F,Bachelors,Professional,24,Private,13210,10,SUV,No,0,0,No,2,0,10,No,Urban
+872661512,0,8/31/1952,47,0,11,63239,No,227786,Yes,F,High School,Clerical,22,Private,7820,17,SUV,No,8752,2,No,0,0,1,No,Urban
+570595259,0,6/10/1960,39,2,13,26840,Yes,143884,No,M,Masters,Lawyer,26,Private,21950,1,Van,No,5477,3,No,4,0,9,No,Urban
+93202709,0,11/6/1968,31,2,7,35053,Yes,125625,No,M,High School,Blue Collar,28,Commercial,12860,10,Minivan,Yes,0,0,Yes,1,3920,1,Yes,Urban
+138657379,0,9/17/1959,40,0,11,87967,No,260892,Yes,M,Masters,Professional,49,Private,14300,10,Minivan,Yes,0,0,Yes,0,0,11,No,Urban
+527670758,0,2/10/1941,58,0,13,86647,No,310620,Yes,M,Bachelors,Professional,88,Private,22420,4,Van,Yes,0,0,No,0,0,1,No,Urban
+858295286,0,11/15/1945,54,0,80,70008,No,0,No,F,Masters,Lawyer,18,Private,15480,6,SUV,No,0,0,No,0,0,14,No,Rural
+964324469,0,1/13/1952,47,0,5,68602,No,0,No,M,High School,Blue Collar,36,Commercial,6200,1,Pickup,Yes,9136,4,No,2,5103,4,Yes,Urban
+75318000,0,3/3/1970,29,3,8,62116,Yes,0,No,F,Bachelors,Student,11,Commercial,1500,1,SUV,No,3165,3,No,1,0,6,No,Urban
+135293295,0,5/11/1961,38,0,8,44575,No,164145,Yes,F,Bachelors,Professional,31,Private,9760,11,SUV,No,3787,4,Yes,4,0,6,No,Urban
+63207789,0,2/6/1952,47,0,11,30452,No,150468,Yes,M,High School,Blue Collar,34,Commercial,21210,1,Van,Yes,0,0,No,0,0,8,No,Urban
+5849652,0,7/29/1949,50,0,11,72930,No,275761,No,F,High School,Blue Collar,71,Commercial,13790,1,SUV,No,0,0,No,0,0,1,No,Urban
+419976048,0,4/26/1953,46,0,3,16717,No,0,No,M,Bachelors,Student,45,Private,15520,10,Minivan,Yes,0,0,No,0,0,11,No,Urban
+341162899,0,5/2/1958,41,0,0,0,No,0,No,M,Bachelors,Student,18,Commercial,6610,1,Pickup,Yes,3825,2,Yes,1,0,1,No,Rural
+817016721,0,3/3/1953,46,1,61,69350,No,254858,Yes,M,Bachelors,Blue Collar,42,Commercial,13030,6,Minivan,No,1699,1,No,6,0,7,No,Urban
+87761316,0,5/9/1960,39,2,14,28846,No,151789,Yes,F,Bachelors,Blue Collar,16,Private,26370,1,SUV,No,0,0,No,2,0,8,No,Urban
+910683297,0,3/28/1950,49,0,11,99292,No,316705,Yes,M,Masters,Lawyer,48,Private,10190,6,Minivan,No,0,0,No,0,0,16,No,Urban
+936079965,0,2/25/1946,53,0,13,173218,No,492219,No,M,PhD,Doctor,27,Private,18820,1,Van,No,0,0,No,0,0,6,No,Urban
+707689538,0,12/12/1952,46,0,14,54340,No,218964,Yes,F,Bachelors,Clerical,45,Private,20320,6,SUV,No,0,0,No,5,0,13,No,Urban
+160730761,1,10/25/1957,42,1,13,49120,Yes,197752,No,F,Bachelors,Manager,37,Private,5700,6,SUV,No,1775,1,No,2,0,9,No,Urban
+291166495,0,5/18/1961,38,2,12,26074,No,167980,Yes,F,High School,Clerical,22,Private,10500,1,SUV,No,0,0,No,3,0,1,No,Urban
+730441601,0,3/13/1946,53,0,13,17424,No,0,Yes,M,Bachelors,Student,39,Commercial,15200,1,Minivan,Yes,0,0,No,0,0,1,No,Rural
+543833421,0,12/29/1958,40,3,16,52475,Yes,0,No,F,Masters,Lawyer,9,Private,10750,1,SUV,No,0,0,No,3,6879,16,Yes,Urban
+298398909,0,11/18/1937,62,0,16,103109,No,344523,Yes,M,Masters,Lawyer,41,Private,11810,1,SUV,Yes,0,0,No,0,3288,15,Yes,Urban
+547061152,0,4/10/1952,47,0,11,92214,No,266417,No,F,Bachelors,Manager,19,Private,19200,14,SUV,No,5184,2,No,4,0,7,No,Urban
+465602138,0,5/21/1951,48,0,13,144515,No,378420,Yes,M,Masters,Lawyer,48,Private,20750,10,Minivan,No,3751,1,No,0,0,21,No,Urban
+141869802,0,9/23/1954,45,0,0,0,No,0,Yes,F,High School,Student,35,Private,14500,1,SUV,No,9063,3,No,6,3521,9,Yes,Urban
+237014490,0,2/18/1960,39,0,6,98997,No,0,No,F,High School,Professional,32,Private,24510,4,Minivan,No,0,0,No,0,0,9,No,Urban
+391478772,0,6/10/1964,35,2,14,27446,No,129102,Yes,F,High School,Clerical,23,Private,13410,7,SUV,No,0,0,No,1,0,8,No,Urban
+108491144,0,5/7/1954,45,0,19,0,No,0,No,M,Bachelors,Student,22,Commercial,14510,1,Minivan,No,0,0,No,3,0,8,No,Rural
+3988715,0,7/31/1954,45,0,12,37846,No,162455,No,F,High School,Clerical,21,Commercial,20150,4,Pickup,No,0,0,No,1,0,1,No,Rural
+468379423,0,8/23/1950,49,0,10,75580,No,222553,Yes,F,Masters,Lawyer,29,Private,17220,4,Sports Car,No,0,0,No,1,0,14,No,Urban
+767487685,0,7/27/1964,35,1,12,8276,No,0,Yes,F,High School,Student,13,Commercial,2330,10,Sports Car,No,0,0,No,4,4021,7,Yes,Urban
+866705472,0,4/15/1945,54,0,15,130241,No,0,Yes,F,PhD,Doctor,46,Private,15570,19,SUV,No,0,0,No,3,0,16,No,Urban
+904098670,0,1/22/1958,41,2,15,97679,Yes,273142,No,M,Bachelors,Blue Collar,22,Commercial,12850,1,Minivan,Yes,38815,3,No,6,0,1,No,Urban
+672549561,0,2/11/1949,50,0,11,104831,No,0,No,M,Masters,Professional,31,Commercial,6500,1,Pickup,No,6657,2,No,3,0,16,No,Urban
+930187847,0,5/9/1943,56,0,0,0,No,134398,Yes,F,Bachelors,Home Maker,39,Private,13130,6,Sports Car,No,0,0,No,1,0,13,No,Rural
+700098445,0,4/22/1958,41,0,12,95076,No,0,No,F,Bachelors,Professional,21,Private,28710,4,Minivan,No,0,0,No,0,0,8,No,Urban
+459231441,0,10/18/1957,42,0,12,109098,No,268393,Yes,F,High School,Blue Collar,44,Commercial,1500,4,SUV,No,1015,2,No,0,0,4,No,Urban
+778020709,0,11/24/1950,48,0,11,105299,No,276038,No,F,High School,Blue Collar,33,Private,28610,6,Minivan,No,6936,2,No,2,0,1,No,Urban
+79991899,0,1/17/1972,27,4,13,166855,No,436711,Yes,M,Bachelors,Professional,71,Commercial,23060,1,Panel Truck,No,0,0,No,3,0,6,No,Rural
+470060990,0,6/9/1978,21,0,0,0,No,51893,No,M,High School,Student,55,Commercial,3600,10,Minivan,Yes,3231,3,No,7,0,1,No,Rural
+617959052,2,7/5/1958,41,3,0,0,No,56089,Yes,F,High School,Home Maker,27,Private,16840,1,SUV,No,0,0,No,0,0,1,No,Rural
+190335385,0,12/10/1949,49,0,0,0,No,0,No,F,PhD,Home Maker,46,Private,17520,9,SUV,No,7665,4,No,2,0,19,No,Urban
+731368580,0,8/14/1974,25,3,12,78062,Yes,0,No,F,High School,Professional,5,Private,20640,6,Minivan,No,0,0,No,0,0,12,No,Urban
+345771306,0,9/13/1957,42,0,8,61322,No,228496,No,M,High School,Clerical,36,Commercial,11830,1,Pickup,No,0,0,No,2,0,1,No,Rural
+910202703,0,4/1/1957,42,0,11,97054,No,282590,No,M,Masters,Lawyer,40,Private,19580,6,Van,No,0,0,Yes,0,0,17,No,Urban
+884766026,0,2/10/1957,42,0,11,63180,No,243719,Yes,F,Masters,Lawyer,23,Private,12030,1,Sports Car,No,0,0,No,1,0,12,No,Urban
+37340719,0,2/27/1958,41,2,9,37523,No,166138,Yes,M,High School,Clerical,40,Private,12260,7,Minivan,No,3134,1,No,3,0,11,No,Urban
+374610346,0,12/5/1961,37,2,8,73897,No,244387,Yes,F,Bachelors,Clerical,5,Private,16390,11,SUV,No,34941,2,No,0,0,6,No,Urban
+25899381,0,9/11/1944,55,0,12,133966,No,342198,Yes,F,PhD,Lawyer,8,Private,29170,6,SUV,No,34507,2,Yes,0,0,13,No,Urban
+463586488,0,6/7/1969,30,1,0,0,No,0,Yes,M,High School,Student,21,Private,4500,1,Pickup,No,754,1,No,0,3755,7,Yes,Urban
+134794189,0,10/8/1947,52,0,14,135116,No,335050,Yes,M,PhD,Manager,28,Private,17530,1,Minivan,No,0,0,Yes,1,0,13,No,Urban
+174725774,0,5/4/1949,50,0,13,36605,No,184411,Yes,M,High School,Blue Collar,48,Commercial,18050,3,Van,No,46625,3,No,4,0,1,No,Urban
+621372360,0,9/9/1972,27,1,0,0,No,0,Yes,F,High School,Student,39,Commercial,11330,4,Sports Car,No,35165,3,Yes,7,0,4,No,Urban
+815407023,0,3/21/1963,36,0,11,121391,No,310275,No,M,Bachelors,Manager,46,Commercial,36420,6,Panel Truck,Yes,2602,2,No,3,0,8,No,Urban
+956104436,0,8/27/1953,46,0,0,0,No,0,Yes,F,High School,Student,57,Private,25940,10,SUV,No,0,0,No,0,0,6,No,Rural
+669976904,0,11/10/1963,36,0,11,30071,No,152771,Yes,F,High School,Blue Collar,33,Private,17970,10,SUV,No,0,0,No,0,0,1,No,Rural
+751338912,0,10/1/1957,42,2,11,68171,Yes,0,No,M,Bachelors,Professional,13,Private,18130,3,Van,Yes,0,0,No,2,4348,10,Yes,Urban
+914959395,0,7/24/1936,63,0,17,86078,No,319488,Yes,F,Bachelors,Professional,13,Private,20960,4,Sports Car,No,0,0,No,0,0,1,No,Rural
+121997238,0,1/28/1935,64,0,0,0,No,0,Yes,M,High School,Student,60,Private,7900,6,Sports Car,Yes,23432,2,Yes,9,12301,8,Yes,Urban
+457695790,0,7/24/1964,35,2,0,0,No,59496,Yes,F,Bachelors,Home Maker,21,Private,5000,6,Sports Car,No,4477,1,No,0,5297,13,Yes,Urban
+920579205,0,12/24/1951,47,0,13,78119,No,226596,Yes,M,Masters,Manager,25,Private,14010,10,Minivan,Yes,0,0,Yes,0,0,18,No,Urban
+73710290,0,8/3/1942,57,0,13,99985,No,298356,Yes,M,Masters,Lawyer,23,Private,17200,1,Van,No,6739,2,No,5,0,20,No,Urban
+418418632,0,10/7/1970,29,3,0,0,Yes,0,No,F,High School,Student,12,Commercial,6720,1,Sports Car,No,52445,3,Yes,5,4699,6,Yes,Urban
+133595265,0,2/19/1950,49,0,12,24513,No,148422,Yes,M,High School,Blue Collar,27,Private,8850,1,Minivan,Yes,1263,1,No,1,6606,1,Yes,Urban
+591933815,0,4/11/1953,46,0,9,107006,No,342272,Yes,M,Masters,Manager,7,Private,6100,1,Minivan,Yes,0,0,No,0,0,15,No,Urban
+880819896,0,9/17/1962,37,2,14,66376,No,214022,Yes,M,High School,Manager,26,Private,20570,4,Van,No,0,0,No,5,0,5,No,Urban
+140960557,1,3/19/1943,56,2,0,0,Yes,0,No,F,High School,Student,35,Private,23630,1,Minivan,No,10612,3,No,2,4799,8,Yes,Urban
+576927212,0,8/14/1938,61,0,14,52529,No,183779,Yes,M,Masters,Lawyer,66,Private,12850,7,Pickup,Yes,0,0,No,0,0,11,No,Rural
+388940769,2,12/2/1959,39,2,13,92000,No,301965,Yes,M,Bachelors,Professional,50,Private,7730,10,Minivan,Yes,8091,2,No,4,0,1,No,Urban
+517379402,1,5/11/1957,42,1,7,130882,No,348968,Yes,M,High School,Manager,39,Private,14590,1,Minivan,Yes,42820,2,Yes,7,0,9,No,Urban
+860428575,0,3/27/1970,29,1,13,36708,Yes,0,No,M,High School,Professional,45,Private,16150,1,Minivan,No,5618,1,No,8,0,9,No,Urban
+838358712,0,1/7/1950,49,0,6,89547,No,0,No,F,Masters,Lawyer,38,Private,10450,4,Sports Car,No,0,0,No,0,0,19,No,Urban
+183697567,0,7/18/1954,45,0,13,79720,No,270342,Yes,M,Masters,Professional,26,Private,20280,4,Van,Yes,0,0,No,1,0,14,No,Urban
+674303590,0,7/16/1941,58,0,14,131658,No,390952,Yes,F,Masters,Professional,31,Private,26780,7,Minivan,No,0,0,No,0,0,12,No,Urban
+659941698,0,12/24/1948,50,0,13,73668,No,212878,Yes,F,Masters,Lawyer,13,Private,8870,3,Sports Car,No,0,0,Yes,6,0,11,No,Urban
+466539809,0,7/2/1953,46,0,12,103455,No,286457,No,M,Masters,Lawyer,21,Private,13050,1,Minivan,Yes,0,0,No,0,0,7,No,Urban
+957086884,0,4/12/1964,35,3,14,5628,No,64192,Yes,F,High School,Home Maker,24,Private,6820,10,SUV,No,0,0,No,0,0,1,No,Rural
+362967186,0,10/23/1960,39,1,11,32188,No,174247,Yes,F,High School,Professional,38,Private,8620,6,SUV,No,5399,2,No,4,3349,1,Yes,Urban
+741216115,0,11/27/1961,37,0,12,97671,No,257408,Yes,M,Bachelors,Professional,49,Commercial,22660,3,Panel Truck,Yes,1371,1,No,5,0,7,No,Urban
+711467735,0,3/7/1944,55,0,12,43293,No,0,Yes,M,High School,Student,59,Private,1500,1,Minivan,Yes,23756,2,Yes,3,0,6,No,Rural
+422758152,0,6/2/1945,54,0,3,27546,No,181137,Yes,M,High School,Clerical,5,Private,15730,3,Minivan,Yes,0,0,No,3,0,5,No,Urban
+77981216,0,3/7/1955,44,2,11,188428,No,497746,Yes,F,PhD,Doctor,35,Private,24740,6,Pickup,No,0,0,No,2,0,14,No,Urban
+73898389,0,10/22/1954,45,2,0,0,Yes,0,No,F,Masters,Home Maker,23,Commercial,6000,17,Sports Car,No,52068,1,No,4,0,20,No,Urban
+536203065,0,3/3/1952,47,0,60,64183,No,253869,Yes,M,Bachelors,Professional,5,Private,13000,6,Minivan,Yes,0,0,No,1,0,7,No,Urban
+484217668,0,8/31/1960,39,0,16,92117,No,295537,Yes,M,High School,Blue Collar,40,Commercial,14610,7,Minivan,Yes,0,0,No,0,2441,1,Yes,Urban
+622982638,0,2/7/1953,46,0,10,154985,No,0,No,F,PhD,Manager,29,Private,28540,10,Pickup,No,0,0,No,4,0,10,No,Urban
+457987162,0,3/17/1954,45,0,68,19599,No,134906,No,F,Bachelors,Home Maker,43,Private,10740,6,Minivan,No,0,0,No,2,0,1,No,Rural
+888163837,0,7/16/1951,48,0,7,35398,No,0,No,M,High School,Clerical,13,Commercial,6200,10,Pickup,No,0,0,No,2,0,9,No,Rural
+591264788,0,11/7/1952,47,0,13,23596,No,147506,Yes,F,High School,Home Maker,32,Private,13250,9,SUV,No,0,0,Yes,0,0,1,No,Urban
+128515960,0,4/12/1958,41,4,8,29622,No,116005,Yes,F,High School,Clerical,38,Private,12770,7,Minivan,No,0,0,No,0,0,1,No,Rural
+40523894,0,10/23/1942,57,0,14,75468,No,249251,Yes,M,Masters,Lawyer,36,Private,14750,13,Minivan,Yes,0,0,No,0,0,21,No,Urban
+714687889,0,6/10/1970,29,0,10,79059,No,240683,Yes,F,Masters,Manager,37,Private,14460,10,SUV,No,5903,3,No,0,0,8,No,Urban
+170839274,0,8/5/1962,37,0,10,55242,No,183992,No,M,High School,Blue Collar,30,Commercial,8700,6,Pickup,No,33030,2,Yes,0,6250,1,Yes,Urban
+591933815,0,4/11/1953,46,0,9,107006,No,342272,Yes,M,Masters,Manager,7,Private,16800,16,Van,Yes,0,0,No,4,0,15,No,Urban
+230975934,0,9/19/1946,53,0,13,80023,No,246532,Yes,F,Bachelors,Blue Collar,58,Commercial,20990,4,Sports Car,No,29379,2,Yes,5,3408,9,Yes,Urban
+973319273,0,8/13/1966,33,1,13,67171,No,131767,Yes,F,Masters,Lawyer,17,Private,16780,4,SUV,No,0,0,No,1,0,15,No,Urban
+723410690,0,9/9/1964,35,0,10,57241,No,0,No,M,High School,Clerical,36,Private,11050,4,Minivan,Yes,0,0,No,0,0,1,No,Rural
+128821230,0,6/6/1944,55,0,0,0,No,96761,Yes,F,High School,Home Maker,34,Commercial,26890,1,Pickup,No,0,0,No,3,0,10,No,Urban
+736548294,0,2/13/1949,50,0,10,77214,No,0,No,F,Bachelors,Professional,46,Private,9220,3,SUV,No,2657,2,No,0,0,7,No,Urban
+107330101,1,3/25/1954,45,2,14,28731,Yes,0,No,M,High School,Blue Collar,57,Commercial,6000,1,Minivan,Yes,0,0,No,0,13042,1,Yes,Urban
+10902340,0,10/26/1964,35,0,11,122150,No,0,Yes,F,Masters,Lawyer,41,Private,26820,4,SUV,No,0,0,No,2,0,12,No,Urban
+837237250,2,5/10/1943,56,2,17,28088,Yes,154530,No,M,Bachelors,Clerical,46,Private,9910,1,Minivan,Yes,1157,1,No,3,4814,1,Yes,Urban
+589562459,0,10/4/1947,52,0,7,16253,No,0,No,M,High School,Clerical,40,Private,8080,1,Pickup,No,969,2,No,3,0,7,No,Urban
+810486505,0,8/19/1967,32,2,13,109683,Yes,276821,No,F,Bachelors,Manager,33,Private,15670,12,SUV,No,30571,3,Yes,0,0,9,No,Urban
+340247899,0,6/4/1960,39,1,13,93925,Yes,0,No,F,Masters,Lawyer,37,Private,27310,4,Minivan,No,0,0,No,0,0,16,No,Urban
+768598772,0,4/10/1954,45,1,11,51655,Yes,182945,No,F,High School,Blue Collar,52,Commercial,16210,17,SUV,No,0,0,No,1,0,6,No,Rural
+640459101,1,10/9/1960,39,3,13,48738,No,214103,Yes,F,Bachelors,Clerical,32,Private,23420,8,Sports Car,No,5115,1,No,0,0,1,No,Rural
+932328426,0,8/15/1971,28,4,10,10032,No,0,Yes,M,Bachelors,Student,13,Commercial,5850,1,Pickup,Yes,12269,1,Yes,0,5657,12,Yes,Urban
+494990328,0,3/11/1973,26,1,9,44386,No,209993,Yes,F,High School,Manager,47,Private,12000,7,SUV,No,7611,1,No,3,0,5,No,Urban
+578768750,3,6/29/1958,41,3,14,128895,No,373531,Yes,F,Masters,Professional,10,Commercial,44270,13,Van,No,0,0,No,4,0,9,No,Urban
+598130591,0,2/16/1948,51,0,5,94454,No,0,No,M,Bachelors,Professional,30,Private,14370,3,Minivan,No,5399,1,No,0,0,9,No,Urban
+198843358,2,10/14/1940,59,2,16,109210,No,324059,Yes,F,Masters,Manager,32,Commercial,21880,6,Pickup,No,6120,2,No,6,4815,18,Yes,Urban
+650019033,0,10/14/1940,59,0,11,38141,No,0,No,M,High School,Blue Collar,43,Commercial,15080,6,Minivan,No,9575,1,No,5,5501,6,Yes,Urban
+627082069,0,11/16/1951,48,0,0,0,No,0,No,F,High School,Student,5,Private,9060,1,SUV,No,0,0,No,2,0,1,No,Urban
+132538177,0,10/24/1938,61,0,10,9902,No,103647,No,F,PhD,Home Maker,31,Private,8590,6,Sports Car,No,3175,2,No,4,3048,10,Yes,Urban
+713200511,0,12/17/1946,52,0,13,99251,No,275991,Yes,F,Masters,Lawyer,35,Private,35570,10,Van,No,0,0,No,1,0,10,No,Urban
+602256369,0,6/12/1970,29,2,14,45299,No,148600,Yes,F,High School,Blue Collar,11,Commercial,8930,7,SUV,No,5289,1,No,4,1502,1,Yes,Urban
+346673007,0,2/14/1962,37,2,13,31725,No,148396,Yes,F,Masters,Lawyer,32,Private,10860,4,SUV,No,3810,3,No,3,0,22,No,Urban
+794302966,0,1/13/1951,48,0,9,49251,No,180173,Yes,F,High School,Blue Collar,9,Commercial,11230,7,SUV,No,0,0,No,0,6452,1,Yes,Urban
+133941548,1,10/21/1962,37,2,10,30843,No,132741,Yes,F,High School,Clerical,33,Private,8280,6,Sports Car,No,0,0,No,1,0,8,No,Urban
+674928177,0,1/4/1967,32,3,16,28430,Yes,0,No,F,High School,Clerical,52,Private,4340,4,SUV,No,39168,2,Yes,4,2777,1,Yes,Urban
+997883308,0,7/4/1960,39,0,13,18274,No,0,No,F,High School,Clerical,11,Private,7230,6,SUV,No,0,0,No,0,0,1,No,Rural
+448861404,0,4/3/1960,39,0,10,31131,No,0,No,M,High School,Clerical,30,Private,8510,6,Minivan,Yes,37066,2,Yes,5,4678,13,Yes,Urban
+759412522,0,9/26/1949,50,0,15,63910,No,227449,Yes,M,Masters,Lawyer,46,Private,12890,4,Minivan,No,1946,4,No,1,0,15,No,Urban
+745217397,0,8/16/1964,35,2,9,98918,Yes,0,No,M,Bachelors,Professional,27,Commercial,23740,12,Panel Truck,Yes,0,0,No,1,4621,9,Yes,Urban
+141743339,0,3/15/1949,50,0,12,26748,No,0,No,M,High School,Blue Collar,25,Private,9170,1,Pickup,No,25089,2,Yes,1,3843,6,Yes,Urban
+80817097,0,7/25/1965,34,1,13,38307,No,151790,Yes,M,High School,Blue Collar,24,Commercial,5330,1,Pickup,No,17857,1,Yes,10,3730,1,Yes,Urban
+339409075,0,7/15/1953,46,0,10,88632,No,258636,Yes,F,High School,Blue Collar,34,Commercial,15670,3,Sports Car,No,7864,3,No,2,4034,9,Yes,Urban
+607854572,0,3/2/1950,49,0,14,45689,No,250792,Yes,M,High School,Blue Collar,42,Private,10970,4,Pickup,Yes,0,0,No,0,1133,1,Yes,Urban
+576718540,0,1/1/1945,54,0,12,112804,No,323947,Yes,F,Masters,Lawyer,32,Private,21380,4,Minivan,No,0,0,No,0,0,9,No,Urban
+35408858,0,8/18/1953,46,0,12,88359,No,267679,Yes,F,Masters,Lawyer,25,Private,31980,3,Minivan,No,0,0,Yes,0,0,1,No,Urban
+672724800,0,11/13/1961,38,2,7,114212,No,249564,Yes,M,Bachelors,Manager,26,Private,16970,9,Van,Yes,0,0,No,0,0,13,No,Urban
+327540972,0,4/15/1943,56,0,13,76638,No,0,No,M,High School,Blue Collar,61,Commercial,14060,1,Minivan,Yes,24930,2,No,10,0,5,No,Urban
+479844010,0,2/25/1957,42,0,12,64019,No,249488,Yes,F,PhD,Doctor,38,Private,12100,1,Minivan,No,3558,3,No,1,0,13,No,Urban
+414426196,1,3/23/1942,57,1,13,53227,No,204309,Yes,F,Bachelors,Professional,41,Private,34950,6,Minivan,No,0,0,No,0,0,11,No,Urban
+892208350,0,4/12/1954,45,0,60,55848,No,216312,Yes,M,Bachelors,Clerical,51,Commercial,11580,6,Pickup,Yes,0,0,No,1,34748,7,Yes,Urban
+498874820,0,10/6/1968,31,1,6,53633,Yes,183242,No,F,High School,Professional,46,Private,9960,1,SUV,No,4646,2,No,9,0,1,No,Urban
+366128758,0,12/7/1940,58,2,12,146202,No,473366,Yes,M,Bachelors,Professional,22,Private,10320,6,Pickup,Yes,4716,1,No,0,2891,12,Yes,Urban
+324561319,0,12/6/1943,55,0,0,0,No,0,No,F,PhD,Home Maker,36,Private,2950,4,SUV,No,0,0,No,0,0,12,No,Urban
+2688131,0,4/20/1936,63,0,14,51046,No,192050,Yes,F,PhD,Doctor,18,Private,7800,1,Sports Car,No,14357,3,No,5,0,1,No,Urban
+852560906,0,8/3/1957,42,0,9,16716,No,117163,No,F,High School,Clerical,5,Private,21580,1,Pickup,No,0,0,No,1,0,6,No,Rural
+37461363,0,2/22/1955,44,0,12,46781,No,0,No,F,Bachelors,Professional,29,Private,17960,11,SUV,No,6545,1,No,5,3411,15,Yes,Urban
+699382604,1,4/25/1945,54,1,0,0,No,0,Yes,F,Bachelors,Student,37,Private,10600,1,Sports Car,No,5493,3,No,1,4209,8,Yes,Urban
+600514127,0,10/24/1965,34,3,14,57244,Yes,0,No,F,Bachelors,Clerical,45,Private,36000,1,Pickup,No,0,0,Yes,0,0,6,No,Urban
+258127808,1,3/2/1959,40,2,13,48187,No,136205,Yes,M,High School,Manager,5,Private,16930,11,Minivan,Yes,30944,2,No,3,0,7,No,Urban
+37848520,0,12/21/1948,50,0,5,28299,No,183581,Yes,F,Bachelors,Home Maker,40,Private,9330,6,SUV,No,0,0,No,2,0,11,No,Urban
+510253097,0,11/27/1950,48,0,8,90623,No,0,No,F,Masters,Professional,46,Private,27700,7,Sports Car,No,0,0,No,1,0,12,No,Urban
+179155506,0,9/8/1949,50,0,11,81150,No,252133,No,M,Masters,Professional,41,Commercial,33500,1,Panel Truck,No,0,0,Yes,2,0,20,No,Urban
+286174821,0,2/26/1970,29,1,11,101767,No,284160,Yes,F,High School,Blue Collar,48,Commercial,14580,6,SUV,No,25433,3,Yes,1,6027,9,Yes,Urban
+261036496,0,2/26/1959,40,2,11,23057,No,126080,Yes,F,High School,Clerical,51,Private,27660,6,Pickup,No,0,0,No,0,0,1,No,Rural
+247312615,1,2/17/1956,43,3,11,28021,Yes,0,No,M,High School,Clerical,31,Private,16010,4,Minivan,No,0,0,No,1,0,9,No,Rural
+991847939,0,5/24/1950,49,0,11,23711,No,0,No,F,High School,Clerical,25,Private,8770,7,Sports Car,No,0,0,No,0,0,1,No,Rural
+218657620,0,5/8/1960,39,0,13,49194,No,126703,Yes,M,High School,Manager,34,Commercial,24060,10,Panel Truck,Yes,0,0,No,0,0,7,No,Urban
+869972677,0,2/15/1947,52,0,3,81555,No,258898,No,M,Masters,Manager,32,Private,13900,1,Minivan,Yes,0,0,No,0,0,16,No,Urban
+410548344,0,1/5/1941,58,0,12,61265,No,208445,Yes,F,Masters,Lawyer,49,Private,3230,10,SUV,No,0,0,No,2,3295,9,Yes,Urban
+783473090,0,1/6/1962,37,0,11,9664,No,147749,Yes,M,Masters,Professional,30,Commercial,28700,1,Panel Truck,No,5476,1,No,2,0,1,No,Urban
+276502461,0,12/3/1958,40,0,13,84506,No,251400,Yes,F,Masters,Lawyer,32,Private,19100,6,Minivan,No,0,0,Yes,5,0,15,No,Urban
+273701160,0,4/28/1966,33,5,16,28395,No,137268,Yes,M,High School,Clerical,65,Commercial,23450,7,Panel Truck,Yes,20060,1,Yes,2,3668,1,Yes,Urban
+621600082,1,1/12/1958,41,3,0,0,Yes,83306,No,M,High School,Home Maker,50,Private,10570,6,Pickup,No,0,0,No,0,0,1,No,Rural
+95403784,0,12/3/1959,39,0,13,51091,No,185506,Yes,M,Masters,Lawyer,37,Private,15450,1,Minivan,No,0,0,No,0,0,17,No,Urban
+634813826,0,9/26/1954,45,0,10,22860,No,0,No,M,High School,Blue Collar,32,Commercial,11800,1,Pickup,No,3118,2,No,1,4895,1,Yes,Rural
+736718418,0,8/15/1950,49,0,10,82130,No,212655,Yes,F,Bachelors,Professional,40,Private,13050,1,SUV,No,0,0,No,0,0,7,No,Urban
+956079350,0,1/3/1963,36,0,8,21926,No,106069,Yes,M,Bachelors,Clerical,44,Commercial,7290,11,Pickup,No,7166,2,No,6,0,1,No,Urban
+441486228,0,8/23/1951,48,0,12,19393,No,0,No,F,Bachelors,Blue Collar,39,Private,8240,1,SUV,No,0,0,No,1,0,8,No,Rural
+867941007,1,12/29/1959,39,1,12,69464,No,199330,Yes,M,Masters,Manager,18,Commercial,5400,1,Pickup,Yes,7940,3,No,4,1029,15,Yes,Urban
+532877284,0,7/3/1964,35,0,9,95536,No,0,No,M,Masters,Professional,33,Commercial,25840,9,Panel Truck,Yes,0,0,No,2,0,11,No,Urban
+391209907,1,11/26/1961,37,3,10,24672,Yes,0,No,F,High School,Clerical,68,Private,11250,1,SUV,No,565,3,No,1,0,10,No,Rural
+993821847,0,9/11/1956,43,0,12,94641,No,299424,Yes,F,Masters,Lawyer,52,Private,21400,6,SUV,No,11095,1,No,0,0,19,No,Urban
+688658173,0,12/28/1956,42,2,14,20586,No,142997,Yes,F,High School,Clerical,47,Private,7760,4,SUV,No,0,0,No,0,5142,1,Yes,Rural
+346696036,0,4/12/1952,47,0,10,64759,No,0,No,F,Masters,Manager,5,Private,15970,6,SUV,No,0,0,Yes,2,0,13,No,Urban
+733443011,0,11/6/1950,49,0,11,99100,No,251945,Yes,F,Masters,Lawyer,26,Private,26650,1,Minivan,No,0,0,No,0,0,15,No,Rural
+481754281,0,7/22/1959,40,0,0,0,No,55761,No,F,Masters,Home Maker,21,Private,17840,1,SUV,No,0,0,No,3,0,18,No,Urban
+483773140,0,7/1/1946,53,0,0,0,No,93901,No,F,PhD,Home Maker,55,Private,14340,4,SUV,No,0,0,No,0,0,10,No,Rural
+921318752,0,9/29/1954,45,0,8,40368,No,171248,Yes,F,Bachelors,Professional,37,Private,10040,1,Sports Car,No,0,0,No,1,0,8,No,Rural
+570576453,0,1/25/1957,42,0,12,102313,No,351394,Yes,M,Masters,Lawyer,51,Private,15930,1,Minivan,No,0,0,No,0,0,17,No,Urban
+745638636,0,3/6/1951,48,0,11,37886,No,168597,Yes,M,High School,Clerical,37,Private,28200,4,Minivan,No,1686,2,No,0,0,1,No,Urban
+750125593,0,9/3/1947,52,0,10,77113,No,0,No,M,High School,Manager,34,Commercial,25370,4,Panel Truck,No,3176,1,No,1,0,5,No,Urban
+793707317,0,8/26/1950,49,0,12,33303,No,0,Yes,F,High School,Student,33,Commercial,21100,13,Minivan,No,0,0,Yes,3,0,7,No,Urban
+463293999,0,2/6/1948,51,0,17,48263,No,200023,Yes,F,High School,Professional,39,Private,24450,1,Minivan,No,0,0,No,0,0,10,No,Urban
+65406682,0,11/12/1948,51,0,8,12524,No,131010,Yes,M,High School,Clerical,30,Private,2750,1,Minivan,Yes,0,0,Yes,1,0,1,No,Urban
+178223169,0,2/21/1953,46,0,12,74607,No,275748,Yes,F,Bachelors,Blue Collar,37,Commercial,13930,7,SUV,No,0,0,No,0,0,7,No,Urban
+137542212,0,9/20/1956,43,0,12,85358,No,255939,Yes,M,High School,Professional,20,Private,25160,14,Minivan,Yes,0,0,No,0,0,1,No,Urban
+740698592,0,12/6/1957,41,0,11,35203,No,0,No,M,High School,Clerical,34,Private,13140,1,Minivan,Yes,2988,2,No,0,0,5,No,Urban
+896613125,0,4/16/1960,39,0,14,28830,No,0,No,M,High School,Clerical,50,Commercial,18930,1,Van,Yes,0,0,Yes,5,4754,1,Yes,Urban
+466811413,1,2/6/1954,45,1,13,75527,Yes,0,No,F,Bachelors,Blue Collar,31,Private,11240,7,SUV,No,2611,2,No,1,0,5,No,Urban
+918785477,0,5/2/1944,55,0,5,60745,No,233583,Yes,M,Bachelors,Manager,15,Private,15320,7,Minivan,Yes,0,0,No,0,0,14,No,Urban
+738402282,0,5/16/1976,23,5,14,11666,No,109363,Yes,F,High School,Clerical,26,Private,5080,6,Sports Car,No,0,0,No,4,540,1,Yes,Urban
+367011503,0,4/24/1951,48,0,15,15506,No,113491,Yes,M,Masters,Manager,21,Private,15590,10,Minivan,Yes,0,0,No,2,0,18,No,Urban
+238162256,0,11/7/1951,48,0,11,38329,No,0,No,F,Masters,Lawyer,18,Private,22400,4,Minivan,No,0,0,No,3,0,12,No,Urban
+474958398,0,10/22/1949,50,0,13,62626,No,0,No,F,High School,Blue Collar,36,Commercial,13790,6,SUV,No,0,0,No,1,0,10,No,Urban
+378873543,0,2/11/1936,63,0,7,52613,No,209832,Yes,F,Bachelors,Manager,46,Private,13060,3,Sports Car,No,7649,1,No,0,0,7,No,Urban
+963973563,0,10/16/1959,40,0,14,93249,No,293000,No,F,Masters,Lawyer,35,Private,27270,7,Minivan,No,0,0,No,0,0,14,No,Urban
+905198638,0,4/20/1954,45,0,14,49116,No,213351,No,F,High School,Clerical,41,Private,18510,6,SUV,No,0,0,No,0,0,1,No,Urban
+59026158,0,9/20/1946,53,0,15,107636,No,0,Yes,M,Bachelors,Professional,16,Private,26870,6,Minivan,No,0,0,No,0,0,1,No,Urban
+930962228,0,2/14/1959,40,0,8,17107,No,154357,No,F,High School,Home Maker,7,Private,22940,4,Pickup,No,7247,2,No,4,0,6,No,Urban
+595463329,0,1/31/1947,52,0,9,140534,No,387349,No,M,Masters,Professional,66,Commercial,21620,6,Van,Yes,0,0,No,0,54928,7,Yes,Urban
+275063923,0,3/22/1952,47,0,9,39837,No,147765,Yes,M,High School,Clerical,59,Private,10940,1,Pickup,Yes,0,0,No,0,0,1,No,Urban
+865839595,0,11/29/1951,47,0,11,61407,No,0,No,F,Bachelors,Clerical,16,Private,10830,13,SUV,No,0,0,No,2,0,5,No,Urban
+238170161,0,1/8/1968,31,4,14,48317,No,133939,Yes,F,High School,Clerical,15,Private,1500,1,Sports Car,No,26686,1,Yes,1,4123,1,Yes,Urban
+405245524,0,2/16/1951,48,0,10,198719,No,506607,Yes,F,PhD,Manager,30,Commercial,39720,1,Panel Truck,No,0,0,No,1,0,13,No,Urban
+562352717,0,3/6/1959,40,0,0,0,No,0,No,F,High School,Home Maker,56,Private,5260,1,Sports Car,No,0,0,No,0,4809,1,Yes,Urban
+285403579,0,8/29/1944,55,0,8,62781,No,242381,Yes,F,Bachelors,Professional,16,Private,17140,10,Minivan,No,0,0,No,2,0,15,No,Urban
+825919843,0,9/25/1962,37,0,11,30058,No,0,No,F,Bachelors,Home Maker,31,Private,18980,6,SUV,No,7890,1,No,2,0,6,No,Urban
+660450297,0,2/16/1941,58,0,12,71101,No,266848,Yes,M,High School,Blue Collar,40,Private,14160,1,Minivan,Yes,43052,2,Yes,6,4610,5,Yes,Rural
+741602674,0,3/3/1945,54,0,10,46624,No,212273,No,M,Masters,Lawyer,40,Private,18990,13,Van,No,0,0,No,0,3850,13,Yes,Urban
+287427656,0,4/12/1965,34,2,0,0,Yes,0,No,M,High School,Student,38,Private,9220,6,Pickup,Yes,7575,2,No,3,0,5,No,Urban
+505765844,0,3/3/1968,31,4,18,24323,No,0,Yes,F,High School,Student,9,Private,16830,1,Pickup,No,3846,1,No,5,0,1,No,Urban
+471663062,0,9/30/1953,46,0,11,82398,No,235439,Yes,M,Bachelors,Manager,19,Private,15890,10,Minivan,No,0,0,No,3,0,15,No,Urban
+429672274,0,7/8/1962,37,0,8,95502,No,0,No,F,Bachelors,Professional,37,Private,37180,1,Sports Car,No,1681,1,No,0,1166,11,Yes,Urban
+406648980,0,3/31/1962,37,1,84,45426,No,146780,Yes,F,High School,Blue Collar,19,Private,9740,1,SUV,No,5030,3,No,4,0,1,No,Urban
+793707317,0,8/26/1950,49,0,12,33303,No,0,Yes,F,High School,Student,33,Commercial,19940,6,SUV,No,5393,2,No,0,0,7,No,Urban
+246306250,0,1/22/1970,29,2,12,54310,Yes,174139,No,M,High School,Clerical,39,Private,1500,4,Minivan,No,5419,1,No,5,5520,6,Yes,Urban
+577436216,0,8/25/1956,43,0,12,57821,No,218089,Yes,M,Bachelors,Professional,33,Private,11580,1,Pickup,Yes,0,0,No,1,0,9,No,Urban
+19445884,0,11/29/1944,54,0,11,63027,No,0,No,M,Masters,Lawyer,52,Private,7650,1,Pickup,Yes,6927,2,No,0,3897,15,Yes,Urban
+844109080,0,8/21/1962,37,2,13,4319,No,0,Yes,M,High School,Student,36,Private,9960,6,Minivan,No,0,0,No,3,4155,1,Yes,Urban
+577235524,0,1/31/1952,47,0,10,31096,No,173254,Yes,M,High School,Clerical,31,Private,27760,4,Minivan,No,0,0,No,1,0,4,No,Urban
+848731984,0,6/14/1960,39,0,12,152271,No,0,No,M,PhD,Manager,30,Commercial,16730,1,Van,Yes,0,0,Yes,1,0,18,No,Urban
+95461310,1,5/11/1960,39,2,9,24628,No,195489,Yes,F,High School,Blue Collar,32,Commercial,18810,6,SUV,No,2415,1,No,3,6653,10,Yes,Urban
+322211418,0,8/31/1970,29,1,12,45114,No,121949,Yes,M,High School,Clerical,41,Private,8780,6,Pickup,No,0,0,No,0,0,1,No,Urban
+106831659,0,1/23/1960,39,0,13,22348,No,0,No,F,High School,Clerical,26,Private,13150,1,SUV,No,5484,1,No,0,4209,1,Yes,Urban
+437006760,0,9/29/1949,50,0,13,64934,No,235719,Yes,M,Bachelors,Manager,28,Commercial,27460,6,Panel Truck,Yes,1678,2,No,3,0,6,No,Urban
+652428209,0,1/31/1963,36,0,11,67036,No,240155,Yes,M,Masters,Professional,40,Commercial,23050,10,Panel Truck,No,3777,3,No,1,0,19,No,Urban
+303611470,0,11/1/1954,45,3,14,73867,No,231278,Yes,F,Bachelors,Clerical,14,Private,14060,11,SUV,No,1300,2,No,6,0,10,No,Urban
+435399053,0,8/13/1941,58,0,16,6657,No,0,Yes,M,High School,Student,23,Commercial,4790,1,Pickup,No,37285,3,Yes,4,3626,7,Yes,Urban
+205348223,0,6/27/1964,35,1,13,72167,Yes,0,No,M,PhD,Doctor,31,Private,19700,5,Van,Yes,7276,2,No,7,3332,13,Yes,Urban
+918305228,0,7/12/1953,46,0,7,130464,No,362541,No,F,High School,Professional,37,Private,24180,11,SUV,No,11728,2,No,4,0,1,No,Urban
+598404152,0,12/17/1946,52,0,13,605,No,0,No,F,High School,Home Maker,45,Private,19420,1,Minivan,No,0,0,No,0,0,5,No,Rural
+514109893,0,5/8/1973,26,1,9,73655,Yes,0,No,F,Bachelors,Professional,44,Commercial,9150,13,SUV,No,7303,2,No,5,3760,7,Yes,Urban
+325267397,0,12/19/1969,29,2,8,36324,Yes,0,No,M,High School,Blue Collar,30,Commercial,8030,6,Pickup,Yes,0,0,No,0,0,9,No,Rural
+881931140,0,2/3/1952,47,0,14,14632,No,0,Yes,F,Bachelors,Student,42,Commercial,7590,7,Minivan,No,2988,1,No,2,0,14,No,Urban
+411005113,0,12/17/1959,39,0,9,24492,No,0,No,F,High School,Clerical,24,Private,8710,1,SUV,No,0,0,No,2,0,8,No,Rural
+542875211,0,12/7/1953,45,3,14,64665,No,255595,Yes,M,High School,Clerical,48,Commercial,20970,1,Van,Yes,0,0,No,0,0,1,No,Rural
+968418547,0,12/7/1960,38,2,14,58833,No,193644,Yes,M,Bachelors,Blue Collar,41,Commercial,20750,1,Minivan,Yes,8403,1,No,6,2856,10,Yes,Urban
+522803483,0,10/7/1948,51,0,12,35024,No,196320,Yes,F,High School,Blue Collar,38,Private,5000,7,SUV,No,0,0,No,0,0,6,No,Rural
+116976170,1,7/4/1963,36,1,12,16950,Yes,0,No,M,High School,Blue Collar,34,Private,12190,1,Pickup,No,0,0,No,1,0,4,No,Rural
+922205147,0,8/16/1969,30,0,7,10678,No,0,No,M,High School,Clerical,22,Commercial,11700,4,Pickup,Yes,7228,1,No,8,3242,7,Yes,Urban
+333291096,0,6/13/1955,44,2,13,57267,No,208613,Yes,M,High School,Manager,23,Commercial,11630,1,Pickup,No,0,0,No,0,0,1,No,Urban
+705372363,0,6/21/1975,24,3,15,13003,No,104742,Yes,F,High School,Clerical,38,Private,1500,6,SUV,No,3230,2,No,4,1397,1,Yes,Urban
+30182732,0,1/7/1970,29,1,14,15936,No,0,Yes,F,High School,Student,28,Private,29510,4,Pickup,No,6111,2,No,0,0,1,No,Urban
+188465204,0,2/2/1950,49,0,10,70590,No,219205,Yes,M,Bachelors,Manager,28,Private,17640,10,Minivan,Yes,0,0,No,3,0,13,No,Urban
+599982867,0,1/11/1967,32,1,11,21400,Yes,0,No,F,High School,Clerical,30,Private,14790,11,Minivan,No,6373,1,No,5,4007,1,Yes,Urban
+602256369,0,6/12/1970,29,2,14,45299,No,148600,Yes,F,High School,Blue Collar,11,Commercial,21330,4,SUV,No,0,0,No,0,0,1,No,Urban
+926623047,0,5/23/1949,50,0,14,126896,No,340102,Yes,M,PhD,Manager,34,Private,1500,1,Minivan,Yes,0,0,No,2,0,16,No,Urban
+220259253,0,12/17/1976,22,0,10,5442,No,0,Yes,M,Bachelors,Student,46,Commercial,3800,1,Minivan,Yes,30922,2,Yes,6,1749,1,Yes,Urban
+77489717,0,11/6/1961,38,2,10,53532,Yes,0,No,F,High School,Blue Collar,53,Private,10650,1,Sports Car,No,6697,3,No,4,4617,4,Yes,Urban
+14412940,0,10/29/1957,42,0,6,82608,No,0,No,M,Bachelors,Blue Collar,41,Commercial,20730,6,Van,Yes,0,0,No,2,22244,1,Yes,Urban
+602299917,0,11/30/1949,49,0,11,13148,No,159195,No,M,High School,Blue Collar,71,Private,12540,6,Minivan,Yes,0,0,No,5,33591,8,Yes,Urban
+320359089,0,8/10/1972,27,1,9,37130,Yes,0,No,F,High School,Blue Collar,5,Private,7910,1,SUV,No,2616,4,No,1,4021,1,Yes,Urban
+254109469,0,5/25/1937,62,0,12,11668,No,0,No,M,Bachelors,Student,47,Private,8870,7,SUV,No,0,0,No,0,0,3,No,Rural
+274305518,0,2/14/1954,45,1,17,5306,No,0,Yes,F,High School,Student,32,Private,12990,6,SUV,No,0,0,No,0,0,1,No,Urban
+879651632,0,8/22/1955,44,0,8,45152,No,177436,Yes,M,High School,Clerical,49,Private,9180,10,Minivan,Yes,18289,2,No,6,0,1,No,Urban
+269953133,0,8/26/1951,48,0,12,49711,No,0,No,F,High School,Professional,5,Private,11270,7,SUV,No,0,0,No,0,0,7,No,Urban
+287982920,1,12/21/1960,38,1,12,149453,No,390144,Yes,M,Bachelors,Professional,24,Commercial,20250,3,Van,No,5040,1,No,0,0,6,No,Urban
+695588460,0,11/17/1961,38,4,19,30735,No,136298,Yes,F,High School,Clerical,15,Private,8370,3,SUV,No,0,0,No,2,0,4,No,Rural
+537840281,0,8/28/1963,36,0,7,36990,No,0,No,F,High School,Clerical,35,Private,5100,11,SUV,No,0,0,No,0,0,1,No,Rural
+782271696,0,10/24/1958,41,0,13,55138,No,0,No,F,Bachelors,Blue Collar,29,Commercial,16880,10,SUV,No,0,0,Yes,0,3762,13,Yes,Urban
+13237023,0,10/23/1947,52,0,12,23406,No,175922,No,M,High School,Blue Collar,25,Private,6960,13,Pickup,Yes,0,0,No,0,0,8,No,Urban
+413358029,0,10/18/1954,45,1,12,212914,Yes,553525,No,M,PhD,Doctor,24,Private,14830,1,Minivan,Yes,25614,2,Yes,4,0,20,No,Urban
+700098445,0,4/22/1957,42,0,12,82660,No,208431,No,F,Masters,Lawyer,59,Private,9770,6,SUV,No,0,0,No,0,0,19,No,Urban
+141897395,0,7/1/1953,46,0,14,125379,No,347068,Yes,M,Masters,Lawyer,29,Private,18640,1,Van,No,0,0,No,2,0,17,No,Urban
+644968163,0,3/19/1934,65,0,0,0,No,94474,Yes,F,High School,Home Maker,24,Private,8000,1,Sports Car,No,37129,2,Yes,0,1758,6,Yes,Urban
+574782195,0,1/14/1940,59,0,8,137279,No,349652,Yes,F,Masters,Lawyer,59,Private,16430,11,SUV,No,9849,3,No,3,0,19,No,Urban
+146492809,0,5/11/1967,32,2,10,52102,No,213376,Yes,F,High School,Clerical,23,Private,10750,9,SUV,No,7476,3,No,2,0,1,No,Urban
+621666580,0,3/5/1964,35,1,12,15234,No,115903,Yes,F,High School,Clerical,6,Private,6520,20,Sports Car,No,7535,2,No,5,0,4,No,Urban
+283577004,0,8/29/1952,47,0,10,57607,No,0,No,M,High School,Blue Collar,24,Commercial,12970,10,Minivan,Yes,8917,1,Yes,5,4289,1,Yes,Rural
+420936375,0,12/9/1963,35,0,0,0,No,0,Yes,M,High School,Student,5,Commercial,1500,9,Minivan,Yes,7160,3,No,0,0,1,No,Urban
+634782735,0,10/15/1965,34,0,9,31052,No,116137,Yes,F,High School,Clerical,63,Private,13700,5,SUV,No,0,0,No,2,5884,7,Yes,Urban
+657953193,0,9/5/1948,51,0,11,65979,No,164614,Yes,M,High School,Manager,35,Private,19990,4,Van,Yes,0,0,No,0,1669,1,Yes,Urban
+250477489,0,2/6/1954,45,0,14,79941,No,258068,Yes,F,Masters,Lawyer,35,Private,20720,4,Pickup,No,1826,3,No,0,0,15,No,Urban
+224170926,0,7/18/1958,41,3,0,0,No,0,Yes,F,Bachelors,Student,40,Commercial,12830,1,SUV,No,0,0,No,0,0,5,No,Rural
+333169593,0,10/26/1948,51,0,7,76916,No,255588,Yes,F,Masters,Professional,20,Private,21080,7,SUV,No,0,0,No,0,0,5,No,Urban
+813753191,0,3/13/1956,43,1,14,39140,No,173591,Yes,F,High School,Clerical,21,Private,26470,7,Pickup,No,0,0,No,0,0,1,No,Rural
+325158489,0,6/22/1963,36,2,12,39400,No,152463,Yes,F,High School,Clerical,54,Private,5100,1,SUV,No,0,0,No,0,2034,1,Yes,Urban
+327882186,1,3/6/1962,37,2,0,0,No,80883,Yes,F,Bachelors,Home Maker,26,Private,7070,1,Sports Car,No,982,3,No,1,2753,6,Yes,Urban
+514595523,0,8/3/1955,44,0,0,0,No,97040,Yes,F,High School,Home Maker,36,Private,1500,7,SUV,No,0,0,No,1,0,8,No,Rural
+14285900,0,4/25/1946,53,0,13,117854,No,0,No,M,Masters,Lawyer,5,Private,6800,10,Pickup,Yes,0,0,No,0,0,1,No,Rural
+960111964,0,12/4/1951,47,0,0,0,No,121454,Yes,F,Masters,Home Maker,23,Commercial,23060,17,Pickup,No,8752,3,No,0,4868,18,Yes,Urban
+218053322,1,11/25/1941,57,1,14,41645,No,160772,Yes,M,High School,Professional,23,Commercial,7200,4,Pickup,Yes,5040,2,No,0,4389,5,Yes,Urban
+804109445,0,1/17/1945,54,0,13,77864,No,299542,Yes,M,Bachelors,Blue Collar,72,Commercial,26930,1,Minivan,Yes,0,0,No,0,0,13,No,Rural
+600674233,0,6/6/1953,46,0,10,37360,No,0,No,F,Masters,Home Maker,24,Private,22770,4,Minivan,No,0,0,No,1,0,16,No,Rural
+148932515,0,9/1/1962,37,0,12,102604,No,276929,Yes,M,Bachelors,Professional,38,Commercial,21620,7,Van,No,5222,1,No,2,4451,1,Yes,Urban
+302594351,0,9/22/1943,56,0,15,118666,No,335737,Yes,M,Bachelors,Blue Collar,59,Commercial,15390,1,Minivan,Yes,0,0,No,0,0,9,No,Rural
+9283031,0,6/15/1934,65,0,15,22481,No,127617,Yes,F,High School,Clerical,14,Private,11340,9,Sports Car,No,33075,1,Yes,0,4699,1,Yes,Urban
+98258048,0,1/11/1946,53,0,9,12336,No,136383,No,F,PhD,Home Maker,33,Private,25950,1,Minivan,No,2367,1,No,5,0,10,No,Urban
+70771420,0,6/27/1973,26,1,12,50402,No,169080,Yes,F,High School,Clerical,48,Private,9140,6,Sports Car,No,7567,1,No,0,0,1,No,Rural
+408480738,0,3/24/1947,52,0,7,64531,No,0,No,M,Bachelors,Blue Collar,34,Commercial,6700,10,Pickup,No,5524,2,No,2,4419,16,Yes,Urban
+379183515,0,4/8/1949,50,0,14,17557,No,81891,Yes,F,High School,Clerical,21,Private,9540,1,SUV,No,0,0,No,0,0,9,No,Urban
+308799522,0,10/9/1955,44,0,11,62346,No,0,No,M,Masters,Professional,42,Private,5900,1,Pickup,Yes,0,0,Yes,0,0,18,No,Urban
+96173378,0,12/2/1946,52,0,11,81849,No,273961,Yes,F,High School,Blue Collar,56,Commercial,6700,1,SUV,No,4235,3,No,6,5497,1,Yes,Urban
+843851522,1,2/3/1962,37,2,7,89343,Yes,251826,No,F,Bachelors,Professional,64,Private,14130,1,Sports Car,No,6265,2,No,0,3643,8,Yes,Urban
+108496672,0,9/22/1956,43,2,16,63612,No,220417,Yes,M,High School,Clerical,57,Private,12160,10,Minivan,No,0,0,No,1,0,1,No,Rural
+519300087,0,12/14/1951,47,0,8,63752,No,0,No,F,Bachelors,Blue Collar,49,Private,9550,1,Minivan,No,0,0,No,0,0,1,No,Urban
+847998804,0,6/30/1958,41,0,12,17996,No,94434,No,F,High School,Home Maker,27,Private,5600,10,SUV,No,1391,1,No,1,0,6,No,Urban
+672549561,0,2/12/1948,51,0,11,102410,No,0,No,M,Masters,Professional,56,Private,14620,3,Minivan,No,0,0,No,0,0,14,No,Urban
+530251708,1,1/11/1960,39,1,12,70673,No,223484,Yes,M,High School,Blue Collar,55,Commercial,17900,1,Van,No,0,0,No,0,0,9,No,Rural
+185505417,0,11/28/1950,48,0,0,0,No,0,No,F,High School,Home Maker,5,Private,8640,1,SUV,No,0,0,No,4,0,1,No,Urban
+66782260,0,3/29/1965,34,2,12,55229,No,202455,Yes,F,Bachelors,Blue Collar,56,Commercial,8390,10,SUV,No,0,0,No,0,0,6,No,Urban
+214927448,0,1/7/1941,58,0,8,77886,No,270550,Yes,M,Bachelors,Professional,34,Commercial,42010,4,Panel Truck,Yes,6138,1,No,8,0,8,No,Urban
+805454074,0,4/11/1965,34,0,5,59972,No,165806,No,M,Bachelors,Professional,51,Commercial,23040,1,Panel Truck,No,0,0,No,3,931,7,Yes,Urban
+607763262,0,9/22/1956,43,0,6,39273,No,0,No,M,High School,Blue Collar,39,Commercial,21660,6,Van,No,0,0,No,0,0,1,No,Rural
+352733454,0,7/27/1962,37,0,7,114636,No,300906,Yes,F,Bachelors,Manager,34,Private,33240,6,SUV,No,0,0,No,2,0,12,No,Urban
+761909052,0,11/27/1957,41,0,10,27907,No,152144,No,F,High School,Home Maker,40,Private,8390,6,Sports Car,No,0,0,No,4,0,6,No,Rural
+318075197,1,7/20/1937,62,1,2,54776,No,237217,Yes,F,Masters,Lawyer,16,Private,15770,4,Sports Car,No,11035,1,No,6,0,14,No,Urban
+457288786,2,11/23/1958,40,2,14,12339,No,107774,Yes,M,Masters,Manager,47,Commercial,22310,1,Van,Yes,3816,3,No,5,7406,15,Yes,Urban
+973329537,0,12/17/1952,46,0,9,19814,No,0,Yes,M,High School,Student,14,Private,7310,7,Pickup,Yes,0,0,No,0,0,1,No,Urban
+821783400,0,6/16/1956,43,2,15,97610,No,0,Yes,F,Masters,Lawyer,14,Private,21720,1,Pickup,No,0,0,No,1,0,15,No,Urban
+945502940,0,3/27/1957,42,0,6,22019,No,140727,Yes,M,High School,Blue Collar,47,Commercial,12100,1,Minivan,Yes,1738,1,No,0,0,9,No,Urban
+493488273,1,10/28/1958,41,2,15,79648,Yes,0,No,F,Masters,Lawyer,18,Private,25990,1,Minivan,No,0,0,Yes,3,0,14,No,Urban
+384934557,0,1/20/1961,38,1,0,0,No,0,Yes,F,High School,Student,17,Private,5850,6,SUV,No,5090,1,No,6,3333,8,Yes,Rural
+117032050,0,9/9/1952,47,0,11,69616,No,264840,Yes,M,Bachelors,Blue Collar,63,Commercial,10510,4,Minivan,No,0,0,No,0,0,13,No,Urban
+151800477,0,11/27/1969,29,2,13,26413,No,172043,Yes,F,High School,Clerical,29,Commercial,16200,4,Pickup,No,0,0,No,1,8484,1,Yes,Urban
+786755285,0,4/6/1961,38,0,12,31615,No,151255,Yes,M,High School,Blue Collar,36,Private,5400,1,Pickup,No,4843,3,No,0,0,1,No,Urban
+650019033,0,10/15/1937,62,0,12,34033,No,0,No,M,High School,Blue Collar,69,Commercial,11100,14,Sports Car,No,4821,3,No,7,8162,1,Yes,Urban
+521036720,0,12/31/1951,47,0,0,0,No,0,No,M,Bachelors,Student,25,Commercial,12030,1,Minivan,Yes,0,0,No,0,0,14,No,Urban
+391162020,0,4/15/1971,28,2,10,23427,No,98357,Yes,F,High School,Clerical,50,Private,6640,4,SUV,No,17308,3,Yes,6,4026,1,Yes,Urban
+803824722,2,11/15/1955,44,2,13,155897,Yes,398191,No,F,Masters,Lawyer,84,Private,33800,4,Minivan,No,0,0,No,1,0,12,No,Rural
+386659377,0,11/2/1969,30,2,11,134792,Yes,304438,No,F,Bachelors,Blue Collar,28,Commercial,23560,6,Pickup,No,0,0,No,3,0,9,No,Urban
+40478781,1,11/25/1961,37,1,7,17589,No,132645,Yes,F,High School,Clerical,51,Private,9370,6,SUV,No,0,0,No,0,0,1,No,Urban
+664012623,0,3/20/1942,57,0,12,68350,No,222894,Yes,M,Bachelors,Blue Collar,15,Commercial,18700,8,Van,No,2757,1,No,1,0,11,No,Urban
+108286925,0,5/10/1950,49,0,12,4542,No,116360,Yes,F,Bachelors,Home Maker,33,Private,6850,6,SUV,No,0,0,No,0,0,5,No,Urban
+292763066,0,9/7/1946,53,0,13,70494,No,227305,Yes,M,PhD,Manager,22,Private,13850,4,Minivan,Yes,0,0,No,3,0,15,No,Urban
+93454550,0,1/6/1964,35,1,0,0,No,0,Yes,F,High School,Student,53,Private,11630,1,SUV,No,9624,2,No,6,4027,1,Yes,Urban
+966115349,0,7/2/1954,45,2,15,39196,Yes,0,No,F,High School,Professional,25,Private,17300,14,Sports Car,No,7410,3,No,3,0,1,No,Urban
+311621084,0,9/23/1959,40,3,17,96169,No,281910,Yes,F,Bachelors,Manager,34,Private,17170,10,Minivan,No,0,0,No,2,0,8,No,Urban
+303127881,1,11/17/1958,41,4,16,38819,No,154796,Yes,M,High School,Blue Collar,57,Commercial,27910,10,Panel Truck,Yes,4858,2,No,0,0,1,No,Urban
+191509516,0,11/14/1954,45,0,12,20850,No,129556,Yes,F,High School,Clerical,48,Commercial,17920,9,SUV,No,0,0,No,1,0,1,No,Rural
+695212192,0,6/5/1942,57,0,12,55119,No,232678,Yes,M,Masters,Lawyer,29,Private,12710,6,Minivan,Yes,0,0,No,2,0,14,No,Urban
+321984667,0,6/12/1947,52,0,14,27616,No,167006,Yes,M,Masters,Lawyer,49,Private,9460,7,Minivan,Yes,0,0,No,0,0,10,No,Urban
+807596757,0,1/8/1959,40,1,9,44138,Yes,0,No,M,High School,Blue Collar,46,Commercial,22590,6,Panel Truck,No,1799,4,No,2,0,1,No,Urban
+932313066,0,1/30/1954,45,0,9,38290,No,157907,Yes,M,High School,Blue Collar,39,Commercial,9830,9,Pickup,No,1434,2,No,0,0,8,No,Urban
